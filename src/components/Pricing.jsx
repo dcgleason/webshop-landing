@@ -118,7 +118,7 @@ export function Pricing() {
             name="Monthly"
             price="$1995/month"
             description="Paid monthly. Cancel anytime."
-            href="#princing"
+            href="mailto:dan@webshopwizards.com?subject=New%20Client&body=I'd%20like%20to%20become%20a%20client%20billed%20monthly."
             features={[
               'Custom theme development',
               'Logo and visual branding',
@@ -136,7 +136,7 @@ export function Pricing() {
             name="Quarterly"
             price="$1495/month"
             description="Paid quarterly for a 20% discount."
-            href="/register"
+            href="mailto:dan@webshopwizards.com?subject=New%20Client&body=I'd%20like%20to%20become%20a%20client%20billed%20quarterly."
             features={[
               'Custom theme development',
               'Logo and visual branding',
@@ -153,7 +153,7 @@ export function Pricing() {
             name="Yearly"
             price="$995/month"
             description="Paid yearly for a 30% discount."
-            href="/register"
+            href="mailto:dan@webshopwizards.com?subject=New%20Client&body=I'd%20like%20to%20become%20a%20client%20billed%20yearly."
             features={[
               'Custom theme development',
               'Logo and visual branding',
