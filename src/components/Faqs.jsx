@@ -69,7 +69,7 @@ export function Faqs() {
             Frequently asked questions
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">
-           If you have questions not listed here, please email us at <a className="underline"href="mailto:dan@webshopwizards.com">this email address</a> , and we will get back to you as soon as possible.
+           If you have questions not listed here, please email us at <a className="underline"href="mailto:dan@webshopwizards.com">dan@webshopwizards.com</a> , and we will get back to you as soon as possible.
           </p>
         </div>
         <ul
