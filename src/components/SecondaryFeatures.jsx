@@ -46,7 +46,7 @@ const features = [
   {
     name: 'Dedicated Support',
     summary:
-      'Get expert assistance whenever you need it, right at your fingertips.',
+      'Get expert assistance whenever you need it.',
     description:
       "Our team of Shopify wizards is always ready to assist, guide, and support you in your ecommerce journey.",
     image: screenshotInventory,
