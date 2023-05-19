@@ -134,7 +134,7 @@ export function Pricing() {
           <Plan
             featured
             name="Quarterly"
-            price="$1495/month"
+            price="$1595/month"
             description="Paid quarterly for a 20% discount."
             href="mailto:dan@webshopwizards.com?subject=New%20Client&body=I'd%20like%20to%20become%20a%20client%20billed%20quarterly."
             features={[
@@ -151,7 +151,7 @@ export function Pricing() {
           />
           <Plan
             name="Yearly"
-            price="$995/month"
+            price="$1395/month"
             description="Paid yearly for a 30% discount."
             href="mailto:dan@webshopwizards.com?subject=New%20Client&body=I'd%20like%20to%20become%20a%20client%20billed%20yearly."
             features={[
