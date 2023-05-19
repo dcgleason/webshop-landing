@@ -105,7 +105,7 @@ function Feature({ feature, isActive, className, ...props }) {
       <div
         className={clsx(
           'w-9 rounded-lg',
-          isActive ? 'bg-blue-600' : 'bg-slate-500'
+          isActive ? 'bg-[#5271ff]' : 'bg-slate-500'
         )}
       >
         <svg aria-hidden="true" className="h-9 w-9" fill="none">
@@ -115,7 +115,7 @@ function Feature({ feature, isActive, className, ...props }) {
       <h3
         className={clsx(
           'mt-6 text-sm font-medium',
-          isActive ? 'text-blue-600' : 'text-slate-600'
+          isActive ? 'text-[#5271ff]' : 'text-slate-600'
         )}
       >
         {feature.name}
@@ -216,10 +216,10 @@ export function SecondaryFeatures() {
       <Container>
         <div className="mx-auto max-w-2xl md:text-center">
           <h2 className="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">
-          We offer responsive and reliable services to our clients
+          We pride ourselves in being responsive and reliable. 
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">
-        Highlights of these services include:
+        Our services include:
           </p>
         </div>
         <FeaturesMobile />

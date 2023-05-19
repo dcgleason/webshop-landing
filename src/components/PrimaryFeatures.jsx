@@ -59,7 +59,7 @@ export function PrimaryFeatures() {
     <section
       id="features"
       aria-label="Features for running your books"
-      className="relative overflow-hidden bg-blue-600 pb-28 pt-20 sm:py-32"
+      className="relative overflow-hidden bg-[#5271ff] pb-28 pt-20 sm:py-32"
     >
       <Image
         className="absolute left-1/2 top-1/2 max-w-none translate-x-[-44%] translate-y-[-42%]"
@@ -103,7 +103,7 @@ export function PrimaryFeatures() {
                           className={clsx(
                             'font-display text-lg [&:not(:focus-visible)]:focus:outline-none',
                             selectedIndex === featureIndex
-                              ? 'text-blue-600 lg:text-white'
+                              ? 'text-[#5271ff] lg:text-white'
                               : 'text-blue-100 hover:text-white lg:text-white'
                           )}
                         >
