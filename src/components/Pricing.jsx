@@ -116,7 +116,7 @@ export function Pricing() {
         <div className="-mx-4 mt-16 grid max-w-2xl grid-cols-1 gap-y-10 sm:mx-auto lg:-mx-8 lg:max-w-none lg:grid-cols-3 xl:mx-0 xl:gap-x-8">
           <Plan
             name="Monthly"
-            price="$1995/month"
+            price="$995/month"
             description="Paid monthly. Cancel anytime."
             href="mailto:dan@webshopwizards.com?subject=New%20Client&body=I'd%20like%20to%20become%20a%20client%20billed%20monthly!"
             features={[
@@ -134,7 +134,7 @@ export function Pricing() {
           <Plan
             featured
             name="Quarterly"
-            price="$1595/month"
+            price="$795/month"
             description="Paid quarterly for a 20% discount."
             href="mailto:dan@webshopwizards.com?subject=New%20Client&body=I'd%20like%20to%20become%20a%20client%20billed%20quarterly!"
             features={[
@@ -151,7 +151,7 @@ export function Pricing() {
           />
           <Plan
             name="Yearly"
-            price="$1395/month"
+            price="$695/month"
             description="Paid yearly for a 30% discount."
             href="mailto:dan@webshopwizards.com?subject=New%20Client&body=I'd%20like%20to%20become%20a%20client%20billed%20yearly!"
             features={[
