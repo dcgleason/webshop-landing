@@ -6,53 +6,41 @@ import backgroundImage from '@/images/background-faqs.jpg'
 const faqs = [
   [
     {
-      question: 'Does TaxPal handle VAT?',
+      question: 'Why Webshop Wizards?',
       answer:
-        'Well no, but if you move your company offshore you can probably ignore it.',
+      "Good question! The average annual pay for a Shopify developer is $80,000. We charge $17,940 per year. Additionally, with the monthly plan, you can pause and resume your subscription as often as you need to ensure you're only paying when you have work that needs to be done."
     },
     {
-      question: 'Can I pay for my subscription via purchase order?',
-      answer: 'Absolutely, we are happy to take your money in all forms.',
+      question: 'Is there a limit to how many requests I can make?',
+      answer: 'Once subscribed, you can make as many requests as you like, and they will be delivered one by one.',
     },
-    {
-      question: 'How do I apply for a job at TaxPal?',
-      answer:
-        'We only hire our customers, so subscribe for a minimum of 6 months and then let’s talk.',
-    },
+  
   ],
   [
     {
-      question: 'What was that testimonial about tax fraud all about?',
+      question: 'Who are the developers and designers?',
       answer:
-        'TaxPal is just a software application, ultimately your books are your responsibility.',
+        'You might be surpirsed to hear this, but Webshop Wizards is actually a family business. We are two brothers, one a product designer and the other an experienced web developer.',
     },
     {
-      question:
-        'TaxPal sounds horrible but why do I still feel compelled to purchase?',
+      question: 'How fast will I get my finished store?',
       answer:
-        'This is the power of excellent visual design. You just can’t resist it, no matter how poorly it actually functions.',
+        'A fully customized theme can take upwards of three days to complete (in order to ensure very fast response and turnaround times, we only take on a small number of clients at a time).',
     },
-    {
-      question:
-        'I found other companies called TaxPal, are you sure you can use this name?',
-      answer:
-        'Honestly not sure at all. We haven’t actually incorporated or anything, we just thought it sounded cool and made this website.',
-    },
+  
   ],
   [
     {
-      question: 'How do you generate reports?',
+      question:
+        'How do I make requests for design and development features and changes?',
       answer:
-        'You just tell us what data you need a report for, and we get our kids to create beautiful charts for you using only the finest crayons.',
+        'Webshop Wizards offer a ton of flexibility in how you request make requests using Trello. Some common ways clients request designs is directly via Trello, sharing Google docs or wireframes, or even recording a brief Loom video (for those who prefer not to write their briefs out). Basically, if it can be linked to or shared in Trello, we can work with it.',
     },
     {
-      question: 'Can we expect more inventory features?',
-      answer: 'In life it’s really better to never expect anything at all.',
-    },
-    {
-      question: 'I lost my password, how do I get into my account?',
+      question:
+        "Are there refunds if I don't like the service?",
       answer:
-        'Send us an email and we will send you a copy of our latest password spreadsheet so you can find your information.',
+        'Due to the high quality nature of the work, there will be no refunds.',
     },
   ],
 ]
@@ -81,8 +69,7 @@ export function Faqs() {
             Frequently asked questions
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">
-            If you can’t find what you’re looking for, email our support team
-            and if you’re lucky someone will get back to you.
+           If you have questions not listed here, please email us at <a className="underline"href="mailto:dan@webshopwizards.com">this email address</a> , and we will get back to you as soon as possible.
           </p>
         </div>
         <ul
