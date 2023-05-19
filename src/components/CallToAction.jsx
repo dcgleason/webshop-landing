@@ -24,7 +24,7 @@ export function CallToAction() {
             Get started today
           </h2>
           <p className="mt-4 text-lg tracking-tight text-white">
-        Your business success is our priority. We are here to help you grow your business.
+        Your success is our priority. We are here to help you grow your business.
           </p>
           <Button href="/register" color="white" className="mt-10">
            Sign-up
