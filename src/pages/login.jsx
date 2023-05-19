@@ -4,8 +4,7 @@ import Link from 'next/link'
 import { AuthLayout } from '@/components/AuthLayout'
 import { Button } from '@/components/Button'
 import { TextField } from '@/components/Fields'
-import { Logo } from '@/images/logos/web-cap.png'
-import { Image } from "next/image"
+import Image  from "next/image"
 
 export default function Login() {
   return (
@@ -16,7 +15,7 @@ export default function Login() {
       <AuthLayout>
         <div className="flex flex-col">
           <Link href="/" aria-label="Home">
-            <Image src={Logo} height={10} width={10} />
+            <Image src="/web-cap-blue.png" alt="Logo" height={10} width={10} />
           </Link>
           <div className="mt-20">
             <h2 className="text-lg font-semibold text-gray-900">
