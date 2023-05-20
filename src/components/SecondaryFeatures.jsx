@@ -11,7 +11,7 @@ import screenshotProfitLoss from '@/images/screenshots/profit-loss.png'
 const features = [
   {
     name: 'Unlimited Revisions',
-    summary: 'Your complete satisfaction is our ultimate goal. Enjoy unlimited revisions until we hit the mark.',
+    summary: 'Enjoy unlimited revisions until we hit the mark.',
     description:
       "We're not happy until you're thrilled. Our unlimited revisions ensure your Shopify store is exactly as you envisioned.",
     image: screenshotProfitLoss,
@@ -74,7 +74,7 @@ const features = [
   {
     name: 'Totally Async',
     summary:
-      "We don't let meetings and scheduling challenges get in the way of you achievig your business results.",
+      "We don't let meetings and scheduling challenges get in the way of your business results.",
     description:
       "You'll get your own Trello board to request features, track progress, communicate with your team and us. We let you invite an unlimited amoung of Trello users. No meetings, less hassle.",
     image: screenshotContacts,
