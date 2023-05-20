@@ -13,7 +13,7 @@ const testimonials = [
       content:
         "I hired Stevie to bring our product to life. He fought in the trenches with me to help us find our brand and crystalize our vision. He made our difficult challenge fun to work on thanks to his unmatched dedication and passion.",
       author: {
-        name: 'Chris',
+        name: 'Chris Paterno',
         role: 'CEO/Founder @ Heard.com',
         image: avatarImage1,
       },
@@ -22,7 +22,7 @@ const testimonials = [
       content:
        "Danny is GREAT to work with and an awesome collaborator. He and I completed this integration of two systems. At one point after he left the project, a comment was made ‘Where is Dan? Bring him back because we actually get work done. Given the opportunity, I would flip tables over to work with him again. He's that good.",
       author: {
-        name: 'Addam',
+        name: 'Addam Driver',
         role: 'Lead Solutions Architedct @ HHS',
         image: avatarImage4,
       },
@@ -33,7 +33,7 @@ const testimonials = [
       content:
         'We hired Stephen to come alongside our lead designer and help us create high-level UI/UX designs for a new product launch. He completely over-delivered, and we could not be more thrilled with his skills and professionalism.',
       author: {
-        name: 'Katie',
+        name: 'Katie King',
         role: 'Head of Product Design at StoryFile',
         image: avatarImage5,
       },
@@ -42,7 +42,7 @@ const testimonials = [
       content:
         "Dan always goes the extra mile to get in depth information on a topic when you have a question. He never gives you just the bare minimum information and it is this level of detail and curiosity that drives his continued improvement. I thoroughly enjoyed working with Dan in the short time we had together.",
       author: {
-        name: 'Harry',
+        name: 'Harry Wilson',
         role: 'Application Developer @ IBM',
         image: avatarImage2,
       },
@@ -53,7 +53,7 @@ const testimonials = [
       content:
         'Stevie was a joy to work with - prompt, incredibly detailed, and professional. Wholeheartedly recommend him for any and all design work!',
       author: {
-        name: 'Ben',
+        name: 'Ben Painter',
         role: 'Co-Founder and Partner at WholeSchool Mindfulness',
         image: avatarImage3,
       },
