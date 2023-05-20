@@ -23,7 +23,7 @@ const testimonials = [
         "I hired Stevie to bring our product to life. He fought in the trenches with me to help us find our brand and crystalize our vision. He made our difficult challenge fun to work on thanks to his unmatched dedication and passion.",
       author: {
         name: 'Chris Paterno',
-        role: 'CEO/Founder @ Heard.com',
+        role: 'CEO/Founder @ Heard',
         image: avatarImage1,
       },
     },
@@ -34,7 +34,7 @@ const testimonials = [
         'We hired Stephen to come alongside our lead designer and help us create high-level UI/UX designs for a new product launch. He completely over-delivered, and we could not be more thrilled with his skills and professionalism.',
       author: {
         name: 'Katie King',
-        role: 'Head of Product Design at StoryFile',
+        role: 'Head of Product Design @ StoryFile',
         image: avatarImage5,
       },
     },
@@ -54,7 +54,7 @@ const testimonials = [
         'Stevie was a joy to work with - prompt, incredibly detailed, and professional. Wholeheartedly recommend him for any and all design work!',
       author: {
         name: 'Ben Painter',
-        role: 'Co-Founder and Partner at WholeSchool Mindfulness',
+        role: 'Co-Founder and Partner @ WholeSchool Mindfulness',
         image: avatarImage3,
       },
     },
