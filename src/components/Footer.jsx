@@ -12,8 +12,8 @@ export function Footer() {
         <Image src='/web-cap-blue.png' height={10} alt="logo" width={10} />
           <nav className="mt-10 text-sm" aria-label="quick links">
             <div className="-my-1 flex justify-center gap-x-6">
-              <NavLink href="#features">Features</NavLink>
-              {/* <NavLink href="#testimonials">Testimonials</NavLink> */}
+              <NavLink href="#secondary-features">Features</NavLink>
+              <NavLink href="#testimonials">Testimonials</NavLink>
               <NavLink href="#pricing">Pricing</NavLink>
             </div>
           </nav>
