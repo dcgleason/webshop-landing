@@ -11,19 +11,19 @@ const testimonials = [
   [
     {
       content:
-        'Webshop Wizards is so easy to use I can’t help but wonder if it’s really doing the things the government expects me to do.',
+        "I hired Stevie to bring our product to life. He fought in the trenches with me to help us find our brand and crystalize our vision. He made our difficult challenge fun to work on thanks to his unmatched dedication and passion.",
       author: {
-        name: 'Sheryl Berge',
-        role: 'CEO at Lynch LLC',
+        name: 'Chris',
+        role: 'CEO/Founder @ Heard.com',
         image: avatarImage1,
       },
     },
     {
       content:
-        'I’m trying to get a hold of someone in support, I’m in a lot of trouble right now and they are saying it has something to do with my books. Please get back to me right away.',
+       "Danny is GREAT to work with and an awesome collaborator. He and I completed this integration of two systems. At one point after he left the project, a comment was made ‘Where is Dan? Bring him back because we actually get work done. Given the opportunity, I would flip tables over to work with him again. He's that good.",
       author: {
-        name: 'Amy Hahn',
-        role: 'Director at Velocity Industries',
+        name: 'Addam',
+        role: 'Lead Solutions Architedct @ HHS',
         image: avatarImage4,
       },
     },
@@ -31,19 +31,19 @@ const testimonials = [
   [
     {
       content:
-        'The best part about Webshop Wizards is every time I pay my employees, my bank balance doesn’t go down like it used to. Looking forward to spending this extra cash when I figure out why my card is being declined.',
+        'We hired Stephen to come alongside our lead designer and help us create high-level UI/UX designs for a new product launch. He completely over-delivered, and we could not be more thrilled with his skills and professionalism.',
       author: {
-        name: 'Leland Kiehn',
-        role: 'Founder of Kiehn and Sons',
+        name: 'Katie',
+        role: 'Head of Product Design at StoryFile',
         image: avatarImage5,
       },
     },
     {
       content:
-        'There are so many things I had to do with my old software that I just don’t do at all with Webshop Wizards. Suspicious but I can’t say I don’t love it.',
+        "Dan always goes the extra mile to get in depth information on a topic when you have a question. He never gives you just the bare minimum information and it is this level of detail and curiosity that drives his continued improvement. I thoroughly enjoyed working with Dan in the short time we had together.",
       author: {
-        name: 'Erin Powlowski',
-        role: 'COO at Armstrong Inc',
+        name: 'Harry',
+        role: 'Application Developer @ IBM',
         image: avatarImage2,
       },
     },
@@ -51,20 +51,11 @@ const testimonials = [
   [
     {
       content:
-        'I used to have to remit tax to the EU and with Webshop Wizards I somehow don’t have to do that anymore. Nervous to travel there now though.',
+        'Stevie was a joy to work with - prompt, incredibly detailed, and professional. Wholeheartedly recommend him for any and all design work!',
       author: {
-        name: 'Peter Renolds',
-        role: 'Founder of West Inc',
+        name: 'Ben',
+        role: 'Co-Founder and Partner at WholeSchool Mindfulness',
         image: avatarImage3,
-      },
-    },
-    {
-      content:
-        'This is the fourth email I’ve sent to your support team. I am literally being held in jail for tax fraud. Please answer your damn emails, this is important.',
-      author: {
-        name: 'Amy Hahn',
-        role: 'Director at Velocity Industries',
-        image: avatarImage4,
       },
     },
   ],
