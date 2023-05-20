@@ -11,20 +11,20 @@ const testimonials = [
   [
     {
       content:
-        "I hired Stevie to bring our product to life. He fought in the trenches with me to help us find our brand and crystalize our vision. He made our difficult challenge fun to work on thanks to his unmatched dedication and passion.",
-      author: {
-        name: 'Chris Paterno',
-        role: 'CEO/Founder @ Heard.com',
-        image: avatarImage1,
-      },
-    },
-    {
-      content:
        "Danny is GREAT to work with and an awesome collaborator. He and I completed this integration of two systems. At one point after he left the project, a comment was made ‘Where is Dan? Bring him back because we actually get work done. Given the opportunity, I would flip tables over to work with him again. He's that good.",
       author: {
         name: 'Addam Driver',
         role: 'Lead Solutions Architedct @ HHS',
         image: avatarImage4,
+      },
+    },
+    {
+      content:
+        "I hired Stevie to bring our product to life. He fought in the trenches with me to help us find our brand and crystalize our vision. He made our difficult challenge fun to work on thanks to his unmatched dedication and passion.",
+      author: {
+        name: 'Chris Paterno',
+        role: 'CEO/Founder @ Heard.com',
+        image: avatarImage1,
       },
     },
   ],
