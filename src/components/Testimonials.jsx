@@ -14,7 +14,7 @@ const testimonials = [
        "Danny is GREAT to work with and an awesome collaborator. He and I completed this integration of two systems. At one point after he left the project, a comment was made ‘Where is Dan? Bring him back because we actually get work done. Given the opportunity, I would flip tables over to work with him again. He's that good.",
       author: {
         name: 'Addam Driver',
-        role: 'Lead Solutions Architedct @ HHS',
+        role: 'Lead Solutions Architect @ HHS',
         image: avatarImage4,
       },
     },
