@@ -77,7 +77,7 @@ function MobileNavigation() {
             as="div"
             className="absolute inset-x-0 top-full mt-4 flex origin-top flex-col rounded-2xl bg-white p-4 text-lg tracking-tight text-slate-900 shadow-xl ring-1 ring-slate-900/5"
           >
-            <MobileNavLink href="#features">Features</MobileNavLink>
+            <MobileNavLink href="#secondary-features">Features</MobileNavLink>
             <MobileNavLink href="#testimonials">Testimonialas</MobileNavLink>
             <MobileNavLink href="#pricing">Pricing</MobileNavLink>
             <hr className="m-2 border-slate-300/40" />
@@ -98,7 +98,7 @@ export function Header() {
               <Image src='/web-cap-blue.png' alt="Logo" width={100} height={100} />
             </Link>
             <div className="hidden md:flex md:gap-x-6">
-              <NavLink href="#features">Features</NavLink>
+              <NavLink href="#secondary-features">Features</NavLink>
               <NavLink href="#testimonials">Tetimonials</NavLink>
               <NavLink href="#pricing">Pricing</NavLink>
             </div>
