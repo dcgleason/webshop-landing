@@ -74,7 +74,7 @@ const features = [
   {
     name: 'Totally Async',
     summary:
-      "We don't let meetings and scheduling challenges get in the way of your business results.",
+      "Meetings slow everything down, so we don't have them.",
     description:
       "You'll get your own Trello board to request features, track progress, communicate with your team and us. We let you invite an unlimited amoung of Trello users. No meetings, less hassle.",
     image: screenshotContacts,
