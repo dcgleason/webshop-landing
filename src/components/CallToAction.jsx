@@ -26,7 +26,7 @@ export function CallToAction() {
           <p className="mt-4 text-lg tracking-tight text-white">
         Your success is our priority. That is why we are here to help you grow your business.
           </p>
-          <Button href="/register" color="white" className="mt-10">
+          <Button href="/#pricing" color="white" className="mt-10">
            Sign-up
           </Button>
         </div>
