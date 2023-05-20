@@ -76,7 +76,7 @@ const features = [
     summary:
       "Meetings slow everything down, so we don't have them.",
     description:
-      "You'll get your own Trello board to request features, track progress, communicate with your team and us. We let you invite an unlimited amoung of Trello users. No meetings, less hassle.",
+      "You'll get your own Trello board to request features, track progress, and communicate with your team and us. We let you invite an unlimited amoung of Trello users, so you can add your whole team to the board.",
     image: screenshotContacts,
     icon: function ContactsIcon() {
       return (
