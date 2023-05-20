@@ -82,7 +82,7 @@ export function Testimonials() {
             What others are saying
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">
-           Here are some of our past client and colleagues have said about us.
+           Here is what some of our past clients and colleagues have said about us.
           </p>
         </div>
         <ul
