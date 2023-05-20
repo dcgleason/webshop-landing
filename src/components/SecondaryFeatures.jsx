@@ -72,11 +72,11 @@ const features = [
     },
   },
   {
-    name: 'Subscription Flexibility',
+    name: 'Totally Async',
     summary:
-      'Enjoy the freedom of a flexible subscription, designed to adapt to your needs.',
+      "We don't let meetings and scheduling challenges get in the way of you achievig your business results.",
     description:
-      "We understand that business needs evolve. That's why our subscriptions are as flexible as you need them to be, allowing you to scale up or down as your needs change.",
+      "You'll get your own Trello board to request features, track progress, communicate with your team and us. We let you invite an unlimited amoung of Trello users. No meetings, less hassle.",
     image: screenshotContacts,
     icon: function ContactsIcon() {
       return (
