@@ -25,7 +25,7 @@ const faqs = [
     {
       question: 'How fast will I get my finished store?',
       answer:
-        'A fully customized theme can take upwards of three days to complete (in order to ensure very fast response and turnaround times, we only take on a small number of clients at a time).',
+        'Each request takes, on average, a 1-2 business days to complete (in order to ensure very fast response and turnaround times, we only take on a small number of clients at a time).',
     },
   
   ],
