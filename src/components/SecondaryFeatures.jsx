@@ -46,7 +46,7 @@ const features = [
   {
     name: 'Expedited Delivery',
     summary:
-      'We deliver your feature requests in just a few business days on average.',
+      'We deliver requests in just a few business days on average.',
     description:
       "We know your time is valuable. That's why our team of Shopify Experts, 'wizards,' put our clients first and deliver quality results fast.",
     image: screenshotInventory,
