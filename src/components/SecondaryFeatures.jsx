@@ -44,11 +44,11 @@ const features = [
     },
   },
   {
-    name: 'Dedicated Support',
+    name: 'Expedited Delivery',
     summary:
-      'Get expert assistance whenever you need it.',
+      'We deliver your feature requests in just a few business days on average.',
     description:
-      "Our team of Shopify wizards is always ready to assist, guide, and support you in your ecommerce journey.",
+      "We know your time is valuable. That's why our team of Shopify Experts, 'wizards,' put our clients first and deliver quality results fast.",
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (
