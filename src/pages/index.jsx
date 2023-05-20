@@ -13,14 +13,16 @@ import { Testimonials } from '@/components/Testimonials'
 export default function Home() {
   return (
     <>
-      <Head>
-        <title>Webshop Wizards: Shopify serivces with a twist</title>
-        <meta
-          name="description"
-          content="Most bookkeeping software is accurate, but hard to use. We make the opposite trade-off, and hope you don’t get audited."
-        />
+        <Head>
+          <title>Webshop Wizards: Premium Shopify Web Development & Design Services</title>
+          <meta
+            name="description"
+            content="Webshop Wizards is a flexible, subscription-based Shopify web development and design agency. We prioritize user-friendly solutions without compromising accuracy, and provide ongoing service billed monthly. Experience the magic of our Shopify services today."
+          />
+          <meta name="keywords" content="Shopify, Web Development, Design, Subscription-based, Webshop Wizards, E-commerce, Online Store, SEO, User-friendly, Ongoing Service"/>
       </Head>
       <Header />
+
       <main>
         <Hero />
         {/* <PrimaryFeatures /> */}

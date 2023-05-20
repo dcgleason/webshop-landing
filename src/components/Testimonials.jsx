@@ -33,7 +33,7 @@ const testimonials = [
       content:
         'We hired Stephen to come alongside our lead designer and help us create high-level UI/UX designs for a new product launch. He completely over-delivered, and we could not be more thrilled with his skills and professionalism.',
       author: {
-        name: 'Katie King',
+        name: 'Sara Schumann',
         role: 'Head of Product Design @ StoryFile',
         image: avatarImage5,
       },
