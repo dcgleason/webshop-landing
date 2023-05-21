@@ -20,7 +20,7 @@ const faqs = [
     {
       question: 'Who are the developers and designers?',
       answer:
-        "You might be surpised to hear this, but Webshop Wizards is actually a family business. We're a small team, two brothers - one designer and one developer. What this means is that you'll work directly with us, the founders of Webshop Wizards.",
+        "You might be surpised to hear this, but Webshop Wizards is actually a family business. We're a small team, two brothers. What this means is that you'll work directly with us, the founders of Webshop Wizards.",
     },
     {
       question: 'How fast will I get my finished store?',
