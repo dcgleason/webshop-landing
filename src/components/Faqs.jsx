@@ -12,7 +12,7 @@ const faqs = [
     },
     {
       question: 'Is there a limit to how many requests I can make?',
-      answer: 'Once subscribed, you can make as many requests as you like, and they will be delivered one by one.',
+      answer: 'Once subscribed, you can make as many requests as you like, and they will be delivered one by one. ',
     },
   
   ],
