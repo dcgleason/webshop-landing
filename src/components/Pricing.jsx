@@ -116,15 +116,16 @@ export function Pricing() {
         <div className="-mx-4 mt-16 grid max-w-2xl grid-cols-1 gap-y-10 sm:mx-auto lg:-mx-8 lg:max-w-none lg:grid-cols-3 xl:mx-0 xl:gap-x-8">
           <Plan
             name="Monthly"
-            price="$995/month"
+            price="$1995/month"
             description="Paid monthly. Cancel anytime."
             href="mailto:dan@webshopwizards.com?subject=New%20Client&body=I'd%20like%20to%20become%20a%20client%20billed%20monthly!"
             features={[
-              'Custom theme development',
-              'Logo and visual branding',
-              'Custom apps and integrations',
               'Unlimited revisions',
+              'Logo and visual branding',
+              'Copywriting and content creation',
+              'Custom apps development and integrations',
               'Custom domain setup',
+              'Custom theme development',
               'Store migrations',
               'Store settings and configuration',
               'Ongoing support and troubleshooting',
@@ -134,15 +135,16 @@ export function Pricing() {
           <Plan
             featured
             name="Quarterly"
-            price="$795/month"
+            price="$1595/month"
             description="Paid quarterly for a 20% discount."
             href="mailto:dan@webshopwizards.com?subject=New%20Client&body=I'd%20like%20to%20become%20a%20client%20billed%20quarterly!"
             features={[
-              'Custom theme development',
-              'Logo and visual branding',
-              'Custom apps and integrations',
               'Unlimited revisions',
+              'Logo and visual branding',
+              'Copywriting and content creation',
+              'Custom apps development and integrations',
               'Custom domain setup',
+              'Custom theme development',
               'Store migrations',
               'Store settings and configuration',
               'Ongoing support and troubleshooting',
@@ -151,15 +153,16 @@ export function Pricing() {
           />
           <Plan
             name="Yearly"
-            price="$695/month"
+            price="$1395/month"
             description="Paid yearly for a 30% discount."
             href="mailto:dan@webshopwizards.com?subject=New%20Client&body=I'd%20like%20to%20become%20a%20client%20billed%20yearly!"
             features={[
-              'Custom theme development',
-              'Logo and visual branding',
-              'Custom apps and integrations',
               'Unlimited revisions',
+              'Logo and visual branding',
+              'Copywriting and content creation',
+              'Custom apps development and integrations',
               'Custom domain setup',
+              'Custom theme development',
               'Store migrations',
               'Store settings and configuration',
               'Ongoing support and troubleshooting',
