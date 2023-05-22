@@ -122,7 +122,6 @@ export function Pricing() {
             features={[
               'Unlimited revisions',
               'Logo and visual branding',
-              'Copywriting and content creation',
               'Custom apps development and integrations',
               'Custom domain setup',
               'Custom theme development',
@@ -141,7 +140,6 @@ export function Pricing() {
             features={[
               'Unlimited revisions',
               'Logo and visual branding',
-              'Copywriting and content creation',
               'Custom apps development and integrations',
               'Custom domain setup',
               'Custom theme development',
@@ -160,7 +158,6 @@ export function Pricing() {
             features={[
               'Unlimited revisions',
               'Logo and visual branding',
-              'Copywriting and content creation',
               'Custom apps development and integrations',
               'Custom domain setup',
               'Custom theme development',
