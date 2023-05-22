@@ -4,36 +4,37 @@ import { Tab } from '@headlessui/react'
 import clsx from 'clsx'
 
 import { Container } from '@/components/Container'
+import screenshotStoryFile from '@/images/screenshots/storyfile.png'
 import backgroundImage from '@/images/background-features.jpg'
-import screenshotExpenses from '@/images/screenshots/expenses.png'
+import screenshotWorkTwo from '@/images/screenshots/work_two.png'
 import screenshotPayroll from '@/images/screenshots/payroll.png'
-import screenshotReporting from '@/images/screenshots/reporting.png'
-import screenshotVatReturns from '@/images/screenshots/vat-returns.png'
+import screenshotMindfulness from '@/images/screenshots/wholeWholeMindfulness.png'
+import screenshotBundl from '@/images/screenshots/bundl.png'
 
 const features = [
   {
-    title: 'Payroll',
+    title: 'StoryFile Life',
     description:
-      "Keep track of everyone's salaries and whether or not they've been paid. Direct deposit not supported.",
-    image: screenshotPayroll,
+      "StoryFile Life is a web app where users can create, speak with, and share interactive videos, called 'StoryFiles.'",
+    image: screenshotStoryFile,
   },
   {
-    title: 'Claim expenses',
+    title: 'BaseDEX',
     description:
-      "All of your receipts organized into one place, as long as you don't mind typing in the data by hand.",
-    image: screenshotExpenses,
+      "BaseDEX is a DeFi product currently in beta, who needed a responsive (beautiful on all devices) landing page within a 24-hour turnaround window.",
+    image: screenshotWorkTwo,
   },
   {
-    title: 'VAT handling',
+    title: 'Bundl',
     description:
-      "We only sell our software to companies who don't deal with VAT at all, so technically we do all the VAT stuff they need.",
-    image: screenshotVatReturns,
+      "Bundl is early-stage gifting start up with a web app that collects meaingful letters and pictures from a recipient's family and friends and bundles them into a physical book. Developed the landing page, and the backend portions of the web app.",
+    image: screenshotBundl,
   },
   {
-    title: 'Reporting',
+    title: 'WholeSchool Mindfulness',
     description:
-      'Easily export your data into an Excel spreadsheet where you can do whatever the hell you want with it.',
-    image: screenshotReporting,
+      'WholeSchool Mindfulness is a nonprofit with a vision to have mindfulness taught in all schools.',
+    image: screenshotMindfulness,
   },
 ]
 
@@ -61,22 +62,21 @@ export function PrimaryFeatures() {
       aria-label="Features for running your books"
       className="relative overflow-hidden bg-[#5271ff] pb-28 pt-20 sm:py-32"
     >
-      <Image
+      {/* <Image
         className="absolute left-1/2 top-1/2 max-w-none translate-x-[-44%] translate-y-[-42%]"
-        src={backgroundImage}
+        src="/storyfile.png"
         alt=""
         width={2245}
         height={1636}
         unoptimized
-      />
+      /> */}
       <Container className="relative">
         <div className="max-w-2xl md:mx-auto md:text-center xl:max-w-none">
           <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl md:text-5xl">
-            Everything you need to run your books.
+           Our work:
           </h2>
           <p className="mt-6 text-lg tracking-tight text-blue-100">
-            Well everything you need if you aren’t that picky about minor
-            details like tax compliance.
+            We have worked with a number of clients in the past (not all on Shopify), and we are proud of the work we have done for them. Here is our recent work:
           </p>
         </div>
         <Tab.Group
@@ -138,9 +138,10 @@ export function PrimaryFeatures() {
                       <Image
                         className="w-full"
                         src={feature.image}
-                        alt=""
-                        priority
-                        sizes="(min-width: 1024px) 67.8125rem, (min-width: 640px) 100vw, 45rem"
+                        alt="work example" 
+                        width={40}
+                        height={50}
+                        unoptimized
                       />
                     </div>
                   </Tab.Panel>
