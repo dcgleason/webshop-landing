@@ -23,7 +23,7 @@ const faqs = [
         "You might be surpised to hear this, but Webshop Wizards is actually a family business. We're a small team, two brothers -- one a Senior Designer and one a Senior Developer. What this means is that you'll work directly with us, the founders of Webshop Wizards.",
     },
     {
-      question: 'How fast will I get my requests finished?',
+      question: 'How fast my requests be fulfilled?',
       answer:
         'Each request takes, on average, a 1-2 business days to complete (in order to ensure very fast response and turnaround times, we only take on a small number of clients at a time). We work on your requests 1-by-1.',
     },
