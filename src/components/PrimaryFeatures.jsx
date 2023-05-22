@@ -76,7 +76,7 @@ export function PrimaryFeatures() {
            Our work:
           </h2>
           <p className="mt-6 text-lg tracking-tight text-blue-100">
-            We have worked with a number of clients in the past, no all on Shopify, and we are proud of the work we have done. Here are some examples:
+            We have worked with a number of clients in the past, not all on Shopify, and we are proud of the work we have done. Here are some examples:
           </p>
         </div>
         <Tab.Group
