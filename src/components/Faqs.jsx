@@ -8,7 +8,7 @@ const faqs = [
     {
       question: 'Why Webshop Wizards?',
       answer:
-      "Good question! The average annual pay for a Shopify developer is $80,000. We charge $11,940 per year. Additionally, with the monthly plan, you can pause and resume your subscription as often as you need to ensure you're only paying when you have work that needs to be done."
+      "Good question! The average annual pay for a Shopify developer is $80,000. We charge $5,940 per year. Additionally, with the monthly plan, you can pause and resume your subscription as often as you need to ensure you're only paying when you have work that needs to be done."
     },
     {
       question: 'Is there a limit to how many requests I can make?',
