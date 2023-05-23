@@ -122,8 +122,6 @@ export function Pricing() {
             features={[
               'Unlimited revisions',
               'Logo and visual branding',
-              'NFT Distrubution Setup and Management',
-              'Tokengating and Crytpo payments',
               'Custom apps development and integrations',
               'Custom domain setup',
               'Custom theme development',
@@ -142,8 +140,6 @@ export function Pricing() {
             features={[
               'Unlimited revisions',
               'Logo and visual branding',
-              'NFT Distrubution Setup and Management',
-              'Tokengating and Crytpo payments',
               'Custom apps development and integrations',
               'Custom domain setup',
               'Custom theme development',
@@ -162,8 +158,6 @@ export function Pricing() {
             features={[
               'Unlimited revisions',
               'Logo and visual branding',
-              'NFT Distrubution Setup and Management',
-              'Tokengating and Crytpo payments',
               'Custom apps development and integrations',
               'Custom domain setup',
               'Custom theme development',
