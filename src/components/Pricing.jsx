@@ -116,7 +116,7 @@ export function Pricing() {
         <div className="-mx-4 mt-16 grid max-w-2xl grid-cols-1 gap-y-10 sm:mx-auto lg:-mx-8 lg:max-w-none lg:grid-cols-3 xl:mx-0 xl:gap-x-8">
           <Plan
             name="Monthly"
-            price="$495/month"
+            price="$1995/month"
             description="Paid monthly. Cancel anytime."
             href="mailto:dan@webshopwizards.com?subject=New%20Client&body=I'm%20ready%20to%20jump%20on%20a%2015%20minute%20call%20today%20or%20tomorrow%20to%20discuss%20my%20needs.%0AMy%20phone%20number%20is:%20(your%20phone%20number).%0ALook%20forward%20to%20hearing%20back.%20Thanks!"
             features={[
@@ -124,9 +124,7 @@ export function Pricing() {
               'Logo and visual branding',
               'Custom apps development and integrations',
               'Custom domain setup',
-              'Custom theme development',
-              'Store migrations',
-              'Store settings and configuration',
+              'Custom landing page development',
               'Ongoing support and troubleshooting',
            
             ]}
@@ -134,7 +132,7 @@ export function Pricing() {
           <Plan
             featured
             name="Quarterly"
-            price="$395/month"
+            price="$1595/month"
             description="Paid quarterly for a 20% discount."
             href="mailto:dan@webshopwizards.com?subject=New%20Client&body=I'm%20ready%20to%20jump%20on%20a%2015%20minute%20call%20today%20or%20tomorrow%20to%20discuss%20my%20needs.%0AMy%20phone%20number%20is:%20(your%20phone%20number).%0ALook%20forward%20to%20hearing%20back.%20Thanks!"
             features={[
@@ -142,16 +140,14 @@ export function Pricing() {
               'Logo and visual branding',
               'Custom apps development and integrations',
               'Custom domain setup',
-              'Custom theme development',
-              'Store migrations',
-              'Store settings and configuration',
+              'Custom landing page development',
               'Ongoing support and troubleshooting',
              
             ]}
           />
           <Plan
             name="Yearly"
-            price="$345/month"
+            price="$1395/month"
             description="Paid yearly for a 30% discount."
             href="mailto:dan@webshopwizards.com?subject=New%20Client&body=I'm%20ready%20to%20jump%20on%20a%2015%20minute%20call%20today%20or%20tomorrow%20to%20discuss%20my%20needs.%0AMy%20phone%20number%20is:%20(your%20phone%20number).%0ALook%20forward%20to%20hearing%20back.%20Thanks!"
 
@@ -160,9 +156,7 @@ export function Pricing() {
               'Logo and visual branding',
               'Custom apps development and integrations',
               'Custom domain setup',
-              'Custom theme development',
-              'Store migrations',
-              'Store settings and configuration',
+              'Custom landing page development',
               'Ongoing support and troubleshooting',
               
             ]}
