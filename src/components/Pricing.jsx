@@ -141,7 +141,7 @@ export function Pricing() {
               'Logo and visual branding',
               'Custom landing page development',
               'Custom web apps development and integrations',
-              'API development and integrations development',
+              'API development and integrations',
               'Custom browswer extensions',
               'Ongoing support and troubleshooting',
              
