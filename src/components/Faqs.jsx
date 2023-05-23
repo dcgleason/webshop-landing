@@ -27,6 +27,11 @@ const faqs = [
       answer:
         'Each request takes, on average, a 1-2 business days to complete (in order to ensure very fast response and turnaround times, we only take on a small number of clients at a time). We work on your requests 1-by-1.',
     },
+    {
+      question: 'How do you work with existing code repositories?',
+      answer:
+        'We can work with any code repository, including Gitlab, Github, Bitbucket, etc. We can also work with your existing codebase, or we can create a new one for you.',
+    },
   
   ],
   [
