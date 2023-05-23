@@ -116,7 +116,7 @@ export function Pricing() {
         <div className="-mx-4 mt-16 grid max-w-2xl grid-cols-1 gap-y-10 sm:mx-auto lg:-mx-8 lg:max-w-none lg:grid-cols-3 xl:mx-0 xl:gap-x-8">
           <Plan
             name="Monthly"
-            price="$1995/month"
+            price="$2495/month"
             description="Paid monthly. Cancel anytime."
             href="mailto:dan@webshopwizards.com?subject=New%20Client&body=I'm%20ready%20to%20jump%20on%20a%2015%20minute%20call%20today%20or%20tomorrow%20to%20discuss%20my%20needs.%0AMy%20phone%20number%20is:%20(your%20phone%20number).%0ALook%20forward%20to%20hearing%20back.%20Thanks!"
             features={[
@@ -132,7 +132,7 @@ export function Pricing() {
           <Plan
             featured
             name="Quarterly"
-            price="$1595/month"
+            price="$1995/month"
             description="Paid quarterly for a 20% discount."
             href="mailto:dan@webshopwizards.com?subject=New%20Client&body=I'm%20ready%20to%20jump%20on%20a%2015%20minute%20call%20today%20or%20tomorrow%20to%20discuss%20my%20needs.%0AMy%20phone%20number%20is:%20(your%20phone%20number).%0ALook%20forward%20to%20hearing%20back.%20Thanks!"
             features={[
@@ -147,7 +147,7 @@ export function Pricing() {
           />
           <Plan
             name="Yearly"
-            price="$1395/month"
+            price="$1745/month"
             description="Paid yearly for a 30% discount."
             href="mailto:dan@webshopwizards.com?subject=New%20Client&body=I'm%20ready%20to%20jump%20on%20a%2015%20minute%20call%20today%20or%20tomorrow%20to%20discuss%20my%20needs.%0AMy%20phone%20number%20is:%20(your%20phone%20number).%0ALook%20forward%20to%20hearing%20back.%20Thanks!"
 
