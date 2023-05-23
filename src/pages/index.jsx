@@ -14,12 +14,12 @@ export default function Home() {
   return (
     <>
         <Head>
-          <title>Webshop Wizards: Premium Shopify Web Development & Design Services for Web3</title>
+          <title>Webshop Wizards: Premium Shopify Web Development and Design Services</title>
           <meta
             name="description"
-            content="Webshop Wizards is a flexible, subscription-based Shopify web development and design agency or Web3. We prioritize user-friendly solutions without compromising accuracy, and provide ongoing service billed monthly. Experience the magic of our Shopify services today."
+            content="Webshop Wizards is a flexible, subscription-based Shopify web development and design agency. We prioritize user-friendly solutions without compromising accuracy, and provide ongoing service billed monthly. Experience the magic of our Shopify services today."
           />
-          <meta name="keywords" content="Shopify, Web Development, Design, Web3, Blockchain, Subscription-based, Webshop Wizards, E-commerce, Online Store, SEO, User-friendly, Ongoing Service"/>
+          <meta name="keywords" content="Shopify, Web Development, Design, Subscription-based, Webshop Wizards, E-commerce, Online Store, SEO, User-friendly, Ongoing Service"/>
       </Head>
       <Header />
 
