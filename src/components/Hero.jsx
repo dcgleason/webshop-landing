@@ -28,7 +28,7 @@ export function Hero() {
        
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-      Shopify design and web development subscription services.  
+      Shopify design and web development subscription services for your app or storefront.  
       </p>
       <div className="mt-10 flex justify-center gap-x-6">
         <Button href="#pricing">See plans</Button>
