@@ -13,16 +13,16 @@ import screenshotBundl from '@/images/screenshots/bundl.png'
 
 const features = [
   {
-    title: 'StoryFile Life',
-    description:
-      "StoryFile Life is a web app where users can create, speak with, and share interactive videos, called 'StoryFiles.'",
-    image: screenshotStoryFile,
-  },
-  {
     title: 'BaseDEX',
     description:
       "BaseDEX is a DeFi product currently in beta, who needed a responsive (beautiful on all devices) landing page within a 24-hour turnaround window.",
     image: screenshotWorkTwo,
+  },
+  {
+    title: 'StoryFile Life',
+    description:
+      "StoryFile Life is a web app where users can create, speak with, and share interactive videos, called 'StoryFiles.'",
+    image: screenshotStoryFile,
   },
   {
     title: 'Bundl',
