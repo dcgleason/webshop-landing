@@ -48,7 +48,7 @@ const features = [
     summary:
       'We deliver each task within 1-2 business days.',
     description:
-      "We know your time is valuable. That's why our team of Shopify Experts put our clients first and deliver quality results fast.",
+      "We know your time is valuable. That's why our team of experts put our clients first and deliver quality results fast.",
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (
