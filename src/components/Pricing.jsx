@@ -122,9 +122,10 @@ export function Pricing() {
             features={[
               'Unlimited revisions',
               'Logo and visual branding',
-              'Custom apps development and integrations',
-              'Custom domain setup',
               'Custom landing page development',
+              'Custom web apps development and integrations',
+              'API development and integrations',
+              'Custom browswer extensions development',
               'Ongoing support and troubleshooting',
            
             ]}
@@ -138,9 +139,10 @@ export function Pricing() {
             features={[
               'Unlimited revisions',
               'Logo and visual branding',
-              'Custom apps development and integrations',
-              'Custom domain setup',
               'Custom landing page development',
+              'Custom web apps development and integrations',
+              'API development and integrations development',
+              'Custom browswer extensions',
               'Ongoing support and troubleshooting',
              
             ]}
@@ -154,9 +156,10 @@ export function Pricing() {
             features={[
               'Unlimited revisions',
               'Logo and visual branding',
-              'Custom apps development and integrations',
-              'Custom domain setup',
               'Custom landing page development',
+              'Custom web apps development and integrations',
+              'API development and integrations',
+              'Custom browswer extensions development',
               'Ongoing support and troubleshooting',
               
             ]}
