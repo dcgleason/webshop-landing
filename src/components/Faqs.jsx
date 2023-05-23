@@ -42,6 +42,12 @@ const faqs = [
       answer:
         'Due to the high quality nature of the work, there will be no refunds.',
     },
+    {
+      question:
+        "How does the point system work?",
+      answer:
+        "Whenever you add more requests do your Trello board queue, I will 'scope out' the requests you provided i.e. break the requests down into smaller tasks if need be and assign a point value to each task (the simpler the task the lower the point value). The rate at which we complete tasks for each client is about 1-2 per day. If you have any questions about the point system, please email us at dan@webshopwizards.com",
+    },
   ],
 ]
 
