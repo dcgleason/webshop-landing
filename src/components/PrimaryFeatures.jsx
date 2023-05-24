@@ -27,7 +27,7 @@ const features = [
   {
     title: 'Bundl',
     description:
-      "Bundl is early-stage gifting start up with a web app that collects meaingful letters and pictures from a recipient's family and friends and bundles them into a physical book. Developed the landing page, and the backend portions of the web app.",
+      "Bundl is early-stage gifting startup with a web app that collects meaingful letters and pictures from a recipient's family and friends and bundles them into a physical book. Developed the landing page, and the backend portions of the web app.",
     image: screenshotBundl,
   },
   {
@@ -76,7 +76,7 @@ export function PrimaryFeatures() {
            Our work:
           </h2>
           <p className="mt-6 text-lg tracking-tight text-blue-100">
-            We have worked with a number of clients, start-ups, in the past, and we are proud of the work we have done. Here are some examples:
+            We have worked with a number of clients (startups) in the past, and we are proud of the work we have done. Here are some examples:
           </p>
         </div>
         <Tab.Group
