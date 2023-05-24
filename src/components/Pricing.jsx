@@ -122,6 +122,8 @@ export function Pricing() {
             features={[
               'Unlimited revisions',
               'Logo and visual branding',
+              'UX/UI Design',
+              'User Research',
               'Custom landing page development',
               'Custom web apps development and integrations',
               'API development and integrations',
@@ -139,12 +141,13 @@ export function Pricing() {
             features={[
               'Unlimited revisions',
               'Logo and visual branding',
+              'UX/UI Design',
+              'User Research',
               'Custom landing page development',
               'Custom web apps development and integrations',
               'API development and integrations',
-              'Custom browswer extensions',
+              'Custom browswer extensions development',
               'Ongoing support and troubleshooting',
-             
             ]}
           />
           <Plan
@@ -156,6 +159,8 @@ export function Pricing() {
             features={[
               'Unlimited revisions',
               'Logo and visual branding',
+              'UX/UI Design',
+              'User Research',
               'Custom landing page development',
               'Custom web apps development and integrations',
               'API development and integrations',
