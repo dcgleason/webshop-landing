@@ -30,7 +30,7 @@ const faqs = [
     {
       question: 'How do you work with existing code repositories?',
       answer:
-        'We can work with any Javascript-based code repository, including Gitlab, Github, Bitbucket, etc. We can also work with your existing codebase, or we can create a new one for you.',
+        'We can work with any existing Javascript-based code repository; can work via Gitlab, Github, Bitbucket, etc. We can also create a new code repo for you.',
     },
   
   ],
