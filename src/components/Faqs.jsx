@@ -30,7 +30,7 @@ const faqs = [
     {
       question: 'How do you work with existing code repositories?',
       answer:
-        'We can work with any code repository, including Gitlab, Github, Bitbucket, etc. We can also work with your existing codebase, or we can create a new one for you.',
+        'We can work with any Javascript-based code repository, including Gitlab, Github, Bitbucket, etc. We can also work with your existing codebase, or we can create a new one for you.',
     },
   
   ],
@@ -49,7 +49,7 @@ const faqs = [
     },
     {
       question:
-        "How does the point system work?",
+        "How does the Agile point system work?",
       answer:
         "Whenever you add more requests do your Trello board queue, we break the requests down into smaller tasks, if need be,  and assign a point value to each task (the simpler the task the lower the point value). The rate at which we complete tasks for you is about 1-2 per day depending on their point value. We complete your highest-priority tasks first. If you have any questions about the point system, please email us at dan@webshopwizards.com",
     },
