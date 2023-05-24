@@ -76,7 +76,7 @@ export function PrimaryFeatures() {
            Our work:
           </h2>
           <p className="mt-6 text-lg tracking-tight text-blue-100">
-            We have provided product-design, web-design, and full stack web development to  a number of clients (startups) in the past, and we are proud of the work we have done. Here are some examples:
+            We have provided product-design, web-design, and full stack web development to  a number of clients (startups) in the past and are proud of the work we have done. Here are some examples:
           </p>
         </div>
         <Tab.Group
