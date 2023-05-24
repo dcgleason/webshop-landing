@@ -125,7 +125,7 @@ export function Pricing() {
               'UX/UI Design',
               'User Research',
               'Custom landing page development',
-              'Custom web app development and integrations',
+              'Custom web app development',
               'API development and integrations',
               'Ongoing support and troubleshooting',
            
@@ -143,7 +143,7 @@ export function Pricing() {
               'UX/UI Design',
               'User Research',
               'Custom landing page development',
-              'Custom web app development and integrations',
+              'Custom web app development',
               'API development and integrations',
               'Ongoing support and troubleshooting',
             ]}
@@ -160,7 +160,7 @@ export function Pricing() {
               'UX/UI Design',
               'User Research',
               'Custom landing page development',
-              'Custom web app development and integrations',
+              'Custom web app development',
               'API development and integrations',
               'Ongoing support and troubleshooting',
               
