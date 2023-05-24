@@ -51,7 +51,7 @@ const faqs = [
       question:
         "How does the Agile point system work?",
       answer:
-        "Each request you add to your Trello board queue is broken down into manageable tasks, and each is assigned a point value based on complexity. We prioritize and complete about 1-2 tasks per day depending on their point values and always focusing on your highest-priority tasks first. For any queries about our point system, feel free to reach out at dan@webshopwizards.com.",
+        "Each request you add to your Trello board queue is broken down into tasks, and each task is assigned a point value based on complexity. We prioritize and complete about 1-2 tasks per day depending on their point values and always focusing on your highest-priority tasks first. For any queries about our point system, feel free to reach out at dan@webshopwizards.com.",
     },
   ],
 ]
