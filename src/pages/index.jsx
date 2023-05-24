@@ -19,7 +19,7 @@ export default function Home() {
             name="description"
             content="Webshop Wizards is a flexible, subscription-based web development and design agency. We prioritize user-friendly solutions without compromising accuracy, and provide ongoing service billed monthly. Experience the magic of our Shopify services today."
           />
-          <meta name="keywords" content="Web Development, Design, Subscription-based, Webshop Wizards, E-commerce, Online Store, SEO, User-friendly, Ongoing Service"/>
+          <meta name="keywords" content="Web Development, Design, Subscription-based, Webshop Wizards, E-commerce, Startups, User Research, UX/UI, Online Store, SEO, User-friendly, Ongoing Service"/>
       </Head>
       <Header />
 
