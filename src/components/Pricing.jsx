@@ -127,7 +127,6 @@ export function Pricing() {
               'Custom landing page development',
               'Custom web app development and integrations',
               'API development and integrations',
-              'Custom browswer extensions development',
               'Ongoing support and troubleshooting',
            
             ]}
@@ -146,7 +145,6 @@ export function Pricing() {
               'Custom landing page development',
               'Custom web app development and integrations',
               'API development and integrations',
-              'Custom browswer extensions development',
               'Ongoing support and troubleshooting',
             ]}
           />
@@ -164,7 +162,6 @@ export function Pricing() {
               'Custom landing page development',
               'Custom web app development and integrations',
               'API development and integrations',
-              'Custom browswer extensions development',
               'Ongoing support and troubleshooting',
               
             ]}
