@@ -46,7 +46,7 @@ const features = [
   {
     name: 'Expedited Delivery',
     summary:
-      'We deliver each task within 1-2 business days while using an Agile point system.',
+      'We deliver each task within 1-2 business days via our Agile pointing system.',
     description:
       "We know your time is valuable. That's why our team of experts put our clients first and deliver quality results fast.",
     image: screenshotInventory,
