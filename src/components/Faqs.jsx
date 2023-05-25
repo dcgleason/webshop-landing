@@ -16,7 +16,7 @@ const faqs = [
     },
     {
       question: 'What technologies do you work with?',
-      answer: 'We are experts working with the following: Javascript, React.js, React Native, Express.js, Node.js, TailwindCSS, Next.js, MongoDB, and AWS S3.',
+      answer: 'We are experts working with the following languages / libraries / frameworks / databases : Javascript, React.js, React Native, Express.js, Node.js, TailwindCSS, Next.js, MongoDB, and AWS S3.',
     },
   
   ],
