@@ -16,7 +16,7 @@ const faqs = [
     },
     {
       question: 'What technologies do you work with?',
-      answer: 'We are experts working with Javascript, React, Express.js, Node.js, TailwindCSS, Next.js, MongoDB, and AWS S3. If you have a specific technology you need, please email us at dan@webshopwizards.com and we will let you know if we can work with it.',
+      answer: 'We are experts working with the following: Javascript, React.js, React Native, Express.js, Node.js, TailwindCSS, Next.js, MongoDB, and AWS S3.',
     },
   
   ],
