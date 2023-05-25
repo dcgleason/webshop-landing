@@ -18,6 +18,10 @@ const faqs = [
       question: 'What technologies do you work with?',
       answer: 'We are experts working with the following languages / libraries / frameworks / databases : Javascript, React.js, React Native, Express.js, Node.js, TailwindCSS, Next.js, MongoDB, and AWS S3.',
     },
+    {
+      question: 'Do you offer web design services?',
+      answer: 'We are JavaScript developers, and unfortunately, do not offer web design services. We can, however, work with your existing designs and implement them into your web app.',
+    },
   
   ],
   [
@@ -36,6 +40,11 @@ const faqs = [
       answer:
         'If you have an existing code repo, if it is Javascript-based, we can work with it and can do the work via Gitlab, Github, Bitbucket, etc. We also create a new code repository for you if need be, or multiple.',
     },
+    {
+      question: 'Are the costs of hosting and purchasing domain names included?',
+      answer:
+        'No, the costs of hosting and purchasing domain names are not included. We can, however, help you set up your domain name and hosting if you need assistance.',
+    },
   
   ],
   [
@@ -43,7 +52,7 @@ const faqs = [
       question:
         'How do I make requests development features and changes?',
       answer:
-        'Webshop Wizards offer a ton of flexibility in how you request make requests using Trello. Some common ways clients request designs is directly via Trello, sharing Google docs or wireframes, or even recording a brief Loom video (for those who prefer not to write their briefs out). Basically, if it can be linked to or shared in Trello, we can work with it.',
+        'Webshop Wizards use Trello boards. Some clients request designs is directly via Trello. Some share links to Google docs or wireframes, or even recording a brief Loom video (for those who prefer not to write their briefs out) directly in Trello request task. Basically, if it can be linked to or shared in Trello, we can work with it.',
     },
     {
       question:
