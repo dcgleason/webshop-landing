@@ -8,19 +8,23 @@ const faqs = [
     {
       question: 'Why Webshop Wizards?',
       answer:
-      "Good question! The average annual pay for a developer and designer together (at any level) is $200,000(+). We charge $29,940 per year. Additionally, with the monthly plan, you can pause and resume your subscription as often as you need to ensure you're only paying when you have work that needs to be done."
+      "Good question! The average annual pay for a JS developer hired via a typical agency is $67,000(+). We charge $41,340 per year for two Senior JavaScript Devs. Additionally, with the monthly plan, you can pause and resume your subscription as often as you need to ensure you're only paying when you have work that needs to be done."
     },
     {
       question: 'Is there a limit to how many requests I can make?',
       answer: 'Once subscribed, you can make as many requests as you like, and they will be delivered one by one. ',
     },
+    {
+      question: 'What technologies do you work with?',
+      answer: 'We are experts working with Javascript, React, Express.js, Node.js, TailwindCSS, Next.js, MongoDB, and AWS S3. If you have a specific technology you need, please email us at dan@webshopwizards.com and we will let you know if we can work with it.',
+    },
   
   ],
   [
     {
-      question: 'Who are the developers and designers?',
+      question: 'Who are the developers?',
       answer:
-        "You might be surpised to hear this, but Webshop Wizards is actually a family business. We're a small team, two brothers -- one a Senior Designer and one a Senior Developer. What this means is that you'll work directly with us, the founders of Webshop Wizards.",
+        "You might be surpised to hear this, but Webshop Wizards is a small team of two founders. Ex-IBM Software developers, we've worked on projects for IBM, the U.S. Department of Health & Human Services, the U.S. Department of State, and more. By working with Webshop Wizards, you get the same quality of work as you would from a large agency, but at a fraction of the cost...and you'll work direct with us, the founders.",
     },
     {
       question: 'How fast my requests be fulfilled?',
@@ -37,7 +41,7 @@ const faqs = [
   [
     {
       question:
-        'How do I make requests for design and development features and changes?',
+        'How do I make requests development features and changes?',
       answer:
         'Webshop Wizards offer a ton of flexibility in how you request make requests using Trello. Some common ways clients request designs is directly via Trello, sharing Google docs or wireframes, or even recording a brief Loom video (for those who prefer not to write their briefs out). Basically, if it can be linked to or shared in Trello, we can work with it.',
     },
@@ -45,7 +49,7 @@ const faqs = [
       question:
         "Are there refunds if I don't like the service?",
       answer:
-        'Due to the high quality nature of the work, there will be no refunds.',
+        "Beyond our 'first week free' policy, due to the high quality nature of the work, there will be no refunds.",
     },
     {
       question:
