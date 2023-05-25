@@ -31,7 +31,7 @@ const faqs = [
         "You might be surpised to hear this, but Webshop Wizards is a small team of two founder -- ex-IBM Software developers, we've worked on projects for IBM, the U.S. Department of Health & Human Services, the U.S. Department of State, and more. Working with Webshop Wizards means you work direct with us, the founders.",
     },
     {
-      question: 'How fast my requests be fulfilled?',
+      question: 'How fast will my requests be fulfilled?',
       answer:
         'Each request takes, on average, a 1-2 business days to complete (in order to ensure very fast response and turnaround times, we only take on a small number of clients at a time). We work on your requests 1-by-1.',
     },
