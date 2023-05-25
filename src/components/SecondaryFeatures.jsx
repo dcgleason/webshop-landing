@@ -216,7 +216,7 @@ export function SecondaryFeatures() {
       <Container>
         <div className="mx-auto max-w-2xl md:text-center">
           <h2 className="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">
-         No meetings, cancel or pause services at anytime.  
+         No meetings, cancel or pause at anytime.  
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">
         Our services include:
