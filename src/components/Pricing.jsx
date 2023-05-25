@@ -118,7 +118,7 @@ export function Pricing() {
             name="Monthly"
             price="$2995/month"
             description="Paid monthly. Cancel anytime."
-            href="mailto:dan@webshopwizards.com?subject=New%20Client&body=I'm%20ready%20to%20jump%20on%20a%2015%20minute%20call%20today%20or%20tomorrow%20to%20discuss%20my%20needs.%0AMy%20phone%20number%20is:%20(your%20phone%20number).%0ALook%20forward%20to%20hearing%20back.%20Thanks!"
+            href="https://buy.stripe.com/test_fZeeVvgpOgiFcAo6oo"
             features={[
               'Unlimited revisions',
               'Custom web app development',
@@ -134,7 +134,7 @@ export function Pricing() {
             name="Quarterly"
             price="$2395/month"
             description="Paid quarterly for a 20% discount."
-            href="mailto:dan@webshopwizards.com?subject=New%20Client&body=I'm%20ready%20to%20jump%20on%20a%2015%20minute%20call%20today%20or%20tomorrow%20to%20discuss%20my%20needs.%0AMy%20phone%20number%20is:%20(your%20phone%20number).%0ALook%20forward%20to%20hearing%20back.%20Thanks!"
+            href="https://buy.stripe.com/test_00g9BbflKaYl6c04gh"
             features={[
               'Unlimited revisions',
               'Custom web app development',
@@ -148,7 +148,7 @@ export function Pricing() {
             name="Yearly"
             price="$2095/month"
             description="Paid yearly for a 30% discount."
-            href="mailto:dan@webshopwizards.com?subject=New%20Client&body=I'm%20ready%20to%20jump%20on%20a%2015%20minute%20call%20today%20or%20tomorrow%20to%20discuss%20my%20needs.%0AMy%20phone%20number%20is:%20(your%20phone%20number).%0ALook%20forward%20to%20hearing%20back.%20Thanks!"
+            href="https://buy.stripe.com/test_14kbJj7TifeB0RG9AC"
 
             features={[
               'Unlimited revisions',
