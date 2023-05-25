@@ -49,7 +49,7 @@ const faqs = [
       question:
         "Are there refunds if I don't like the service?",
       answer:
-        "Beyond our 'first week free' policy, due to the high quality nature of the work, there will be no refunds.",
+        "Due to the high quality nature of the work, there will be no refunds.",
     },
     {
       question:
