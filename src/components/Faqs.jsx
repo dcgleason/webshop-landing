@@ -8,7 +8,7 @@ const faqs = [
     {
       question: 'Why Webshop Wizards?',
       answer:
-      "Good question! The average annual pay for a JS developer hired via a typical agency is $67,000(+). We charge $41,340 per year for two Senior JavaScript Devs. Additionally, with the monthly plan, you can pause and resume your subscription as often as you need to ensure you're only paying when you have work that needs to be done."
+      "Good question! The average annual pay for a JS developer hired via a typical agency is $67,000(+). We charge $41,340 per year for the work of two senior JavaScript developers. Additionally, with the monthly plan, you can pause and resume your subscription as often as you need to ensure you're only paying when you have work that needs to be done."
     },
     {
       question: 'Is there a limit to how many requests I can make?',
