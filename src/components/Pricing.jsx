@@ -121,12 +121,10 @@ export function Pricing() {
             href="mailto:dan@webshopwizards.com?subject=New%20Client&body=I'm%20ready%20to%20jump%20on%20a%2015%20minute%20call%20today%20or%20tomorrow%20to%20discuss%20my%20needs.%0AMy%20phone%20number%20is:%20(your%20phone%20number).%0ALook%20forward%20to%20hearing%20back.%20Thanks!"
             features={[
               'Unlimited revisions',
-              'Logo and visual branding',
-              'UX/UI Design',
-              'User Research',
-              'Custom landing page development',
               'Custom web app development',
+              'Custom mobile app development',
               'API development and integrations',
+              'Custom landing page development',
               'Ongoing support and troubleshooting',
            
             ]}
@@ -139,12 +137,10 @@ export function Pricing() {
             href="mailto:dan@webshopwizards.com?subject=New%20Client&body=I'm%20ready%20to%20jump%20on%20a%2015%20minute%20call%20today%20or%20tomorrow%20to%20discuss%20my%20needs.%0AMy%20phone%20number%20is:%20(your%20phone%20number).%0ALook%20forward%20to%20hearing%20back.%20Thanks!"
             features={[
               'Unlimited revisions',
-              'Logo and visual branding',
-              'UX/UI Design',
-              'User Research',
-              'Custom landing page development',
               'Custom web app development',
+              'Custom mobile app development',
               'API development and integrations',
+              'Custom landing page development',
               'Ongoing support and troubleshooting',
             ]}
           />
@@ -156,12 +152,10 @@ export function Pricing() {
 
             features={[
               'Unlimited revisions',
-              'Logo and visual branding',
-              'UX/UI Design',
-              'User Research',
-              'Custom landing page development',
               'Custom web app development',
+              'Custom mobile app development',
               'API development and integrations',
+              'Custom landing page development',
               'Ongoing support and troubleshooting',
               
             ]}
