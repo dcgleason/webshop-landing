@@ -118,7 +118,7 @@ export function Pricing() {
             name="Monthly"
             price="$2995/month"
             description="Paid monthly. Cancel anytime. "
-            href="https://calendly.com/webshopwizards/30min"
+            href="https://calendly.com/webshopwizards/30min" 
             features={[
               'Unlimited revisions',
               'Custom landing page development',
