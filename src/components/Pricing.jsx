@@ -122,7 +122,6 @@ export function Pricing() {
             features={[
               'Unlimited revisions',
               'Custom web app development',
-              'Custom mobile app development',
               'API development and integrations',
               'Custom landing page development',
               'Ongoing support and troubleshooting',
@@ -138,7 +137,6 @@ export function Pricing() {
             features={[
               'Unlimited revisions',
               'Custom web app development',
-              'Custom mobile app development',
               'API development and integrations',
               'Custom landing page development',
               'Ongoing support and troubleshooting',
@@ -153,7 +151,6 @@ export function Pricing() {
             features={[
               'Unlimited revisions',
               'Custom web app development',
-              'Custom mobile app development',
               'API development and integrations',
               'Custom landing page development',
               'Ongoing support and troubleshooting',
