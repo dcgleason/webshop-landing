@@ -27,7 +27,7 @@ export function CallToAction() {
         Your success is our priority. That is why we are here to help you grow your business.
           </p>
           <Button href="/#pricing" color="white" className="mt-10">
-           Sign-up and get your first week for free
+           See plans
           </Button>
         </div>
       </Container>
