@@ -44,11 +44,11 @@ const features = [
     },
   },
   {
-    name: 'Expedited Delivery',
+    name: 'Expedited Agile Delivery',
     summary:
-      'We deliver each task within 1-2 business days.',
+      'We maintain a high sprint velocity, so you get your product fast.',
     description:
-      "We know your time is valuable. That's why our team of experts put our clients first and deliver quality results fast.",
+      "We know your time is valuable. That's why our team of experts put our clients first and deliver quality results consistantly via 1-week sprints.",
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (

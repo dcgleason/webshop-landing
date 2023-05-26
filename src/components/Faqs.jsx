@@ -32,13 +32,13 @@ const faqs = [
   [
     {
       question: 'Is there a limit to how many requests I can make?',
-      answer: 'Once subscribed, you can make as many requests as you like, and they will be delivered one by one. ',
+      answer: 'Once subscribed, you can make as many requests as you like, and they will be delivered via weekly sprints. ',
     },
    
     {
       question: 'How fast will my requests be fulfilled?',
       answer:
-        'Each request takes, on average, a 1-2 business days to complete (in order to ensure very fast response and turnaround times, we only take on a small number of clients at a time). We work on your requests 1-by-1.',
+        'We commit to ~13 points of work per week per client and only take on a limited number of clients to keep our sprint velocity high.',
     },
     {
       question: 'How do you work with existing code repositories?',
@@ -57,7 +57,7 @@ const faqs = [
       question:
         'How do I make requests development features and changes?',
       answer:
-        'Webshop Wizards use Trello boards. Some clients request designs by writing them directly via Trello. Some share links to Google docs or wireframes, or even recording a brief Loom video (for those who prefer not to write their briefs out) directly in Trello request task. Basically, if it can be linked to or shared in a Trello board card, we can work with it.',
+        'Webshop Wizards use Trello boards. Some clients request features by writing them directly via Trello. Some share links to Google docs or wireframes, or even recording a brief Loom video (for those who prefer not to write their briefs out) directly in Trello request task. Basically, if it can be linked to or shared in a Trello board card, we can work with it.',
     },
     {
       question:
