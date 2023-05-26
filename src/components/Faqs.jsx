@@ -66,6 +66,12 @@ const faqs = [
       answer:
         "Each request you add to your Trello board queue is broken down into tasks (each task assigned a point value based on complexity) within 12 hours. We complete requests generally in 1-2 business days after they are pointed depending on their complexity. If you have any questions about our pointing system, feel free to reach out to us at dan@webshopwizards.com.",
     },
+    {
+      question:
+        "Do you do mobile app development?",
+      answer:
+        "No, we do not do mobile app development. We do, however, do web app development, and can make your web app mobile-friendly.",
+    },
   ],
 ]
 
