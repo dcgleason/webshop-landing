@@ -216,10 +216,10 @@ export function SecondaryFeatures() {
       <Container>
         <div className="mx-auto max-w-2xl md:text-center">
           <h2 className="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">
-         Oh! ...and no contracts. Cancel or pause at anytime.  
+         Oh! ...and no contracts or meetings. Cancel or pause at anytime.  
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">
-        Our subscription services include:
+        Our services include:
           </p>
         </div>
         <FeaturesMobile />
