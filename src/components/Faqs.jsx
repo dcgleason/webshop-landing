@@ -14,9 +14,11 @@ const faqs = [
       "Good question! The average annual pay for a JS developer hired via a typical agency is $67,000(+). We charge $41,340 per year for the work of two senior JavaScript developers. Additionally, with the monthly plan, you can pause and resume your subscription as often as you need to ensure you're only paying when you have work that needs to be done."
     },
     {
-      question: 'Is there a limit to how many requests I can make?',
-      answer: 'Once subscribed, you can make as many requests as you like, and they will be delivered one by one. ',
+      question: 'Who are the developers?',
+      answer:
+        "You might be surpised to hear this, but Webshop Wizards is comprised of its two founders... and that is it! After meeeting while working at IBM, we decided to offer our services to other companies. Together, we've orked on projects for IBM, the U.S. Department of Health & Human Services, the U.S. Department of State, and more.",
     },
+    
     {
       question: 'What technologies do you work with?',
       answer: 'We are experts working with the following languages / libraries / frameworks / databases : Javascript, React.js, Express.js, Node.js, TailwindCSS, Next.js, MongoDB, and AWS S3.',
@@ -29,10 +31,10 @@ const faqs = [
   ],
   [
     {
-      question: 'Who are the developers?',
-      answer:
-        "You might be surpised to hear this, but Webshop Wizards is comprised of its two founders... and that is it! After meeeting while working at IBM, we decided to offer our services to other companies. Together, we've orked on projects for IBM, the U.S. Department of Health & Human Services, the U.S. Department of State, and more.",
+      question: 'Is there a limit to how many requests I can make?',
+      answer: 'Once subscribed, you can make as many requests as you like, and they will be delivered one by one. ',
     },
+   
     {
       question: 'How fast will my requests be fulfilled?',
       answer:
@@ -65,7 +67,7 @@ const faqs = [
     },
     {
       question:
-        "How does the Agile point system work?",
+        "How do you deal with big or complex requests?",
       answer:
         "Each request you add to your Trello board queue is broken down into tasks (each task assigned a point value based on complexity) within 12 hours. We complete requests generally in 1-2 business days after they are pointed depending on their complexity. If you have any questions about our pointing system, feel free to reach out to us at dan@webshopwizards.com.",
     },
