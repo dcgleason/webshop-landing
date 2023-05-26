@@ -52,7 +52,7 @@ const faqs = [
       question:
         'How do I make requests development features and changes?',
       answer:
-        'Webshop Wizards use Trello boards. Some clients request designs is directly via Trello. Some share links to Google docs or wireframes, or even recording a brief Loom video (for those who prefer not to write their briefs out) directly in Trello request task. Basically, if it can be linked to or shared in Trello, we can work with it.',
+        'Webshop Wizards use Trello boards. Some clients request designs by writing them directly via Trello. Some share links to Google docs or wireframes, or even recording a brief Loom video (for those who prefer not to write their briefs out) directly in Trello request task. Basically, if it can be linked to or shared in a Trello board card, we can work with it.',
     },
     {
       question:
