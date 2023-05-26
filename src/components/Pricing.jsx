@@ -132,7 +132,7 @@ export function Pricing() {
             featured
             name="Quarterly"
             price="$2395/month"
-            description="Paid quarterly for a 20% discount after a 7 day free trial period"
+            description="Paid quarterly for a 20% discount after a 7 day free trial period."
             href="https://calendly.com/webshopwizards/30min"
             features={[
               'Unlimited revisions',
@@ -145,7 +145,7 @@ export function Pricing() {
           <Plan
             name="Yearly"
             price="$2095/month"
-            description="Paid yearly for a 30% discount after a 7 day free trial period"
+            description="Paid yearly for a 30% discount after a 7 day free trial period."
             href="https://calendly.com/webshopwizards/30min"
 
             features={[
