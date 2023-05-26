@@ -28,7 +28,7 @@ const faqs = [
     {
       question: 'Who are the developers?',
       answer:
-        "You might be surpised to hear this, but Webshop Wizards is run by its two founderes, Manny and Dan. We worked at met at our place of work, IBM. We've, together, worked on projects for IBM, the U.S. Department of Health & Human Services, the U.S. Department of State, and more. Working with Webshop Wizards means you work direct with us.",
+        "You might be surpised to hear this, but Webshop Wizards is comprised of its two founderes, Manny and Dan, and that is it. After meeeting while working at IBM, we decided to offer our services to other companies. Together, we've orked on projects for IBM, the U.S. Department of Health & Human Services, the U.S. Department of State, and more.",
     },
     {
       question: 'How fast will my requests be fulfilled?',
