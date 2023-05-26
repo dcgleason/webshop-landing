@@ -3,6 +3,8 @@ import Image from 'next/image'
 import { Container } from '@/components/Container'
 import backgroundImage from '@/images/background-faqs.jpg'
 import { useState } from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faChevronDown, faChevronUp } from '@fortawesome/free-solid-svg-icons';
 
 const faqs = [
   [
@@ -117,27 +119,33 @@ export function Faqs() {
         className="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-8 lg:max-w-none lg:grid-cols-3"
       >
         {faqs.map((column, columnIndex) => (
-          <li key={columnIndex}>
-            <ul role="list" className="flex flex-col gap-y-8">
-              {column.map((faq, faqIndex) => {
-                const index = `${columnIndex}-${faqIndex}`;
-                return (
-                  <li key={faqIndex}>
-                    <h3
-                      className="font-display text-lg leading-7 text-slate-900 cursor-pointer"
-                      onClick={() => handleClick(index)}
-                    >
-                      {faq.question}
-                    </h3>
-                    <p className={`mt-4 text-sm text-slate-700 ${activeIndex === index ? '' : 'hidden'}`}>
-                      {faq.answer}
-                    </p>
-                  </li>
-                );
-              })}
-            </ul>
-          </li>
-        ))}
+    <li key={columnIndex}>
+      <ul role="list" className="flex flex-col gap-y-8">
+        {column.map((faq, faqIndex) => {
+          const index = `${columnIndex}-${faqIndex}`;
+          return (
+            <li key={faqIndex}>
+              <div 
+                className="flex justify-between items-center cursor-pointer"
+                onClick={() => handleClick(index)}
+              >
+                <h3 className="font-display text-lg leading-7 text-slate-900">
+                  {faq.question}
+                </h3>
+                <FontAwesomeIcon
+                  icon={activeIndex === index ? faChevronUp : faChevronDown}
+                  className="text-slate-700"
+                />
+              </div>
+              <p className={`mt-4 text-sm text-slate-700 ${activeIndex === index ? '' : 'hidden'}`}>
+                {faq.answer}
+              </p>
+            </li>
+          );
+        })}
+    </ul>
+  </li>
+))}
       </ul>
     </Container>
   </section>
