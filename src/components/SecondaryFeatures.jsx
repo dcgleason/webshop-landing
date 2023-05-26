@@ -219,7 +219,7 @@ export function SecondaryFeatures() {
          Oh! ...and no contracts. Cancel or pause at anytime.  
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">
-        Our services include:
+        Our subscription services include:
           </p>
         </div>
         <FeaturesMobile />
