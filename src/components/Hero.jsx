@@ -28,7 +28,7 @@ export function Hero() {
        
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-     Experienced devs. Unlimited requests. No meetings. One monthly subscription fee. 
+     Experienced devs. Unlimited requests. One flat monthly subscription fee. 
       </p>
       <div className="mt-10 flex justify-center gap-x-6">
         <Button href="#pricing">Sign-up and get your first week free</Button>
