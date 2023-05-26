@@ -69,7 +69,7 @@ const faqs = [
       question:
         "How do you deal with big or complex requests?",
       answer:
-        "Each request you add to your Trello board queue is broken down into tasks (each task assigned a point value based on complexity) within 12 hours. We complete requests generally in 1-2 business days after they are pointed depending on their complexity. If you have any questions about our pointing system, feel free to reach out to us at dan@webshopwizards.com.",
+        "We work in an Agile fashion. Each request you add to your Trello board backlog is broken down into tasks (each task assigned a point value based on complexity) assigned a 1-week sprint within a few hours. Points go up in value via the the Fibonacci sequence -- 1 point is a simple task and 13 points is a very complex task. Your work is delivered weekly at a rate of ~ 13 points per week. If you have any questions about our pointing system, feel free to reach out to us at dan@webshopwizards.com.",
     },
     {
       question:
