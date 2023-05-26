@@ -121,9 +121,9 @@ export function Pricing() {
             href="https://calendly.com/webshopwizards/30min"
             features={[
               'Unlimited revisions',
+              'Custom landing page development',
               'Custom web app development',
               'API development and integrations',
-              'Custom landing page development',
               'Ongoing support and troubleshooting',
            
             ]}
@@ -136,9 +136,9 @@ export function Pricing() {
             href="https://calendly.com/webshopwizards/30min"
             features={[
               'Unlimited revisions',
+              'Custom landing page development',
               'Custom web app development',
               'API development and integrations',
-              'Custom landing page development',
               'Ongoing support and troubleshooting',
             ]}
           />
@@ -150,9 +150,9 @@ export function Pricing() {
 
             features={[
               'Unlimited revisions',
+              'Custom landing page development',
               'Custom web app development',
               'API development and integrations',
-              'Custom landing page development',
               'Ongoing support and troubleshooting',
               
             ]}
