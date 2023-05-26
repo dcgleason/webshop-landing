@@ -118,7 +118,7 @@ export function Pricing() {
             name="Monthly"
             price="$2995/month"
             description="Paid monthly. Cancel anytime."
-            href="https://buy.stripe.com/test_fZeeVvgpOgiFcAo6oo"
+            href="https://calendly.com/webshopwizards/30min"
             features={[
               'Unlimited revisions',
               'Custom web app development',
@@ -134,7 +134,7 @@ export function Pricing() {
             name="Quarterly"
             price="$2395/month"
             description="Paid quarterly for a 20% discount."
-            href="https://buy.stripe.com/test_00g9BbflKaYl6c04gh"
+            href="https://calendly.com/webshopwizards/30min"
             features={[
               'Unlimited revisions',
               'Custom web app development',
@@ -148,7 +148,7 @@ export function Pricing() {
             name="Yearly"
             price="$2095/month"
             description="Paid yearly for a 30% discount."
-            href="https://buy.stripe.com/test_14kbJj7TifeB0RG9AC"
+            href="https://calendly.com/webshopwizards/30min"
 
             features={[
               'Unlimited revisions',
