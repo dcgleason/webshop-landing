@@ -28,7 +28,7 @@ const faqs = [
     {
       question: 'Who are the developers?',
       answer:
-        "You might be surpised to hear this, but Webshop Wizards is comprised of its two founderes, Manny and Dan, and that is it. After meeeting while working at IBM, we decided to offer our services to other companies. Together, we've orked on projects for IBM, the U.S. Department of Health & Human Services, the U.S. Department of State, and more.",
+        "You might be surpised to hear this, but Webshop Wizards is comprised of its two founders, Manny and Dan, and that is it. After meeeting while working at IBM, we decided to offer our services to other companies. Together, we've orked on projects for IBM, the U.S. Department of Health & Human Services, the U.S. Department of State, and more.",
     },
     {
       question: 'How fast will my requests be fulfilled?',

@@ -21,10 +21,10 @@ export function CallToAction() {
       <Container className="relative">
         <div className="mx-auto max-w-lg text-center">
           <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl">
-            Get started today
+            Th first week is on us.
           </h2>
           <p className="mt-4 text-lg tracking-tight text-white">
-        Your success is our priority. That is why we are here to help you grow your business.
+       We&apos;re that confident that you&apos;ll love our service. Try us out for a week, and if you don&apos;t like it, we&apos;ll give you your money back.
           </p>
           <Button href="/#pricing" color="white" className="mt-10">
            Sign-up
