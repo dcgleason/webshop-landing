@@ -117,7 +117,7 @@ export function Pricing() {
           <Plan
             name="Monthly"
             price="$2995/month"
-            description="Paid monthly. Cancel anytime. "
+            description="Paid monthly after a 7 day free trial. Cancel anytime. "
             href="https://calendly.com/webshopwizards/30min" 
             features={[
               'Unlimited revisions',
