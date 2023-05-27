@@ -1,7 +1,10 @@
 import { Head, Html, Main, NextScript } from 'next/document'
+import Script from 'next/script'
 
 export default function Document(props) {
   let pageProps = props.__NEXT_DATA__?.props?.pageProps
+
+  
 
   return (
     <Html
@@ -23,17 +26,17 @@ export default function Document(props) {
       <body className="flex h-full flex-col">
         <Main />
         <NextScript />
-         <script dangerouslySetInnerHTML={{ 
-            __html: `
-              window.WIDGET_CONFIG = {
-                globalWidgetId: '6aa1a27f-8ab5-4b97-a347-98866b7deef7',
-                baseUrl: 'https://app.warmwelcome.com',
-              };
-            `
-          }} />
-
-          <script src="https://d7a97ajcmht8v.cloudfront.net/production/app.js"></script>
-
+        <Script id="widget-script" strategy="lazyOnload">
+          {`
+            window.WIDGET_CONFIG = {
+              globalWidgetId: '6aa1a27f-8ab5-4b97-a347-98866b7deef7',
+              baseUrl: 'https://app.warmwelcome.com',
+            };
+          `}
+        </Script>
+        
+        <Script src="https://d7a97ajcmht8v.cloudfront.net/production/app.js" strategy="lazyOnload" />
+       
       </body>
     </Html>
   )
