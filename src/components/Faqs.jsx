@@ -55,7 +55,7 @@ const faqs = [
   [
     {
       question:
-        'How do I make requests development features and changes?',
+        'How do I make requests for the development of features and changes?',
       answer:
         'Webshop Wizards use Trello boards. You can request features by writing them directly via a Trello. You can also share links to Google docs or wireframes, or even recording a brief Loom video (for those who prefer not to write their briefs out) directly in a Trello card. Basically, if it can be linked to or shared in a Trello board card, we can work with it.',
     },
