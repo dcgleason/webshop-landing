@@ -13,18 +13,6 @@ import { useEffect } from 'react'
 
 export default function Home() {
 
-  useEffect(() => {
-    // load the script once after the component has mounted
-    window.WIDGET_CONFIG = {
-      globalWidgetId: '6aa1a27f-8ab5-4b97-a347-98866b7deef7',
-      baseUrl: 'https://app.warmwelcome.com',
-    };
-
-    const script = document.createElement('script');
-    script.src = 'https://d7a97ajcmht8v.cloudfront.net/production/app.js';
-    script.async = true;
-    document.body.appendChild(script);
-  }, []);
 
   return (
     <>
