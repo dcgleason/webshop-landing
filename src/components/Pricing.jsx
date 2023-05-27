@@ -116,7 +116,7 @@ export function Pricing() {
         <div className="-mx-4 mt-16 grid max-w-2xl grid-cols-1 gap-y-10 sm:mx-auto lg:-mx-8 lg:max-w-none lg:grid-cols-3 xl:mx-0 xl:gap-x-8">
           <Plan
             name="Monthly"
-            price="$2995/month"
+            price="$3995/month"
             description="Paid monthly after a 7 day free trial. Cancel anytime. "
             href="https://calendly.com/webshopwizards/30min" 
             features={[
@@ -131,7 +131,7 @@ export function Pricing() {
           <Plan
             featured
             name="Quarterly"
-            price="$2395/month"
+            price="$3195/month"
             description="Paid quarterly for a 20% discount."
             href="https://calendly.com/webshopwizards/30min"
             features={[
@@ -144,7 +144,7 @@ export function Pricing() {
           />
           <Plan
             name="Yearly"
-            price="$2095/month"
+            price="$2795/month"
             description="Paid yearly for a 30% discount."
             href="https://calendly.com/webshopwizards/30min"
 
