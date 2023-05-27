@@ -85,7 +85,7 @@ const faqs = [
       question:
         "What are some recent projects you've worked on?",
       answer:
-        "Most recently, we've tackled a complex Gmail / Node.js integration and set up a custom Stripe integrations using React.js.",
+        "Most recently, tackled a complex Gmail / Node.js integration and set up a custom Stripe integrations using React.js / Node on a custom landing page we built.",
     },
   ],
 ]
