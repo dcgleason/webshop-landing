@@ -27,6 +27,10 @@ const faqs = [
       question: 'Do you offer web design services?',
       answer: 'We are JavaScript developers only, and so unfortunately, do not offer web design services. We can, however, work with your existing designs and implement them into your web app.',
     },
+    {
+      question: 'Do you take equity a form of compensation for your services?',
+      answer: 'We do! For select clients, we will take equity as a form of partial payment. If you are interested in this option,  please email us at dan@webshopwizards.com',
+    },
   
   ],
   [
