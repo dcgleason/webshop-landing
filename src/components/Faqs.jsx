@@ -81,6 +81,12 @@ const faqs = [
       answer:
         "No, we do not do mobile app development. We do, however, do web app development, and can make your web app mobile-friendly.",
     },
+    {
+      question:
+        "What are some recent projects you've worked on?",
+      answer:
+        "Most recently, we've tackled a complex Gmail / Node.js integration and set up a custom Stripe integrations using React.js.",
+    },
   ],
 ]
 
