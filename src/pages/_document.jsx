@@ -23,16 +23,16 @@ export default function Document(props) {
       <body className="flex h-full flex-col">
         <Main />
         <NextScript />
-        <script dangerouslySetInnerHTML={{ 
+         <script dangerouslySetInnerHTML={{ 
             __html: `
               window.WIDGET_CONFIG = {
                 globalWidgetId: '6aa1a27f-8ab5-4b97-a347-98866b7deef7',
                 baseUrl: 'https://app.warmwelcome.com',
               };
             `
-          }} async />
+          }} />
 
-          <script src="https://d7a97ajcmht8v.cloudfront.net/production/app.js" async></script>
+          <script src="https://d7a97ajcmht8v.cloudfront.net/production/app.js"></script>
 
       </body>
     </Html>
