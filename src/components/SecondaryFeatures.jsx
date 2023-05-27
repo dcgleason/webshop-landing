@@ -48,7 +48,7 @@ const features = [
     summary:
       'Get your products and features fast.',
     description:
-      "We put our clients first and deliver a good amount of quality results, consistantly, via 1-week sprints.",
+      "We prioritizing our clients and assure a steady stream of high-quality deliverables, consistently produced through our efficient one-week sprints",
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (
