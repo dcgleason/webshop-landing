@@ -46,7 +46,7 @@ const features = [
   {
     name: 'Expedited Agile Delivery',
     summary:
-      'Get your products and features fast.',
+      'Get your product to market...quikly.',
     description:
       "We prioritizing our clients and assure a steady stream of high-quality deliverables, consistently produced through our efficient one-week sprints",
     image: screenshotInventory,
