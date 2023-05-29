@@ -114,23 +114,8 @@ export function Pricing() {
           </p>
         </div>
         <div className="-mx-4 mt-16 grid max-w-2xl grid-cols-1 gap-y-10 sm:mx-auto lg:-mx-8 lg:max-w-none lg:grid-cols-3 xl:mx-0 xl:gap-x-8">
-          
           <Plan
             featured
-            name="Monthly Subscription"
-            price="$3995/month"
-            description="Paid monthly. Cancel or pause at anytime."
-            href="https://calendly.com/webshopwizards/30min"
-            features={[
-              'Unlimited revisions',
-              'Custom landing page development and design',
-              'Result-driven email marketing',
-              'Custom web app development',
-              'API development and integrations',
-              'Ongoing support and troubleshooting',
-            ]}
-          />
-          <Plan
             name="Revenue Share"
             price="20% / month"
             description="20% of your increase in revenue. Paid monthly. No upfront payment. "
@@ -143,6 +128,21 @@ export function Pricing() {
               'API development and integrations',
               'Ongoing support and troubleshooting',
            
+            ]}
+          />
+          <Plan
+           
+            name="Monthly Subscription"
+            price="$3995/month"
+            description="Paid monthly. Cancel or pause at anytime."
+            href="https://calendly.com/webshopwizards/30min"
+            features={[
+              'Unlimited revisions',
+              'Custom landing page development and design',
+              'Result-driven email marketing',
+              'Custom web app development',
+              'API development and integrations',
+              'Ongoing support and troubleshooting',
             ]}
           />
           <Plan
