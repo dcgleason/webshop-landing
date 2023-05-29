@@ -117,7 +117,7 @@ export function Pricing() {
           <Plan
             name="Revenue Share"
             price="20% / month"
-            description="20% of the revenue we generate for you. Paid monthly. No upfront payment. "
+            description="20% of your increase in revenue. Paid monthly. No upfront payment. "
             href="https://calendly.com/webshopwizards/30min" 
             features={[
               'Unlimited revisions',
