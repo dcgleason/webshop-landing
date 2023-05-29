@@ -116,8 +116,8 @@ export function Pricing() {
         <div className="-mx-4 mt-16 grid max-w-2xl grid-cols-1 gap-y-10 sm:mx-auto lg:-mx-8 lg:max-w-none lg:grid-cols-3 xl:mx-0 xl:gap-x-8">
           <Plan
             name="Revenue Share"
-            price="20% of the revenue we generate for you every month"
-            description="Paid monthly. No upfront payment. "
+            price="20% / month"
+            description="20% of the revenue we generate for you. Paid monthly. No upfront payment. "
             href="https://calendly.com/webshopwizards/30min" 
             features={[
               'Unlimited revisions',
