@@ -114,48 +114,43 @@ export function Pricing() {
           </p>
         </div>
         <div className="-mx-4 mt-16 grid max-w-2xl grid-cols-1 gap-y-10 sm:mx-auto lg:-mx-8 lg:max-w-none lg:grid-cols-3 xl:mx-0 xl:gap-x-8">
-  
           <Plan
-           
-            name="Monthly Subscription"
+            name="Monthly"
             price="$3995/month"
-            description="Paid monthly. Cancel or pause at anytime."
-            href="https://calendly.com/webshopwizards/30min"
+            description="Paid monthly after a 7 day free trial. Cancel anytime. "
+            href="https://calendly.com/webshopwizards/30min" 
             features={[
               'Unlimited revisions',
-              'Custom landing page development and design',
-              'Result-driven email marketing',
+              'Landing page development with conversion optimization',
               'Custom web app development',
               'API development and integrations',
               'Ongoing support and troubleshooting',
+           
             ]}
           />
           <Plan
             featured
-            name="Revenue Share"
-            price="20% / month"
-            description="20% of your increase in revenue. Paid monthly. No upfront payment. "
-            href="https://calendly.com/webshopwizards/30min" 
+            name="Quarterly"
+            price="$3195/month"
+            description="Paid quarterly for a 20% discount."
+            href="https://calendly.com/webshopwizards/30min"
             features={[
               'Unlimited revisions',
-              'Custom landing page development and design',
-              'Result-driven email marketing',
+              'Custom landing page development with conversion optimization',
               'Custom web app development',
               'API development and integrations',
               'Ongoing support and troubleshooting',
-           
             ]}
           />
           <Plan
-            name="Annual Subscription"
+            name="Yearly"
             price="$2795/month"
             description="Paid yearly for a 30% discount."
             href="https://calendly.com/webshopwizards/30min"
 
             features={[
               'Unlimited revisions',
-              'Custom landing page development and design',
-              'Result-driven email marketing',
+              'Custom landing page development with conversion optimization',
               'Custom web app development',
               'API development and integrations',
               'Ongoing support and troubleshooting',
