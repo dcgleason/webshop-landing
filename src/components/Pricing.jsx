@@ -115,13 +115,14 @@ export function Pricing() {
         </div>
         <div className="-mx-4 mt-16 grid max-w-2xl grid-cols-1 gap-y-10 sm:mx-auto lg:-mx-8 lg:max-w-none lg:grid-cols-3 xl:mx-0 xl:gap-x-8">
           <Plan
-            name="Monthly"
-            price="$3995/month"
-            description="Paid monthly after a 7 day free trial. Cancel anytime. "
+            name="Revenue Share"
+            price="20% of the revenue we generate for you every month"
+            description="Paid monthly. No upfront payment. "
             href="https://calendly.com/webshopwizards/30min" 
             features={[
               'Unlimited revisions',
-              'Custom landing page development',
+              'Custom landing page development and design',
+              'Result-driven email marketing',
               'Custom web app development',
               'API development and integrations',
               'Ongoing support and troubleshooting',
@@ -130,27 +131,29 @@ export function Pricing() {
           />
           <Plan
             featured
-            name="Quarterly"
-            price="$3195/month"
-            description="Paid quarterly for a 20% discount."
+            name="Monthly Subscription"
+            price="$3995/month"
+            description="Paid monthly. Cancel or pause at anytime."
             href="https://calendly.com/webshopwizards/30min"
             features={[
               'Unlimited revisions',
-              'Custom landing page development',
+              'Custom landing page development and design',
+              'Result-driven email marketing',
               'Custom web app development',
               'API development and integrations',
               'Ongoing support and troubleshooting',
             ]}
           />
           <Plan
-            name="Yearly"
+            name="Annual Subscription"
             price="$2795/month"
             description="Paid yearly for a 30% discount."
             href="https://calendly.com/webshopwizards/30min"
 
             features={[
               'Unlimited revisions',
-              'Custom landing page development',
+              'Custom landing page development and design',
+              'Result-driven email marketing',
               'Custom web app development',
               'API development and integrations',
               'Ongoing support and troubleshooting',
