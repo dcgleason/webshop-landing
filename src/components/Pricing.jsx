@@ -121,7 +121,7 @@ export function Pricing() {
             href="https://calendly.com/webshopwizards/30min" 
             features={[
               'Unlimited revisions',
-              'Landing page development with conversion optimization',
+              'Landing page development optimized for conversation',
               'Full-stack Web app development for MVPs and enhancements to existing web apps',
               'Web app legacy modernization',
               'Backend API development and integrations',
@@ -137,7 +137,7 @@ export function Pricing() {
             href="https://calendly.com/webshopwizards/30min"
             features={[
               'Unlimited revisions',
-              'Custom landing page development with conversion optimization',
+              'Custom landing page development optimized for conversation',
               'Full-stack web app development for MVPs and enhancements to existing web apps',
               'Web app legacy modernization',
               'Backend API development and integrations',
@@ -152,7 +152,7 @@ export function Pricing() {
 
             features={[
               'Unlimited revisions',
-              'Custom landing page development with conversion optimization',
+              'Custom landing page development optimized for conversation',
               'Full-stack web app development for MVPs and enhancements to existing web apps',
               'Web app legacy modernization',
               'Backend API development and integrations',
