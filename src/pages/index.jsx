@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <>
         <Head>
-          <title>Webshop Wizards: Result-Driven Web Development Services</title>
+          <title>Webshop Wizards: Premium Subscription-based Web Development Services</title>
           <meta
             name="description"
             content="Webshop Wizards is a flexible, subscription-based web development and design agency. We prioritize user-friendly solutions without compromising accuracy, and provide ongoing service billed monthly. Experience the magic of our subscription-based services today."
