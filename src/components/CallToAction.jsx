@@ -24,10 +24,10 @@ export function CallToAction() {
             Get started today
           </h2>
           <p className="mt-4 text-lg tracking-tight text-white">
-        Your success is our priority. That is why we are here to help you grow your business.
+       Your success is our top priority. 
           </p>
           <Button href="/#pricing" color="white" className="mt-10">
-          Sign-up and get your first week free
+          Sign-up and to see if we can help you
           </Button>
         </div>
       </Container>
