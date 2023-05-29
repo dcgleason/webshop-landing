@@ -27,7 +27,7 @@ export function CallToAction() {
        Your success is our top priority. 
           </p>
           <Button href="/#pricing" color="white" className="mt-10">
-          Drive more revenue with ou services – begin now
+          See plans
           </Button>
         </div>
       </Container>
