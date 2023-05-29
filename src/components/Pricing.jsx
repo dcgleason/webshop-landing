@@ -122,8 +122,9 @@ export function Pricing() {
             features={[
               'Unlimited revisions',
               'Landing page development with conversion optimization',
-              'Custom web app development',
-              'API development and integrations',
+              'Full-stack Web app development for MVPs and enhancements to existing web apps',
+              'Web app legacy modernization',
+              'Backend API development and integrations',
               'Ongoing support and troubleshooting',
            
             ]}
@@ -137,8 +138,9 @@ export function Pricing() {
             features={[
               'Unlimited revisions',
               'Custom landing page development with conversion optimization',
-              'Custom web app development',
-              'API development and integrations',
+              'Full-stack web app development for MVPs and enhancements to existing web apps',
+              'Web app legacy modernization',
+              'Backend API development and integrations',
               'Ongoing support and troubleshooting',
             ]}
           />
@@ -151,8 +153,9 @@ export function Pricing() {
             features={[
               'Unlimited revisions',
               'Custom landing page development with conversion optimization',
-              'Custom web app development',
-              'API development and integrations',
+              'Full-stack web app development for MVPs and enhancements to existing web apps',
+              'Web app legacy modernization',
+              'Backend API development and integrations',
               'Ongoing support and troubleshooting',
               
             ]}
