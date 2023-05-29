@@ -11,9 +11,9 @@ import screenshotProfitLoss from '@/images/screenshots/profit-loss.png'
 const features = [
   {
     name: 'Unlimited Revisions',
-    summary: 'Enjoy unlimited revisions until we hit the mark.',
+    summary: 'Enjoy unlimited revisions until you hit your business objectives.',
     description:
-      "We're not happy until you're thrilled. We'll work with you until you're satisfied with the results.",
+      "We're not happy until you're thrilled. We'll work with you until you're satisfied with your results, whether that is product-market fit or a certain number of users.",
     image: screenshotProfitLoss,
     icon: function ReportingIcon() {
       let id = useId()
@@ -74,9 +74,9 @@ const features = [
   {
     name: 'Totally Async',
     summary:
-      "Meetings slow everything down, so we don't have them.",
+      "Meetings slow everything down, so we (generally) don't have them.",
     description:
-      "After our intro call, you'll get your own Trello board to request features, track progress, and communicate with your team and us. We let you invite an unlimited amount of Trello users, so you can add your whole team to the board.",
+      "After our intro call, you'll get your own Trello board to request features, track progress, and communicate with your team and us. We will post to it daily to share with you our progress. That said, if you do need to meet for any reason, we can schedule a call.",
     image: screenshotContacts,
     icon: function ContactsIcon() {
       return (
