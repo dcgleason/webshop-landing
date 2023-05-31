@@ -21,7 +21,7 @@ const faqs = [
     
     {
       question: 'What technologies do you work with?',
-      answer: 'We are experts working with the following languages / libraries / frameworks / databases: Javascript, React.js, Express.js, Node.js, TailwindCSS, Next.js, MongoDB, and AWS S3. We also work with no-code / low-code software like Zapier, Webflow, Airtable, and Shopify that is your preference. Please reach out if you have any questions regarding your specific tech stack.',
+      answer: 'We are experts working with the following languages / libraries / frameworks / databases: Javascript, React.js, Express.js, Node.js, TailwindCSS, Next.js, MongoDB, and AWS S3. We also work with no-code / low-code software like Zapier, Webflow, Airtable, and Shopify. Please reach out if you have any questions regarding your specific tech stack.',
     },
     {
       question: 'Do you offer web design services?',
