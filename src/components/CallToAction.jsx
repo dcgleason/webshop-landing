@@ -27,7 +27,7 @@ export function CallToAction() {
                No credit card required.
           </p>
           <Button href="/#pricing" color="white" className="mt-10">
-          See plans
+          See Plans
           </Button>
         </div>
       </Container>
