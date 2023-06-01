@@ -76,7 +76,7 @@ const features = [
     summary:
       "Meetings slow everything down, so we (generally) don't have them.",
     description:
-      "After our intro call, you'll get your own Trello board to request features, track progress, and communicate with your team and us. We will post to it daily to share with you our progress (if you do need to meet for any reason, we are happy to schedule a call).",
+      "After our intro call, you'll get your own Trello board to request features, track progress, and communicate with your team and us. If you do need to meet for any reason, we are happy to schedule a call.",
     image: screenshotContacts,
     icon: function ContactsIcon() {
       return (
