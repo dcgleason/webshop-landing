@@ -21,10 +21,10 @@ export function CallToAction() {
       <Container className="relative">
         <div className="mx-auto max-w-lg text-center">
           <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl">
-            Get started today
+            Get started today with your first week.
           </h2>
           <p className="mt-4 text-lg tracking-tight text-white">
-       Your success is our top priority. 
+               No credit card required.
           </p>
           <Button href="/#pricing" color="white" className="mt-10">
           See plans
