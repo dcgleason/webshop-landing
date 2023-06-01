@@ -13,7 +13,7 @@ const features = [
     name: 'Unlimited Revisions',
     summary: 'Enjoy unlimited revisions until you hit your business objectives.',
     description:
-      "We're not happy until you're thrilled. We'll work with you until you hit your targets, whether that is product-market fit or a certain number of users.",
+      "We're not happy until you're thrilled. We'll work with you to make sure your product is exactly what you want.",
     image: screenshotProfitLoss,
     icon: function ReportingIcon() {
       let id = useId()
