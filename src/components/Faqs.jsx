@@ -16,7 +16,7 @@ const faqs = [
     {
       question: 'Who are the developers?',
       answer:
-        "You might be surpised to hear this, but Webshop Wizards is comprised of its two founders... and that is it! After meeeting while working at IBM, we decided to offer our services to other companies.",
+        "You might be surpised to hear this, but Webshop Wizards is comprised of its two founders... and that is it! After meeeting while working at IBM, we decided to offer our services to other companies. We keep up with work by limiting the number of clients we agree to take on.",
     },
     
     {
