@@ -11,7 +11,7 @@ import screenshotProfitLoss from '@/images/screenshots/profit-loss.png'
 const features = [
   {
     name: 'Unlimited Revisions',
-    summary: 'Enjoy unlimited revisions until you hit your business objectives.',
+    summary: 'Enjoy unlimited revisions until we hit the mark.',
     description:
       "We're not happy until you're thrilled. We'll work with you to make sure your product is exactly what you want.",
     image: screenshotProfitLoss,
