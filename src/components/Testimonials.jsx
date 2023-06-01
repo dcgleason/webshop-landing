@@ -34,7 +34,7 @@ const testimonials = [
   [
     {
       content:
-        "I've had the benefit of working with Manny from his earliest days at IBM. Manny is always ready to take on a new challenge and  will push himself to learn what is needed to get the job done. Between his calm measured demeanor, desire to learn, and strong with ethic Manyn is a pleasure to work with.",
+        "I've had the benefit of working with Manny from his earliest days at IBM. Manny is always ready to take on a new challenge and  will push himself to learn what is needed to get the job done. Between his calm measured demeanor, desire to learn, and strong with ethic Manny is a pleasure to work with.",
       author: {
         name: 'Peter Goodman',
         role: 'Business Analyst @ IBM',
