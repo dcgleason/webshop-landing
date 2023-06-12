@@ -24,7 +24,7 @@ export function CallToAction() {
              Pay only if you&apos;re happy with the work. Every month. 
           </h2>
           <p className="mt-4 text-lg tracking-tight text-white">
-               No credit card required.
+           No credit card required to start. 
           </p>
           <Button href="/#pricing" color="white" className="mt-10">
           See Plans
