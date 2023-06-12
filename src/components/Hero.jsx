@@ -28,10 +28,10 @@ export function Hero() {
        
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-  On-demand access to JavaScript developers. One competitive, monthly subscription fee. Cancel or pause anytime.
+  On-demand access to JavaScript developers. One competitive, monthly subscription fee. Pay only if you&apos;re happy with the work each month. Cancel or pause anytime.
       </p>
       <div className="mt-10 flex justify-center gap-x-6">
-        <Button href="#pricing">Pay only if you&apos;re happy with the work each month</Button>
+        <Button href="#pricing">See plans</Button>
         {/* <Button
           href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           variant="outline"
