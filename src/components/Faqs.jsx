@@ -67,7 +67,7 @@ const faqs = [
       question:
         "Are there refunds if I don't like the service?",
       answer:
-        "We do not offer refunds. We do, however, offer a free 1-week trial. If you are not satisfied with our work, you can cancel your subscription at any time.",
+        "We do not offer refunds. We do, however, allow you to only pay for the months you need our services, and pay each month if you are fully satisfied with the work delivered. If you are not satisfied, you can cancel your subscription at any time.",
     },
     {
       question:
