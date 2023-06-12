@@ -79,7 +79,7 @@ const faqs = [
       question:
         "Do you do mobile app development?",
       answer:
-        "No, we do not do mobile app development. We do, however, do web app development, and can make your web app mobile-friendly.",
+        "Yes, we do! We can build mobile apps using React Native.",
     },
     {
       question:
