@@ -21,7 +21,7 @@ export function CallToAction() {
       <Container className="relative">
         <div className="mx-auto max-w-lg text-center">
           <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl">
-             Pay only if you&apos;re happy with our work. Every month. 
+             Pay only if you&apos;re happy with the work. Every month. 
           </h2>
           <p className="mt-4 text-lg tracking-tight text-white">
                No credit card required.

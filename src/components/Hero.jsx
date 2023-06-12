@@ -31,7 +31,7 @@ export function Hero() {
   On-demand access to JavaScript developers. One competitive, monthly subscription fee. Cancel or pause anytime.
       </p>
       <div className="mt-10 flex justify-center gap-x-6">
-        <Button href="#pricing">Pay only if you&apos;re happy with our work each month</Button>
+        <Button href="#pricing">Pay only if you&apos;re happy with the work each month</Button>
         {/* <Button
           href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           variant="outline"
