@@ -93,46 +93,49 @@ function Plan({ name, price, description, href, features, featured = false }) {
   )
 }
 
-export function Pricing() {
+function Plan({ name, price, description, href, features, featured = false }) {
   return (
     <section
-      id="pricing"
-      aria-label="Pricing"
-      className="bg-slate-900 py-20 sm:py-32"
+      className={clsx(
+        'flex flex-col rounded-3xl px-6 sm:px-8',
+        featured ? 'order-first bg-[#5271ff] py-8 lg:order-none w-1/2 mx-auto' : 'lg:py-8'
+      )}
     >
-      <Container>
-        <div className="md:text-center">
-          <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl">
-            <span className="relative whitespace-nowrap">
-              <SwirlyDoodle className="absolute left-0 top-1/2 h-[1em] w-full fill-blue-400" />
-              <span className="relative">Membership</span>
-            </span>{' '}
-      pricing.
-          </h2>
-          <p className="mt-4 text-lg text-slate-400">
-            We offer a monthly membership for ongoing support and software development.
-          </p>
-        </div>
-        <div className="mt-16 grid max-w-xl grid-cols-1 gap-y-10 sm:mx-auto lg:max-w-none lg:grid-cols-1 xl:mx-0 xl:gap-x-8">         
-         
-          <Plan
-            featured
-            name="Monthly"
-            price="$3995"
-            description="Paid monthly if you love our work. Cancel anytime."
-            href="https://calendly.com/webshopwizards/30min"
-            features={[
-              'Unlimited revisions',
-              'Custom landing page development optimized for conversation',
-              'Full-stack web app development for MVPs and enhancements to existing web apps',
-              'Web app legacy modernization',
-              'Backend API development and integrations',
-              'Ongoing support and troubleshooting',
-            ]}
-          />
-         
-        </div>
-      </Container>
+      <h3 className="mt-5 font-display text-lg text-white">{name}</h3>
+      <p
+        className={clsx(
+          'mt-2 text-base',
+          featured ? 'text-white' : 'text-slate-400'
+        )}
+      >
+        {description}
+      </p>
+      <p className="order-first font-display text-5xl font-light tracking-tight text-white">
+        {price}
+      </p>
+      <ul
+        role="list"
+        className={clsx(
+          'order-last mt-10 flex flex-col gap-y-3 text-sm',
+          featured ? 'text-white' : 'text-slate-200'
+        )}
+      >
+        {features.map((feature) => (
+          <li key={feature} className="flex">
+            <CheckIcon className={featured ? 'text-white' : 'text-slate-400'} />
+            <span className="ml-4">{feature}</span>
+          </li>
+        ))}
+      </ul>
+      <Button
+        href={href}
+        variant={featured ? 'solid' : 'outline'}
+        color="white"
+        className="mt-8"
+        aria-label={`Get started with the ${name} plan for ${price}`}
+      >
+        Get started
+      </Button>
     </section>
   )
 }
