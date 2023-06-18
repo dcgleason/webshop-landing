@@ -133,7 +133,7 @@ export function Pricing() {
             featured
             name="Monthly"
             price="$3195/month"
-            description="Paid quarterly for a 20% discount."
+            description="Paid monthly if you love our work. Cancel anytime."
             href="https://calendly.com/webshopwizards/30min"
             features={[
               'Unlimited revisions',
