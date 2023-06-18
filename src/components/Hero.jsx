@@ -28,7 +28,7 @@ export function Hero() {
        
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-      Unlimited revisions. Pay only if you love the work at the end of each month. Cancel or pause anytime. 
+      Unlimited revisions. Pay only if you <em>love</em> the work at the end of each month. Cancel or pause anytime. 
       </p>
       <div className="mt-10 flex justify-center gap-x-6">
         <Button href="#pricing">See plans</Button>
