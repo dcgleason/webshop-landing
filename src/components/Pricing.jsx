@@ -113,8 +113,8 @@ export function Pricing() {
             Choose the plan that works best for you.
           </p>
         </div>
-        <div className="mt-16 grid max-w-2xl grid-cols-1 gap-y-10 sm:mx-auto lg:max-w-none lg:grid-cols-1 xl:mx-0 xl:gap-x-8">
-          <Plan
+        <div className="-mx-4 mt-16 grid max-w-2xl grid-cols-1 gap-y-10 sm:mx-auto lg:-mx-8 lg:max-w-none lg:grid-cols-3 xl:mx-0 xl:gap-x-8">
+          {/* <Plan
             name="Monthly"
             price="$3995/month"
             description="Paid monthly after a 7 day free trial. Cancel anytime. "
@@ -126,8 +126,40 @@ export function Pricing() {
               'Web app legacy modernization',
               'Backend API development and integrations',
               'Ongoing support and troubleshooting',
+           
+            ]}
+          /> */}
+          <Plan
+            featured
+            name="Monthly"
+            price="$3195/month"
+            description="Paid quarterly for a 20% discount."
+            href="https://calendly.com/webshopwizards/30min"
+            features={[
+              'Unlimited revisions',
+              'Custom landing page development optimized for conversation',
+              'Full-stack web app development for MVPs and enhancements to existing web apps',
+              'Web app legacy modernization',
+              'Backend API development and integrations',
+              'Ongoing support and troubleshooting',
             ]}
           />
+          {/* <Plan
+            name="Yearly"
+            price="$2795/month"
+            description="Paid yearly for a 30% discount."
+            href="https://calendly.com/webshopwizards/30min"
+
+            features={[
+              'Unlimited revisions',
+              'Custom landing page development optimized for conversation',
+              'Full-stack web app development for MVPs and enhancements to existing web apps',
+              'Web app legacy modernization',
+              'Backend API development and integrations',
+              'Ongoing support and troubleshooting',
+              
+            ]}
+          /> */}
         </div>
       </Container>
     </section>
