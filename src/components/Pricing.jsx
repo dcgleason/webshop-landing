@@ -110,7 +110,7 @@ export function Pricing() {
       pricing.
           </h2>
           <p className="mt-4 text-lg text-slate-400">
-            We offer a monthly membership for ongoing support and development of your web app.
+            We offer a monthly membership for ongoing support and software development.
           </p>
         </div>
         <div className="mt-16 grid max-w-2xl grid-cols-1 gap-y-10 sm:mx-auto lg:max-w-none lg:grid-cols-1 xl:mx-0 xl:gap-x-8">         

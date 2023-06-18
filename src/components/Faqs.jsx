@@ -78,7 +78,7 @@ const faqs = [
       question:
         "Do you do mobile app development?",
       answer:
-        "Yes, we do! We can build mobile apps using React Native.",
+        "We do not do mobile app development, at this time. Our web apps are responsive and work on mobile devices, however",
     },
     {
       question:
