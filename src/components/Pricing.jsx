@@ -51,7 +51,7 @@ function Plan({ name, price, description, href, features, featured = false }) {
     <section
       className={clsx(
         'flex flex-col rounded-3xl px-6 sm:px-8',
-        featured ? 'order-first bg-[#5271ff] py-8 lg:order-none w-1/2 mx-auto' : 'lg:py-8'
+        featured ? 'order-first bg-[#5271ff] py-8 w-full md:w-1/2 mx-auto lg:order-none' : 'lg:py-8'
       )}
     >
       <h3 className="mt-5 font-display text-lg text-white">{name}</h3>
@@ -92,6 +92,7 @@ function Plan({ name, price, description, href, features, featured = false }) {
     </section>
   )
 }
+
 
 
 export function Pricing() {
