@@ -50,7 +50,7 @@ function Plan({ name, price, description, href, features, featured = false }) {
   return (
     <section
       className={clsx(
-        'flex flex-col rounded-3xl px-6 sm:px-8',
+        'flex flex-col items-center rounded-3xl px-6 sm:px-8',
         featured ? 'order-first bg-[#5271ff] py-8 lg:order-none' : 'lg:py-8'
       )}
     >
@@ -69,7 +69,7 @@ function Plan({ name, price, description, href, features, featured = false }) {
       <ul
         role="list"
         className={clsx(
-          'order-last mt-10 flex flex-col gap-y-3 text-sm',
+          'order-last mt-10 flex flex-col items-start gap-y-3 text-sm',
           featured ? 'text-white' : 'text-slate-200'
         )}
       >
@@ -107,10 +107,10 @@ export function Pricing() {
               <SwirlyDoodle className="absolute left-0 top-1/2 h-[1em] w-full fill-blue-400" />
               <span className="relative">Membership</span>
             </span>{' '}
-           levels.
+      pricing.
           </h2>
           <p className="mt-4 text-lg text-slate-400">
-            Choose the plan that works best for you.
+            We offer a monthly membership for ongoing support and development of your web app.
           </p>
         </div>
         <div className="mt-16 grid max-w-2xl grid-cols-1 gap-y-10 sm:mx-auto lg:max-w-none lg:grid-cols-1 xl:mx-0 xl:gap-x-8">         
