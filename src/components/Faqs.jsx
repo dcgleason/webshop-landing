@@ -67,7 +67,7 @@ const faqs = [
       question:
         "Are there refunds if I don't like the service?",
       answer:
-        "We do not offer refunds. We do, however, allow you to only pay for the months you need our services via our pause feature. You can also choose to cancel your subscription at any point.",
+        "We do not offer refunds. We do, however, allow you to only pay for the months you need and love our services via our total satisfaction gaurentee. You can also choose to cancel your subscription at any point.",
     },
     {
       question:
