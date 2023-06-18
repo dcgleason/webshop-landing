@@ -31,7 +31,7 @@ export function Hero() {
       Unlimited revisions. Pay only if you <em>love</em> the work at the end of each month. Cancel or pause anytime. 
       </p>
       <div className="mt-10 flex justify-center gap-x-6">
-        <Button href="#pricing">See plans</Button>
+        <Button href="#pricing">View membership pricing</Button>
         {/* <Button
           href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           variant="outline"
