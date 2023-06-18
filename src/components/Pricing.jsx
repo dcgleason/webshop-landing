@@ -113,7 +113,7 @@ export function Pricing() {
             We offer a monthly membership for ongoing support and software development.
           </p>
         </div>
-        <div className="mt-16 grid max-w-2xl grid-cols-1 gap-y-10 sm:mx-auto lg:max-w-none lg:grid-cols-1 xl:mx-0 xl:gap-x-8">         
+        <div className="mt-16 grid max-w-xl grid-cols-1 gap-y-10 sm:mx-auto lg:max-w-none lg:grid-cols-1 xl:mx-0 xl:gap-x-8">         
          
           <Plan
             featured
