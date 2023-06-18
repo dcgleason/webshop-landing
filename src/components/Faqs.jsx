@@ -54,7 +54,6 @@ const faqs = [
       answer:
         'No, the costs of hosting and purchasing domain names are not included in our monthly fee. We can, however, help you set up your domain name and hosting if you need assistance.',
     },
-  
   ],
   [
     {
