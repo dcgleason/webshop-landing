@@ -55,6 +55,7 @@ export function PrimaryFeatures() {
       lgMediaQuery.removeEventListener('change', onMediaQueryChange)
     }
   }, [])
+  
 
   return (
     <section
