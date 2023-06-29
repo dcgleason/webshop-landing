@@ -120,8 +120,8 @@ export function Pricing() {
           <Plan
             featured
             name="Monthly"
-            price="$3995"
-            description="Paid monthly if you love our work. Cancel anytime."
+            price="$6995"
+            description="Paid monthly. Cancel anytime."
             href="https://calendly.com/webshopwizards/30min"
             features={[
               'Unlimited revisions',
