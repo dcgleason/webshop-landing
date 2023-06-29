@@ -112,7 +112,7 @@ export function Pricing() {
       pricing.
           </h2>
           <p className="mt-4 text-lg text-slate-400">
-            We offer a monthly membership for ongoing support and software development.
+            We offer a monthly membership for ongoing support and ServiceNow development.
           </p>
         </div>
         <div className="mt-16 grid max-w-xl grid-cols-1 gap-y-10 sm:mx-auto lg:max-w-none lg:grid-cols-1 xl:mx-0 xl:gap-x-8">         
@@ -120,16 +120,16 @@ export function Pricing() {
           <Plan
             featured
             name="Monthly"
-            price="$6995"
+            price="$5995"
             description="Paid monthly. Cancel anytime."
             href="https://calendly.com/webshopwizards/30min"
             features={[
-              'Unlimited revisions',
-              'Custom landing page development optimized for conversation',
-              'Full-stack web app development for MVPs and enhancements to existing web apps',
-              'Web app legacy modernization',
-              'Backend API development and integrations',
-              'Ongoing support and troubleshooting',
+              'Unlimited requests',
+              'ITSM, ITAM, CMDB, Service Portal, and custom app development and architecture',
+              'Incident, problem, change, and request management',
+              'ServiceNow upgrades and migrations',
+              'ServiceNow integrations',
+              'ServiceNow administration',
             ]}
           />
          
