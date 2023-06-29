@@ -31,17 +31,17 @@ const testimonials = [
       },
     },
   ],
-  [
-    {
-      content:
-        "I've had the benefit of working with Manny from his earliest days at IBM. Manny is always ready to take on a new challenge and  will push himself to learn what is needed to get the job done. Between his calm measured demeanor, desire to learn, and strong with ethic Manny is a pleasure to work with.",
-      author: {
-        name: 'Peter Goodman',
-        role: 'Business Analyst @ IBM',
-        image: avatarImage3,
-      },
-    },
-  ],
+  // [
+  //   {
+  //     content:
+  //       "I've had the benefit of working with Manny from his earliest days at IBM. Manny is always ready to take on a new challenge and  will push himself to learn what is needed to get the job done. Between his calm measured demeanor, desire to learn, and strong with ethic Manny is a pleasure to work with.",
+  //     author: {
+  //       name: 'Peter Goodman',
+  //       role: 'Business Analyst @ IBM',
+  //       image: avatarImage3,
+  //     },
+  //   },
+  // ],
 ]
 
 function QuoteIcon(props) {
@@ -65,7 +65,7 @@ export function Testimonials() {
             What others are saying
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">
-           Here is what some of our past clients and colleagues have said about us.
+           Here is what some past clients and colleagues have said.
           </p>
         </div>
         <ul

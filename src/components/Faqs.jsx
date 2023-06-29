@@ -9,82 +9,62 @@ import { faChevronDown, faChevronUp } from '@fortawesome/free-solid-svg-icons';
 const faqs = [
   [
     {
-      question: 'Why Webshop Wizards?',
+      question: 'Why SN Wizards?',
       answer:
-      "Good question! The average annual pay for a full-time Senior Javascript developer is $120,000(+), not including benefits, etc. We charge $47,940 per year (if you needed us for a whole year...) for the work of two Senior JavaScript developers. Additionally, with the monthly plan, you can pause and resume your subscription as often as you need to ensure you're only paying when you have work that needs to be done."
+      "Good question! The average Senior Developer can cost upwards of $75/hr. I offer the same level of expertise at a fraction of the cost, just $6,000/month for unlimited hours and requests.",
     },
     {
       question: 'Who are the developers?',
       answer:
-        "You might be surpised to hear this, but Webshop Wizards is comprised of its two founders... and that is it! After meeeting while working at IBM, we decided to offer our services to other companies. We keep up with work by limiting the number of clients we agree to take on.",
+        "You might be suprirsed to hear this, but at the moment SN Wizards is a shop of 1 person. I'm Dan, and I'm a Senior ServiceNow Engineer who has worked for IBM, the U.S. Department of Health & Human Services, and the U.S. Department of State. I've been working with ServiceNow for 5 years, and was trained as a full-stack developer before that. I'm a certified ServiceNow System Administrator, Application Developer, with experience in ITSM, ITAM, CMDB, and custom app development and integrations.",
     },
     
     {
       question: 'What technologies do you work with?',
-      answer: 'We are experts working with the following languages / libraries / frameworks / databases: Javascript, React.js, Express.js, Node.js, TailwindCSS, Next.js, MongoDB, and AWS S3. We also work with no-code / low-code software like Zapier, Webflow, Airtable, and Shopify. Please reach out if you have any questions regarding your specific tech stack.',
-    },
-    {
-      question: 'Do you offer web design services?',
-      answer: 'We are JavaScript developers only, and so unfortunately, do not offer web design services. We can, however, work with your existing designs and implement them into your web app.',
-    },
-    {
-      question: 'Do you take equity as a form of compensation for your services?',
-      answer: 'We do! For select clients, we will take equity as a form of partial payment. If you are interested in this option,  please email us at dan@webshopwizards.com',
-    },
+      answer: 'ServiceNow, Medidata, Active Directory, Okta, Jira, Trello, Asana, Slack, Github, mainly.',
+    }
   
   ],
   [
     {
       question: 'Is there a limit to how many requests I can make?',
-      answer: 'Once subscribed, you can make as many requests as you like, and they will be delivered via weekly sprints. ',
+      answer: 'Once subscribed, you can make as many requests as you like, and they will be delivered via your sprint cycle, or our 1-week sprints.', 
     },
    
     {
       question: 'How fast will my requests be fulfilled?',
       answer:
-        'We commit to ~13 points of work per week per client and only take on a limited number of clients to keep our sprint velocity high.',
+        'I commit about 13 points of work per sprint per client and only take on a limited number of clients to keep our sprint velocity high.',
     },
     {
-      question: 'How do you work with existing code repositories?',
+      question: 'How you get access to our ServiceNow instances?',
       answer:
-        'If you have an existing code repo, if it is Javascript-based, we can work with it and can do the work via Gitlab, Github, Bitbucket, etc. We also create a new code repository for you if need be, or multiple.',
+        'This is, in part, up to you. You can have an admin grant me "side door" access to your instance, or I can work with you to set up a user account via your SSO provider (Okta, Active Directory, etc.).',
     },
     {
-      question: 'Are the costs of hosting and purchasing domain names included?',
+      question: 'Do you have any Government clearances?',
       answer:
-        'No, the costs of hosting and purchasing domain names are not included in our monthly fee. We can, however, help you set up your domain name and hosting if you need assistance.',
+        'Yes, I have a Secret clearance.',
     },
   ],
   [
     {
       question:
-        'How do I make requests for the development of features and changes?',
+        'How do I make requests if you work async?',
       answer:
-        'Webshop Wizards use Trello boards. You can request features by writing them directly via a Trello. You can also share links to Google docs or wireframes, or even recording a brief Loom video (for those who prefer not to write their briefs out) directly in a Trello card. Basically, if it can be linked to or shared in a Trello board card, we can work with it.',
+        'We will join your meetings if you prefer, but we also work async. You can make requests via your existing project management tool, like Jira, or via a Trello board I give to you.',
     },
     {
       question:
         "Are there refunds if I don't like the service?",
       answer:
-        "We do not offer refunds. We do, however, allow you to only pay for the months you need and love our services via our total satisfaction gaurentee. You can also choose to cancel your subscription at any point.",
+        "We do not offer refunds. We do, however, allow you to only pay for the months you need and love our services. You can also choose to cancel your subscription at any point.",
     },
     {
       question:
         "How do you deal with big or complex requests?",
       answer:
-        "We work in an Agile fashion. Each request you add to your Trello board backlog is broken down into tasks (each task assigned a point value based on complexity) and each task is assigned to a 1-week sprint. Your work is delivered weekly at a rate of roughly 13 points per week (1 point is about 4 hours of work). If you have any questions about our pointing system, feel free to reach out to us at dan@webshopwizards.com.",
-    },
-    {
-      question:
-        "Do you do mobile app development?",
-      answer:
-        "We do not do mobile app development, at this time. Our web apps are responsive and work on mobile devices, however",
-    },
-    {
-      question:
-        "What are some recent projects you've worked on?",
-      answer:
-        "Most recently, tackled a complex Gmail / Node.js integration and set up a custom Stripe integrations using React.js / Node on a custom landing page we built.",
+        "We work in an Agile fashion. Each request you add is broken down into tasks (each task assigned a point value based on complexity) and each task is assigned to a sprint. Your work is delivered weekly at a rate of roughly 13 points per week (1 point is about 4 hours of work). If you have any questions about our pointing system, feel free to reach out to us at dan@snwizards.com.",
     },
   ],
 ]

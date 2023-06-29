@@ -117,11 +117,26 @@ export function Pricing() {
         </div>
         <div className="mt-16 grid max-w-xl grid-cols-1 gap-y-10 sm:mx-auto lg:max-w-none lg:grid-cols-1 xl:mx-0 xl:gap-x-8">         
          
+        <Plan
+     
+          name="Monthly"
+          price="$6995/month"
+          description="Paid monthly. Cancel or pause at any point."
+          href="https://calendly.com/webshopwizards/30min"
+          features={[
+            'Unlimited revisions',
+            'Custom landing page development optimized for conversation',
+            'Full-stack web app development for MVPs and enhancements to existing web apps',
+            'Web app legacy modernization',
+            'Backend API development and integrations',
+            'Ongoing support and troubleshooting',
+          ]}
+        />
           <Plan
             featured
-            name="Monthly"
-            price="$3995"
-            description="Paid monthly if you love our work. Cancel anytime."
+            name="Quarterly"
+            price="$5595/month"
+            description="20% discount. Paid quartly."
             href="https://calendly.com/webshopwizards/30min"
             features={[
               'Unlimited revisions',
@@ -132,6 +147,22 @@ export function Pricing() {
               'Ongoing support and troubleshooting',
             ]}
           />
+           <Plan
+            featured
+            name="Yearly"
+            price="$4895/month"
+            description="30% discount. Paid annually."
+            href="https://calendly.com/webshopwizards/30min"
+            features={[
+              'Unlimited revisions',
+              'Custom landing page development optimized for conversation',
+              'Full-stack web app development for MVPs and enhancements to existing web apps',
+              'Web app legacy modernization',
+              'Backend API development and integrations',
+              'Ongoing support and troubleshooting',
+            ]}
+          />
+          
          
         </div>
       </Container>

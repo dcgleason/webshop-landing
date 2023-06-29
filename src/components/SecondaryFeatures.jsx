@@ -10,10 +10,10 @@ import screenshotProfitLoss from '@/images/screenshots/profit-loss.png'
 
 const features = [
   {
-    name: 'Unlimited Revisions',
-    summary: 'Enjoy unlimited revisions until we hit the mark.',
+    name: 'Easy onboarding',
+    summary: 'Plug into your existing systems or work within your unique-to-you Trello board',
     description:
-      "We're not happy until you're thrilled. We'll work with you to make sure your product is exactly what you want.",
+      "We'll work with you to determine the best way to integrate with your existing systems, or we can set you up with a Trello board to track progress and communicate with your team and us.",
     image: screenshotProfitLoss,
     icon: function ReportingIcon() {
       let id = useId()
@@ -46,9 +46,9 @@ const features = [
   {
     name: 'Expedited Agile Delivery',
     summary:
-      'Get your product to market...quickly.',
+      'We prioritize our clients and assure a steady stream of high-quality deliverables, and align our sprint cycles to yours.',
     description:
-      "We prioritizing our clients and assure a steady stream of high-quality deliverables, consistently produced through our efficient one-week sprints",
+      "Speed is not something you have to sacrifice for quality. We work within your workflow to deliver high-quality code and configuration on time, every time.",
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (
@@ -74,9 +74,9 @@ const features = [
   {
     name: 'Totally Async',
     summary:
-      "Meetings slow everything down, so we (generally) don't have them.",
+      "Meetings slow everything down. Unless you want them, we'll keep you updated asynchronously.",
     description:
-      "After our intro call, you'll get your own Trello board to request features, track progress, and communicate with your team and us. If you do need to meet for any reason, we are happy to schedule a call.",
+      "We know you're busy, and we don't want to slow you down. We'll keep you updated on our progress asynchronously, and we'll only schedule meetings when you want them.",
     image: screenshotContacts,
     icon: function ContactsIcon() {
       return (
