@@ -14,7 +14,7 @@ const faqs = [
       "Good question! BeyondNow is all about get you the quality help you need from seasoned ServiceNow professionals, when you need it, without having to go through a lengthy hiring process. BeyondNow works to provide ServiceNow help without having to pay for a full-time, salaried employee.",
     },
     {
-      question: 'Who are the developers?',
+      question: 'Who are the consultants?',
       answer:
         "You might be suprirsed to hear this, but at the moment BeyondNow LCC is a firm of 1 person. I'm Dan, and I'm a Senior ServiceNow Engineer who has worked for IBM, the U.S. Department of Health & Human Services, and the U.S. Department of State. I've been working with ServiceNow for 5 years, and was trained as a full-stack developer before that. I'm a certified ServiceNow System Administrator, Application Developer, with experience in ITSM, ITAM, CMDB, and custom app development and integrations.",
     },
