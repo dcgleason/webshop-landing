@@ -121,7 +121,7 @@ export function Pricing() {
             href="https://calendly.com/webshopwizards/30min"
             features={[
               '24-hour response time',
-              'Incident, Problem, Change reviews, and RITM processing',
+              'Incident, Problem, Change reviews, and Request processing',
               'ServiceNow upgrades and migrations',
               'ServiceNow integrations',
               'ServiceNow administration',
@@ -136,7 +136,7 @@ export function Pricing() {
             href="https://calendly.com/webshopwizards/30min"
             features={[
               '24-hour response time',
-              'Incident, Problem, Change reviews, and RITM processing',
+              'Incident, Problem, Change reviews, and Request processing',
               'ServiceNow upgrades and data migrations',
               'ServiceNow integrations',
               'ServiceNow administration',
@@ -150,7 +150,7 @@ export function Pricing() {
             href="https://calendly.com/webshopwizards/30min"
             features={[
               '24-hour respnose time',
-              'Incident, Problem, Change reviews, and RITM processing',
+              'Incident, Problem, Change reviews, and Request processing',
               'ServiceNow upgrades and migrations',
               'ServiceNow integrations',
               'ServiceNow administration',
