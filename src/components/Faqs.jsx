@@ -34,7 +34,7 @@ const faqs = [
     {
       question: 'How fast will my requests be fulfilled?',
       answer:
-        'I commit about 13 points of work per sprint per client and only take on a limited number of clients to keep our sprint velocity high.',
+      'Requests will be responded to within 24 hours, and will be delivered as quickly as possible within the hours you block off.',
     },
     {
       question: 'How you get access to our ServiceNow instances?',
@@ -85,14 +85,14 @@ export function Faqs() {
     aria-labelledby="faq-title"
     className="relative overflow-hidden bg-slate-50 py-20 sm:py-32"
   >
-    <Image
+    {/* <Image
       className="absolute left-1/2 top-0 max-w-none -translate-y-1/4 translate-x-[-30%]"
       src={backgroundImage}
       alt=""
       width={1558}
       height={946}
       unoptimized
-    />
+    /> */}
     <Container className="relative">
       <div className="mx-auto max-w-2xl lg:mx-0">
         <h2

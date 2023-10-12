@@ -7,6 +7,7 @@ import { NavLink } from '@/components/NavLink'
 import { Button } from '@/components/Button'
 import { Container } from '@/components/Container'
 import Image  from "next/image"
+import Logo from '../../public/dalle-logo.png'
 
 function MobileNavLink({ href, children }) {
   return (
@@ -95,7 +96,7 @@ export function Header() {
         <nav className="relative z-50 flex justify-between">
           <div className="flex items-center md:gap-x-12">
             <Link href="#" aria-label="Home">
-              <Image src='/web-cap-blue.png' alt="Logo" width={100} height={100} />
+              <Image src={Logo} alt="Logo" width={100} height={100} />
             </Link>
             <div className="hidden md:flex md:gap-x-6">
               <NavLink href="#features">Features</NavLink>
@@ -107,11 +108,12 @@ export function Header() {
             <div className="hidden md:block">
           
             </div>
-            <Button href="#pricing" color="blue">
+            <Button href="#pricing" style={{ backgroundColor: '#235373' }}>
               <span>
-                Sign-up <span className="hidden lg:inline">today</span>
+                  Sign-up <span className="hidden lg:inline">today</span>
               </span>
-            </Button>
+          </Button>
+
             <div className="-mr-1 md:hidden">
               <MobileNavigation />
             </div>
