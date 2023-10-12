@@ -74,7 +74,7 @@ const features = [
   {
     name: 'Communication First',
     summary:
-      "Progress updates communicated every time we work on your project.",
+      "Progress reports every time we work your hours.",
     description:
     "We'll keep you updated on our progress asynchronously as we believe that transparency is very important.",
     image: screenshotContacts,
