@@ -9,9 +9,9 @@ import { faChevronDown, faChevronUp } from '@fortawesome/free-solid-svg-icons';
 const faqs = [
   [
     {
-      question: 'Why BeyondNow?',
+      question: 'Why BeyondNow LLC?',
       answer:
-      "Good question! We believe at BeyondNow LLC that you should be able to get the quality help you need from seasioned ServiceNow professionals, when you need it, without having to go through a lengthy hiring process. We also believe that you should be able to get help without having to pay for a full-time employee. We're here to help you get the help you need, when you need it, and only pay for the time you need.",
+      "Good question! We believe at BeyondNow that you should be able to get the quality help you need from seasioned ServiceNow professionals, when you need it, without having to go through a lengthy hiring process. We also believe that you should be able to get help without having to pay for a full-time employee. We're here to help you get the help you need, when you need it, and only pay for the time you need.",
     },
     {
       question: 'Who are the developers?',
@@ -21,8 +21,14 @@ const faqs = [
     
     {
       question: 'What technologies do you work with?',
-      answer: 'ServiceNow, Medidata, Active Directory, Okta, Jira, Trello, Asana, Slack, Github, mainly.',
+      answer: 'ServiceNow, Medidata, Active Directory, Okta, Jira, Trello, Slack, Github, mainly.',
+    },
+    
+    {
+      question: 'How do I block off time?',
+      answer: 'We send you a Calendly link, where you can book your first meeting and subsequent hours needed.',
     }
+  
   
   ],
   [
@@ -52,20 +58,22 @@ const faqs = [
       question:
         'How do I make requests if you work async?',
       answer:
-        'We will join your meetings if you prefer, but we also work async. You can make requests via your existing project management tool, like Jira, or via a Trello board I give to you.',
+      'You can make requests via email, or via your ServiceNow instance once access has been granted.',
     },
     {
       question:
         "Are there refunds if I don't like the service?",
       answer:
-        "We do not offer refunds. We do, however, allow you to only pay for the months you need and love our services. You can also choose to cancel your subscription at any point.",
+        "We do not offer refunds.",
     },
     {
       question:
-        "How do you deal with big or complex requests?",
+        "How long do my hours last?",
       answer:
-        "We work in an Agile fashion. Each request you add is broken down into tasks (each task assigned a point value based on complexity) and each task is assigned to a sprint. Your work is delivered weekly at a rate of roughly 13 points per week (1 point is about 4 hours of work). If you have any questions about our pointing system, feel free to reach out to us at dan@snwizards.com.",
+        "Your hours last for 1 year from the date of purchase.",
     },
+
+
   ],
 ]
 
