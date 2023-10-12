@@ -20,9 +20,9 @@ export default function Home() {
           <title>BeyondNow: ServiceNow IT Consulting</title>
           <meta
             name="description"
-            content="Webshop Wizards is a flexible, subscription-based web development agency. We prioritize user-friendly solutions without compromising accuracy, and provide ongoing service billed monthly. Experience the magic of our subscription-based services today."
+            content="BeyondNow: ServiceNow IT Consulting with a 24-hour response time."
           />
-          <meta name="keywords" content="Web Development, Design, Subscription-based, Webshop Wizards, E-commerce, Startups, User Research, UX/UI, Online Store, SEO, User-friendly, Ongoing Service"/>
+          <meta name="keywords" content="IT Consulting, ServiceNow, Subscription-based, Government, Contracts, ServiceNow Develoepr, Time-block agreement, Ongoing Service"/>
       </Head>
       <Header />
 
