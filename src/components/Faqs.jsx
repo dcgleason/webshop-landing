@@ -11,12 +11,12 @@ const faqs = [
     {
       question: 'Why BeyondNow?',
       answer:
-      "Good question! The average Senior Developer can cost upwards of $75/hr. I offer the same level of expertise at a fraction of the cost, just $6,000/month for unlimited hours and requests.",
+      "Good question! We believe at BeyondNow LLC that you should be able to get the quality help you need from seasioned ServiceNow professionals, when you need it, without having to go through a lengthy hiring process. We also believe that you should be able to get help without having to pay for a full-time employee. We're here to help you get the help you need, when you need it, and only pay for the time you need.",
     },
     {
       question: 'Who are the developers?',
       answer:
-        "You might be suprirsed to hear this, but at the moment SN Wizards is a shop of 1 person. I'm Dan, and I'm a Senior ServiceNow Engineer who has worked for IBM, the U.S. Department of Health & Human Services, and the U.S. Department of State. I've been working with ServiceNow for 5 years, and was trained as a full-stack developer before that. I'm a certified ServiceNow System Administrator, Application Developer, with experience in ITSM, ITAM, CMDB, and custom app development and integrations.",
+        "You might be suprirsed to hear this, but at the moment BeyondNow LCC is a firm of 1 person. I'm Dan, and I'm a Senior ServiceNow Engineer who has worked for IBM, the U.S. Department of Health & Human Services, and the U.S. Department of State. I've been working with ServiceNow for 5 years, and was trained as a full-stack developer before that. I'm a certified ServiceNow System Administrator, Application Developer, with experience in ITSM, ITAM, CMDB, and custom app development and integrations.",
     },
     
     {
