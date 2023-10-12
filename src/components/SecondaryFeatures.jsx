@@ -44,7 +44,7 @@ const features = [
     },
   },
   {
-    name: 'On-demand Help.',
+    name: 'On-demand help.',
     summary:
       'Availability kept for day-of requets.',
     description:
