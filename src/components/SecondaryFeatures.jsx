@@ -46,7 +46,7 @@ const features = [
   {
     name: 'First response within 24 hours',
     summary:
-      'Response times guaranteed within 24 hours.',
+      'If the fit is there, we will start work on your work within 24 hours.',
     description:
       "Our promise that you we have somebody working on your request within 24 hours of your request.",
     image: screenshotInventory,
