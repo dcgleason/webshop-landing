@@ -46,9 +46,9 @@ const features = [
   {
     name: 'First response within 24 hours',
     summary:
-      'If the fit is there, we will start work on your work within 24 hours.',
+      'We will start work on your work within 24 hours of your onboarding call.',
     description:
-      "Our promise that you we have somebody working on your request within 24 hours of your request.",
+      "Our promise that you we have somebody working on your requests within 24 hours of your onboarding call, which you schedule at your eariest availability.",
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (
