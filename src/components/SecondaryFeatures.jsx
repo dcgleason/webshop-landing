@@ -11,9 +11,9 @@ import screenshotProfitLoss from '@/images/screenshots/profit-loss.png'
 const features = [
   {
     name: 'Easy onboarding',
-    summary: 'Easily block off time with your ServiceNow IT Consultant.',
+    summary: 'Onboarding is a 30 minute phone call.',
     description:
-    "We'll send you a link to your ServiceNow IT Consultant's calendar, where you can book your first meeting and subsequent hours needed.",
+    "We'll send you a link to your ServiceNow IT Consultant's calendar, where you can book your first meeting and subsequent hours as needed.",
     image: screenshotProfitLoss,
     icon: function ReportingIcon() {
       let id = useId()

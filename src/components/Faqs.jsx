@@ -52,6 +52,11 @@ const faqs = [
       answer:
         'Yes, I have a Secret clearance.',
     },
+    {
+      question: 'What if I need more hours?',
+      answer:
+        'You can purchase more hours at any time, and they will be added to your account.',
+    },
   ],
   [
     {
@@ -71,6 +76,12 @@ const faqs = [
         "How long do my hours last?",
       answer:
         "Your hours last for 1 year from the date of purchase.",
+    },
+    {
+      question:
+        "What if we are not a match after our onboarding call?",
+      answer:
+        "You will get fully refunded if you decide after your 30-minute onboarding call that your ServiceNow consultant is not a good fit.",
     },
 
 
