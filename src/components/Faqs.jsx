@@ -11,7 +11,7 @@ const faqs = [
     {
       question: 'Why BeyondNow LLC?',
       answer:
-      "Good question! We believe at BeyondNow that you should be able to get the quality help you need from seasioned ServiceNow professionals, when you need it, without having to go through a lengthy hiring process. We also believe that you should be able to get help without having to pay for a full-time employee. We're here to help you get the help you need, when you need it, and only pay for the time you need.",
+      "Good question! We believe at BeyondNow that you should be able to get the quality help you need from seasioned ServiceNow professionals, when you need it, without having to go through a lengthy hiring process. We also believe that you should be able to get help without having to pay for a full-time, salaried employee. We're here to help you get the help you need, when you need it, and only pay for the time you need.",
     },
     {
       question: 'Who are the developers?',
