@@ -44,11 +44,11 @@ const features = [
     },
   },
   {
-    name: 'First response within 24 hours',
+    name: 'Work starts within 24 hours.',
     summary:
-      'Your work starts within 24 hours of your onboarding call.',
+      'We start working on your requests within 24 hours of onboarding.',
     description:
-      "Our promise that you we have somebody working on your requests within 24 hours of your onboarding call, which you schedule at your eariest availability.",
+      "We send you a (optional) Trello board unique to you and give you the chance to book hours within 24 hours of your onboarding so you get solutions fast.",
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (
@@ -72,11 +72,11 @@ const features = [
     },
   },
   {
-    name: 'Communication First',
+    name: 'A Communication-First Approach.',
     summary:
       "Progress reports every time we work your hours.",
     description:
-    "We'll keep you updated on our progress asynchronously as we believe that transparency is very important.",
+    "We'll keep you updated on our progress, which include work done and hours remaining, as we believe in the importance of transparency.",
     image: screenshotContacts,
     icon: function ContactsIcon() {
       return (
