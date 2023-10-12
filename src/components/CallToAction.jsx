@@ -21,7 +21,7 @@ export function CallToAction() {
       <Container className="relative">
         <div className="mx-auto max-w-lg text-center">
           <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl">
-           Onboarding is a 30 minute phone call.
+           Onboarding is a 30-minute phone call.
           </h2>
           <p className="mt-4 text-lg tracking-tight text-white">
             We&apos;ll ask you a few questions about your ServiceNow instance and then we&apos;ll get started.
