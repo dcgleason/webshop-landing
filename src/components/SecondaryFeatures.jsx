@@ -76,7 +76,7 @@ const features = [
     summary:
       "Progress reports every time we work your hours.",
     description:
-    "We'll keep you updated on our progress, which include work done and hours remaining, as we believe in the importance of transparency.",
+    "We'll keep you updated on progress made, including a summary of work done and hours remaining, whenever we do work for you as we believe in the importance of transparency.",
     image: screenshotContacts,
     icon: function ContactsIcon() {
       return (
