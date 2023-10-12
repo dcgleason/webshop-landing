@@ -39,9 +39,9 @@ const faqs = [
         'This is, in part, up to you. You can have an admin grant me "side door" access to your instance, or I can work with you to set up a user account via your SSO provider (Okta, Active Directory, etc.).',
     },
     {
-      question: 'Do you have any Government clearances?',
+      question: 'Do BeyondNow consultants have U.S. government clearnances?',
       answer:
-        'Yes -- have a Secret clearance.',
+        'Yes -- Dan has a secret clearance.',
     },
     {
       question: 'What if I need more hours?',
