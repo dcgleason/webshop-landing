@@ -32,10 +32,6 @@ const faqs = [
   
   ],
   [
-    {
-      question: 'Is there a limit to how many requests I can make?',
-      answer: 'Once subscribed, you can make as many requests as you like, and they will be delivered via your sprint cycle, or our 1-week sprints.', 
-    },
    
     {
       question: 'How fast will my requests be fulfilled?',
