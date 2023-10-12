@@ -74,7 +74,7 @@ const faqs = [
         "Your purchased hours last for 1 year, 12 months, from your date of purchase.",
     },
     {
-      question: 'How far in advance can I schedule my hours?',
+      question: 'How far in advance can I book hours?',
       answer:
       'You can schedule your hours as far in advance as you would like, within a 12 month period (from your date of purchase).',
     },
