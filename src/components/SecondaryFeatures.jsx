@@ -48,7 +48,7 @@ const features = [
     summary:
       'We start working on your requests within 24 hours of onboarding.',
     description:
-      "We send you a (optional) Trello board unique to you and give you the chance to book hours within 24 hours of your onboarding so you get solutions fast.",
+      "We send you a (optional) Trello board unique to you to submit requests and give you the chance to book hours within 24 hours of your onboarding call so you get your solutions fast.",
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (
