@@ -72,7 +72,7 @@ const features = [
     },
   },
   {
-    name: 'A Communication-First Approach.',
+    name: 'A Communicative Approach.',
     summary:
       "Progress reports every time we work your hours.",
     description:
