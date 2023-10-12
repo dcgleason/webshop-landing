@@ -13,7 +13,7 @@ const features = [
     name: 'Easy onboarding',
     summary: 'Onboarding is a 30 minute phone call.',
     description:
-    "We'll send you a link to your ServiceNow IT Consultant's calendar, where you can book your first meeting and subsequent hours as needed.",
+    "Onboarding happens as your eariest availability. Will ask you a few questions about your ServiceNow work and determine fit.",
     image: screenshotProfitLoss,
     icon: function ReportingIcon() {
       let id = useId()
