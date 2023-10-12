@@ -76,7 +76,7 @@ const features = [
     summary:
       "Progress updates communicated every time we work on your project.",
     description:
-    "We'll keep you updated on our progress asynchronously often as we believe that transparency is very important.",
+    "We'll keep you updated on our progress asynchronously as we believe that transparency is very important.",
     image: screenshotContacts,
     icon: function ContactsIcon() {
       return (
