@@ -35,7 +35,7 @@ const testimonials = [
   
     {
       content:
-      "Dan is an individual that will always be there when you need him. He is dependable, creative and always thinking outside the box. Anyone would be luck to have Dan on their staff or team!" ,
+      "Dan is an individual that will always be there when you need him. He is dependable, creative and always thinking outside the box. Anyone would be lucky to have Dan on their staff or team!" ,
        author: {
         name: 'Stephen Sullivan',
         role: 'Director @ Guggenheim Partners',
