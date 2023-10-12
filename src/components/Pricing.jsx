@@ -118,7 +118,7 @@ export function Pricing() {
             name="50  Hours"
             price="$4,495"
             description="Payment plans available."
-            href="https://calendly.com/webshopwizards/beyondnow-sn"
+            href="https://calendly.com/beyondnow-sn/30min"
             features={[
               '24-hour response time',
               'Incident, Problem, Change reviews, and Request processing',
@@ -133,7 +133,7 @@ export function Pricing() {
             name="100 Hours"
             price="$8,995"
             description="Payment plans available."
-            href="https://calendly.com/beyondnow-sn"
+            href="https://calendly.com/beyondnow-sn/30min"
             features={[
               '24-hour response time',
               'Incident, Problem, Change reviews, and Request processing',
@@ -147,7 +147,7 @@ export function Pricing() {
             name="200 Hours"
             price="$17,995"
             description="Payment plans available."
-            href="https://calendly.com/beyondnow-sn"
+            href="https://calendly.com/beyondnow-sn/30min"
             features={[
               '24-hour respnose time',
               'Incident, Problem, Change reviews, and Request processing',
