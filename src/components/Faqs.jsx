@@ -9,7 +9,7 @@ import { faChevronDown, faChevronUp } from '@fortawesome/free-solid-svg-icons';
 const faqs = [
   [
     {
-      question: 'Why SN Wizards?',
+      question: 'Why BeyondNow?',
       answer:
       "Good question! The average Senior Developer can cost upwards of $75/hr. I offer the same level of expertise at a fraction of the cost, just $6,000/month for unlimited hours and requests.",
     },
