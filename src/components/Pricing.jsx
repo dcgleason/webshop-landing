@@ -135,8 +135,8 @@ export function Pricing() {
             href="https://calendly.com/webshopwizards/30min"
             features={[
               '24-hour response time',
-              'Incident, problem, change, and request management',
-              'ServiceNow upgrades and migrations',
+              'Incident, Problem, Change, and Request management',
+              'ServiceNow upgrades and data migrations',
               'ServiceNow integrations',
               'ServiceNow administration',
               'ITSM and custom app development and architecture',
