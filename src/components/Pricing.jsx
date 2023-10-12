@@ -149,7 +149,7 @@ export function Pricing() {
             description="Payment plans available."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
-              '24-hour respnose time',
+              '24-hour response time',
               'Incident, Problem, Change reviews, and Request processing',
               'ServiceNow upgrades and migrations',
               'ServiceNow integrations',
