@@ -11,7 +11,7 @@ const faqs = [
     {
       question: 'Why BeyondNow LLC?',
       answer:
-      "Good question! We believe at BeyondNow that you should be able to get the quality help you need from seasioned ServiceNow professionals, when you need it, without having to go through a lengthy hiring process. We also believe that you should be able to get help without having to pay for a full-time, salaried employee. We're here to help you get the help you need, when you need it, and only pay for the time you need.",
+      "Good question! BeyondNow is all about get you the quality help you need from seasoned ServiceNow professionals, when you need it, without having to go through a lengthy hiring process. BeyondNow works to provide ServiceNow help without having to pay for a full-time, salaried employee.",
     },
     {
       question: 'Who are the developers?',
@@ -25,7 +25,7 @@ const faqs = [
     },
     
     {
-      question: 'How do I block off time?',
+      question: 'How do I block off time once onboarded?',
       answer: 'We send you a Calendly link, where you can book your first meeting and subsequent hours needed.',
     }
   
@@ -41,7 +41,7 @@ const faqs = [
     {
       question: 'Do you have any Government clearances?',
       answer:
-        'Yes, I have a Secret clearance.',
+        'Yes -- have a Secret clearance.',
     },
     {
       question: 'What if I need more hours?',
@@ -51,7 +51,7 @@ const faqs = [
     {
       question: 'How do you handle urgent requests?',
       answer:
-        'We work to ensure that they are always hours available for same day and next day work.',
+        'BeyondNow works to ensure that there are always hours available for same day and next day work.',
     },
   ],
   [
@@ -63,21 +63,15 @@ const faqs = [
     },
     {
       question:
-        "Are there refunds if I don't like the service?",
+        "Do you offer refunds?",
       answer:
-        "We do not offer refunds.",
+        "You are allowed a full refund if you decide within the first 5 hours of work that the fit is not there.",
     },
     {
       question:
-        "How long do my hours last?",
+        "How long do my purchased hours last?",
       answer:
-        "Your hours last for 1 year from the date of purchase.",
-    },
-    {
-      question:
-        "What if we are not a match after our onboarding call?",
-      answer:
-        "You will get fully refunded if you decide after your 30-minute onboarding call that your ServiceNow consultant is not a good fit.",
+        "Your purchased hours last for 1 year, 12 months, from your date of purchase.",
     },
     {
       question: 'How far in advance can I schedule my hours?',
