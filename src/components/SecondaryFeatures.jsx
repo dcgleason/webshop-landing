@@ -46,7 +46,7 @@ const features = [
   {
     name: 'First response within 24 hours',
     summary:
-      'We promise to respond to your request within 24 hours.',
+      'Response times guaranteed within 24 hours.',
     description:
       "Our promise that you we have somebody working on your request within 24 hours of your request.",
     image: screenshotInventory,
@@ -74,7 +74,7 @@ const features = [
   {
     name: 'Communication First',
     summary:
-      "We'll keep you updated on our progress.",
+      "Progress updates communicated every time we work on your project.",
     description:
     "We'll keep you updated on our progress asynchronously often as we believe that transparency is very important.",
     image: screenshotContacts,
