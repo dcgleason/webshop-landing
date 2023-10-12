@@ -44,11 +44,11 @@ const features = [
     },
   },
   {
-    name: 'Work starts within 24 hours.',
+    name: 'On-demand help.',
     summary:
-      'We start working on your requests within 24 hours of onboarding.',
+      'We work to keep hours availalbe daily to accomodate your day-of requets.',
     description:
-      "We send you a (optional) Trello board unique to you to submit requests and give you the chance to book hours within 24 hours of your onboarding call so you get your solutions fast.",
+      "We understand that sometimes you need help right away. We work to keep hours availalbe daily to accomodate needs same-day.",
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (
