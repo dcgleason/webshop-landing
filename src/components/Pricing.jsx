@@ -50,8 +50,8 @@ function Plan({ name, price, description, href, features, featured = false }) {
   return (
     <section
       className={clsx(
-        'flex flex-col rounded-3xl px-6 sm:px-8',
-        featured ? 'order-first bg-[#235373] py-8 lg:order-none lg:px-6' : 'lg:py-8 lg:px-6'
+        'flex flex-col rounded-3xl p-6 sm:p-8',
+        featured ? 'order-first bg-[#235373] py-8 lg:order-none' : 'lg:py-8'
       )}
     >
       <h3 className="mt-5 font-display text-lg text-white">{name}</h3>
@@ -113,7 +113,7 @@ export function Pricing() {
             We offer time-block agreements for ongoing ServiceNow support that fit your needs.
           </p>
         </div>
-        <div className="mt-16 grid max-w-xl grid-cols-3 gap-x-8 gap-y-10 sm:mx-auto lg:max-w-none lg:grid-cols-3 xl:mx-0 xl:gap-x-8">
+        <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
           <Plan
             name="50  Hours"
             price="$4,495"
