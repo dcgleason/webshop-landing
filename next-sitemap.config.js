@@ -1,5 +1,5 @@
 module.exports = {
-    siteUrl: 'https://www.webshopwizards.com',
+    siteUrl: 'https://www.beyondnow.services',
     generateRobotsTxt: true, 
     changefreq: 'daily',
     priority: 0.7,
