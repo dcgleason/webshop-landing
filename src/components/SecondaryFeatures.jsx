@@ -46,9 +46,9 @@ const features = [
   {
     name: 'On-demand Help.',
     summary:
-      'Hours availalbe daily to accomodate your day-of requets.',
+      'Slots kept open to accommodate your day-of requets.',
     description:
-      "We understand that sometimes you need help right away. We work to keep hours availalbe daily to accomodate needs same-day.",
+      "We understand that sometimes you need help right away. We work to keep hours available daily to accommodate needs same-day.",
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (
