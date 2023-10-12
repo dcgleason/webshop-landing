@@ -120,7 +120,7 @@ export function Pricing() {
             description="Payment plans available."
             href="https://calendly.com/webshopwizards/30min"
             features={[
-              'Incident, problem, change, and request management',
+              'Incident, Problem, Change, Request and Knowledge Management',
               'ServiceNow upgrades and migrations',
               'ServiceNow integrations',
               'ServiceNow administration',
@@ -135,7 +135,7 @@ export function Pricing() {
             href="https://calendly.com/webshopwizards/30min"
             features={[
               '24-hour response time',
-              'Incident, Problem, Change, and Request management',
+              'Incident, Problem, Change, Request and Knowledge Management',
               'ServiceNow upgrades and data migrations',
               'ServiceNow integrations',
               'ServiceNow administration',
@@ -149,7 +149,7 @@ export function Pricing() {
             href="https://calendly.com/webshopwizards/30min"
             features={[
               '24-hour respnose time',
-              'Incident, problem, change, and request management',
+              'Incident, Problem, Change, Request and Knowledge Management',
               'ServiceNow upgrades and migrations',
               'ServiceNow integrations',
               'ServiceNow administration',
