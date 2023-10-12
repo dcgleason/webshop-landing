@@ -9,7 +9,7 @@ export function Footer() {
     <footer className="bg-slate-50">
       <Container>
         <div className="py-16">
-        <Image src='/web-cap-blue.png' height={10} alt="logo" width={10} />
+        <Image src='/bridge-logo.png' height={10} alt="logo" width={10} />
           <nav className="mt-10 text-sm" aria-label="quick links">
             <div className="-my-1 flex justify-center gap-x-6">
               <NavLink href="#features">Features</NavLink>
