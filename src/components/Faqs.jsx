@@ -59,7 +59,7 @@ const faqs = [
       question:
         'How do I make requests if you work async?',
       answer:
-      'You can make requests via email, or via your ServiceNow instance once access has been granted.',
+      'You can make requests via your dedicated Trello board or via solely within your ServiceNow instance once access has been granted.',
     },
     {
       question:
