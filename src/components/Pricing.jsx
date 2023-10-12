@@ -124,7 +124,7 @@ export function Pricing() {
               'ServiceNow upgrades and migrations',
               'ServiceNow integrations',
               'ServiceNow administration',
-              'ITSM, ITAM, CMDB, Service Portal, and custom app development and architecture'
+              'ITSM and custom app development and architecture'
             ]}
           />
           <Plan
@@ -139,7 +139,7 @@ export function Pricing() {
               'ServiceNow upgrades and migrations',
               'ServiceNow integrations',
               'ServiceNow administration',
-              'ITSM, ITAM, CMDB, Service Portal, and custom app development and architecture',
+              'ITSM and custom app development and architecture',
             ]}
           />
           <Plan
@@ -153,7 +153,7 @@ export function Pricing() {
               'ServiceNow upgrades and migrations',
               'ServiceNow integrations',
               'ServiceNow administration',
-              'ITSM, ITAM, CMDB, Service Portal, and custom app development and architecture',
+              'ITSM and custom app development and architecture',
             ]}
           />
         </div>
