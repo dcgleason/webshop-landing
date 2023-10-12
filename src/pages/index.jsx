@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <>
         <Head>
-          <title>BeyondNow: ServiceNow IT Consulting on demand</title>
+          <title>BeyondNow: ServiceNow IT Consulting On-Demand</title>
           <meta
             name="description"
             content="BeyondNow: ServiceNow IT Consulting on demand with a 24-hour response time."
