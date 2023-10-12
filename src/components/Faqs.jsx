@@ -34,11 +34,6 @@ const faqs = [
   [
    
     {
-      question: 'How fast will my requests be fulfilled?',
-      answer:
-      'Requests will be responded to within 24 hours, and will be delivered as quickly as possible within the hours you block off.',
-    },
-    {
       question: 'How you get access to our ServiceNow instances?',
       answer:
         'This is, in part, up to you. You can have an admin grant me "side door" access to your instance, or I can work with you to set up a user account via your SSO provider (Okta, Active Directory, etc.).',
@@ -52,6 +47,11 @@ const faqs = [
       question: 'What if I need more hours?',
       answer:
         'You can purchase more hours at any time, and they will be added to your account.',
+    },
+    {
+      question: 'How do you handle urgent requests?',
+      answer:
+        'We work to ensure that they are always hours available for same day and next day work.',
     },
   ],
   [
@@ -78,6 +78,11 @@ const faqs = [
         "What if we are not a match after our onboarding call?",
       answer:
         "You will get fully refunded if you decide after your 30-minute onboarding call that your ServiceNow consultant is not a good fit.",
+    },
+    {
+      question: 'How far in advance can I schedule my hours?',
+      answer:
+      'You can schedule your hours as far in advance as you would like, within a 12 month period (from your date of purchase).',
     },
 
 
