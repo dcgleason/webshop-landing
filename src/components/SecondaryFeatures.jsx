@@ -46,7 +46,7 @@ const features = [
   {
     name: 'First response within 24 hours',
     summary:
-      'We will start work on your work within 24 hours of your onboarding call.',
+      'Work starts on your work within 24 hours of your onboarding call.',
     description:
       "Our promise that you we have somebody working on your requests within 24 hours of your onboarding call, which you schedule at your eariest availability.",
     image: screenshotInventory,
