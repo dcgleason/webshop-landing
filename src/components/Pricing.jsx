@@ -51,7 +51,7 @@ function Plan({ name, price, description, href, features, featured = false }) {
     <section
       className={clsx(
         'flex flex-col rounded-3xl px-6 sm:px-8',
-        featured ? 'order-first bg-[#5271ff] py-8 w-full md:w-1/2 mx-auto lg:order-none' : 'lg:py-8'
+        featured ? 'order-first bg-[#5271ff] py-8 lg:order-none lg:px-6' : 'lg:py-8 lg:px-6'
       )}
     >
       <h3 className="mt-5 font-display text-lg text-white">{name}</h3>
@@ -93,8 +93,6 @@ function Plan({ name, price, description, href, features, featured = false }) {
   )
 }
 
-
-
 export function Pricing() {
   return (
     <section
@@ -107,32 +105,57 @@ export function Pricing() {
           <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl">
             <span className="relative whitespace-nowrap">
               <SwirlyDoodle className="absolute left-0 top-1/2 h-[1em] w-full fill-blue-400" />
-              <span className="relative">Membership</span>
+              <span className="relative">Time-Block</span>
             </span>{' '}
-      pricing.
+            Agreements.
           </h2>
           <p className="mt-4 text-lg text-slate-400">
-            We offer a monthly membership for ongoing support and ServiceNow development.
+            We offer time-block agreements for ongoing ServiceNow support that fit your needs.
           </p>
         </div>
-        <div className="mt-16 grid max-w-xl grid-cols-1 gap-y-10 sm:mx-auto lg:max-w-none lg:grid-cols-1 xl:mx-0 xl:gap-x-8">         
-         
+        <div className="mt-16 grid max-w-xl grid-cols-3 gap-x-8 gap-y-10 sm:mx-auto lg:max-w-none lg:grid-cols-3 xl:mx-0 xl:gap-x-8">
           <Plan
-            featured
-            name="Monthly"
-            price="$5995"
-            description="Paid monthly. Cancel anytime."
+            name="50  Hours"
+            price="$4,495"
+            description="Payment plans available."
             href="https://calendly.com/webshopwizards/30min"
             features={[
-              'Unlimited requests',
-              'ITSM, ITAM, CMDB, Service Portal, and custom app development and architecture',
               'Incident, problem, change, and request management',
               'ServiceNow upgrades and migrations',
               'ServiceNow integrations',
               'ServiceNow administration',
+              'ITSM, ITAM, CMDB, Service Portal, and custom app development and architecture'
             ]}
           />
-         
+          <Plan
+            featured
+            name="100 Hours"
+            price="$8,995"
+            description="Payment plans available."
+            href="https://calendly.com/webshopwizards/30min"
+            features={[
+              '24-hour response time',
+              'Incident, problem, change, and request management',
+              'ServiceNow upgrades and migrations',
+              'ServiceNow integrations',
+              'ServiceNow administration',
+              'ITSM, ITAM, CMDB, Service Portal, and custom app development and architecture',
+            ]}
+          />
+          <Plan
+            name="200 Hours"
+            price="$17,995"
+            description="Payment plans available."
+            href="https://calendly.com/webshopwizards/30min"
+            features={[
+              '24-hour respnose time',
+              'Incident, problem, change, and request management',
+              'ServiceNow upgrades and migrations',
+              'ServiceNow integrations',
+              'ServiceNow administration',
+              'ITSM, ITAM, CMDB, Service Portal, and custom app development and architecture',
+            ]}
+          />
         </div>
       </Container>
     </section>

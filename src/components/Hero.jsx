@@ -9,11 +9,14 @@ import logoStaticKit from '@/images/logos/statickit.svg'
 import logoTransistor from '@/images/logos/transistor.svg'
 import logoTuple from '@/images/logos/tuple.svg'
 
+//beyondnow is a productized service that lets a business hire a ServiceNow consultant on demand in time blocks of 10 hours, 20 hours, or 40 hours per month. The consultant is a certified ServiceNow developer with over 10 years of experience in the ITSM industry. The consultant can help with ServiceNow implementations, upgrades, and integrations. The consultant can also help with ServiceNow administration, development, and support. The consultant can also help with ServiceNow training and documentation. The consultant can also help with ServiceNow project management and business analysis. The consultant can also help with ServiceNow process improvement and process automation. The consultant can also help with ServiceNow ITSM, ITOM, ITBM, and ITAM. The consultant can also help with ServiceNow HRSD, CSM, and SecOps. The consultant can also help with ServiceNow GRC, IRM, and VRM. The consultant can also help with ServiceNow SAM, ITSM Pro, and ITSM Enterprise.
+//We promise response times with 24 hours 
+
 export function Hero() {
   return (
     <Container className="pb-16 pt-20 text-center lg:pt-32">
       <h1 className="mx-auto max-w-4xl font-display text-5xl font-medium tracking-tight text-slate-900 sm:text-7xl">
-     ServiceNow developers {' '}
+     IT Consultants {' '}
         <span className="relative whitespace-nowrap text-[#5271ff]">
           <svg
             aria-hidden="true"
@@ -28,8 +31,7 @@ export function Hero() {
        
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-      Trusted senior resources. No contracts. Cancel or pause your subscription at anytime. 
-      </p>
+      BeyondNow lets you hire a seasoned ServiceNow consultant in just a few clicks in time blocks of 25 hours, 50 hours, 100 hours, or 200 hours.       </p>
       <div className="mt-10 flex justify-center gap-x-6">
         <Button href="#pricing">View plans</Button>
         {/* <Button

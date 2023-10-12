@@ -24,7 +24,7 @@ export function CallToAction() {
            Onboarding is a 30 minute phone call.
           </h2>
           <p className="mt-4 text-lg tracking-tight text-white">
-           No credit card required to start. 
+            We'll ask you a few questions about your ServiceNow instance and then we'll get started.
           </p>
           <Button href="/#pricing" color="white" className="mt-10">
             Get started

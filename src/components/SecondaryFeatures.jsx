@@ -11,9 +11,9 @@ import screenshotProfitLoss from '@/images/screenshots/profit-loss.png'
 const features = [
   {
     name: 'Easy onboarding',
-    summary: 'Plug into your existing systems or work within your unique-to-you Trello board',
+    summary: 'Easily block off time with your ServiceNow IT Consultant.',
     description:
-      "We'll work with you to determine the best way to integrate with your existing systems, or we can set you up with a Trello board to track progress and communicate with your team and us.",
+    "We'll send you a link to your ServiceNow IT Consultant's calendar, where you can book your first meeting and subsequent hours needed. We'll also send you a link to a form where you can tell us about your project.",
     image: screenshotProfitLoss,
     icon: function ReportingIcon() {
       let id = useId()
@@ -44,11 +44,11 @@ const features = [
     },
   },
   {
-    name: 'Expedited Agile Delivery',
+    name: 'First response within 24 hours',
     summary:
-      'We prioritize our clients and assure a steady stream of high-quality deliverables, and align our sprint cycles to yours.',
+      'We promise to respond to your request within 24 hours.',
     description:
-      "Speed is not something you have to sacrifice for quality. We work within your workflow to deliver high-quality code and configuration on time, every time.",
+      "Our promise that you we have somebody working on your request within 24 hours of your request.",
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (
@@ -72,11 +72,11 @@ const features = [
     },
   },
   {
-    name: 'Totally Async',
+    name: 'Communication First',
     summary:
-      "Meetings slow everything down. Unless you want them, we'll keep you updated asynchronously.",
+      "We'll keep you updated on our progress.",
     description:
-      "We know you're busy, and we don't want to slow you down. We'll keep you updated on our progress asynchronously, and we'll only schedule meetings when you want them.",
+    "We'll keep you updated on our progress asynchronously often as we believe that transparency is very important.",
     image: screenshotContacts,
     icon: function ContactsIcon() {
       return (
@@ -216,7 +216,7 @@ export function SecondaryFeatures() {
       <Container>
         <div className="mx-auto max-w-2xl md:text-center">
           <h2 className="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">
-    Giving you quality code is our top priority.
+         Quality ServiceNow help.
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">
         Our services include:

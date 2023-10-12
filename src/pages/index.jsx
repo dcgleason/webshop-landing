@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <>
         <Head>
-          <title>Webshop Wizards: Premium Web Development Services</title>
+          <title>BeyondNow: ServiceNow IT Consulting</title>
           <meta
             name="description"
             content="Webshop Wizards is a flexible, subscription-based web development agency. We prioritize user-friendly solutions without compromising accuracy, and provide ongoing service billed monthly. Experience the magic of our subscription-based services today."
@@ -28,13 +28,13 @@ export default function Home() {
 
       <main>
         <Hero />
-        <iframe 
+        {/* <iframe 
           src="https://www.videoask.com/fb10tlp6v" 
           allow="camera *; microphone *; autoplay *; encrypted-media *; fullscreen *; display-capture *;" 
           width="100%" 
           height="600px" 
           style={{border: 'none', borderRadius: '24px'}}
-        ></iframe>
+        ></iframe> */}
 
         {/* <PrimaryFeatures /> */}
         <SecondaryFeatures />
