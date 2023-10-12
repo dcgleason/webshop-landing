@@ -44,9 +44,9 @@ const features = [
     },
   },
   {
-    name: 'On-demand help.',
+    name: 'On-demand Help.',
     summary:
-      'We work to keep hours availalbe daily to accomodate your day-of requets.',
+      'Hours availalbe daily to accomodate your day-of requets.',
     description:
       "We understand that sometimes you need help right away. We work to keep hours availalbe daily to accomodate needs same-day.",
     image: screenshotInventory,
@@ -72,7 +72,7 @@ const features = [
     },
   },
   {
-    name: 'A Communicative Approach.',
+    name: 'A communicative approach',
     summary:
       "Progress reports every time we work your hours.",
     description:
