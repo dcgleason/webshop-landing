@@ -25,8 +25,8 @@ const faqs = [
     },
     
     {
-      question: 'How do I block off time once onboarded?',
-      answer: 'We send you a Calendly link, where you can book your first meeting and subsequent hours needed.',
+      question: 'How do I contact my engineer?',
+      answer: 'We give you access to a cell phone number and email address that you can use to contact your engineer directly, at any hour.',
     }
   
   
@@ -36,7 +36,7 @@ const faqs = [
     {
       question: 'How you get access to our ServiceNow instances?',
       answer:
-        'This is, in part, up to you. You can have an admin grant me "side door" access to your instance, or I can work with you to set up a user account via your SSO provider (Okta, Active Directory, etc.).',
+        '"Side-door" access to your instance usually is the easiet way, but if you have disabed side_door.do, I can help you grant me temporary access in other ways.',
     },
     {
       question: 'Do BeyondNow technical support engineers have U.S. government clearnances?',
