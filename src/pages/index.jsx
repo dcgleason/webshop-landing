@@ -17,10 +17,10 @@ export default function Home() {
   return (
     <>
         <Head>
-          <title>BeyondNow: ServiceNow IT Consulting On-Demand</title>
+          <title>BeyondNow: ServiceNow Technical Support On-Demand</title>
           <meta
             name="description"
-            content="BeyondNow: ServiceNow IT Consulting on demand with a 24-hour response time."
+            content="BeyondNow: ServiceNow technical support on-demand with a 60-minute response time...24x7x365."
           />
           <meta name="keywords" content="IT Consulting, ServiceNow, Subscription-based, Government, Contracts, ServiceNow Develoepr, Time-block agreement, Ongoing Service"/>
       </Head>
