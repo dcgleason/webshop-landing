@@ -55,7 +55,7 @@ const faqs = [
       question:
         'How do I make requests if you work async?',
       answer:
-      'You can make requests via your dedicated Trello board or via solely within your ServiceNow instance once access has been granted.',
+      'You can email, call, or text your engineer at any time. We will respond to your request within 60 minutes, start work on your request within 2 hours, and provide you with an update within 4 hours.',
     },
     {
       question:
