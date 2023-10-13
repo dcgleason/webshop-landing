@@ -20,7 +20,7 @@ export default function Home() {
           <title>BeyondNow: ServiceNow Technical Support On-Demand</title>
           <meta
             name="description"
-            content="BeyondNow: ServiceNow technical support on-demand with a 60-minute response time...24x7x365."
+            content="BeyondNow: After-hours, on-demand, ServiceNow technical support. 60-minute response time."
           />
           <meta name="keywords" content="IT Consulting, ServiceNow, Subscription-based, Government, Contracts, ServiceNow Develoepr, Time-block agreement, Ongoing Service"/>
       </Head>
