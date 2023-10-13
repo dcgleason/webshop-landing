@@ -48,11 +48,7 @@ const faqs = [
       answer:
         'You can purchase more hours at any time, and they will be added to your account.',
     },
-    {
-      question: 'How do you handle urgent requests?',
-      answer:
-        'BeyondNow works to ensure that there are always hours available for same day and next day work.',
-    },
+  
   ],
   [
     {
@@ -65,20 +61,14 @@ const faqs = [
       question:
         "Do you offer refunds?",
       answer:
-        "You are allowed a full refund if you decide within the first 5 hours of work that the fit is not there.",
-    },
-    {
-      question:
-        "How long do my purchased hours last?",
-      answer:
-        "Your purchased hours last for 1 year, 12 months, from your date of purchase.",
-    },
-    {
-      question: 'How far in advance can I book hours?',
-      answer:
-      'You can schedule your hours as far in advance as you would like, within a 12 month period (from your date of purchase).',
+        "We do not offer refunds. If you are unhappy with our service, you can cancel your subscription at any time.",
     },
 
+    {
+      question: 'How do you handle urgent requests?',
+      answer:
+        'We have a 60-minute response time for urgent requests. We will respond to your request within 60 minutes, start work on your request within 2 hours, and provide you with an update within 4 hours.',
+    },
 
   ],
 ]
