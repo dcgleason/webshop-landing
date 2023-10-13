@@ -10,10 +10,10 @@ import screenshotProfitLoss from '@/images/screenshots/profit-loss.png'
 
 const features = [
   {
-    name: 'Easy onboarding',
-    summary: 'Onboarding is a 30 minute phone call.',
+    name: 'L3 technical support',
+    summary: 'We have the expertise to solve your most complex ServiceNow issues.',
     description:
-    "Onboarding happens at your eariest availability. Will ask you a few questions about your ServiceNow needs to determine fit.",
+    "We have the expertise to solve your most complex ServiceNow issues. We'll work with you to understand your needs and provide a solution that works for you.",
     image: screenshotProfitLoss,
     icon: function ReportingIcon() {
       let id = useId()
@@ -44,11 +44,11 @@ const features = [
     },
   },
   {
-    name: 'On-demand help.',
+    name: 'After hours availability',
     summary:
-      'Availability kept for day-of requets.',
+      'We understand that sometimes thinks break at inconvienent times. We work around the clock to keep your business running.',
     description:
-      "We understand that sometimes you need help right away. We work to keep hours available daily to accommodate needs same-day.",
+      "Direct access to our ServiceNow support engineer, even after hours, so that you see resolution to your issues as soon as possible.",
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (
@@ -216,7 +216,7 @@ export function SecondaryFeatures() {
       <Container>
         <div className="mx-auto max-w-2xl md:text-center">
           <h2 className="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">
-         Quality ServiceNow help when you need it.
+         Quality ServiceNow support when you need it.
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">
         Our services include:
