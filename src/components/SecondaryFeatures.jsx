@@ -48,7 +48,7 @@ const features = [
     summary:
       'Around the clock, 24/7 support for your ServiceNow needs.',
     description:
-      "Direct access to a ServiceNow support engineer, even after hours, so that you see resolution to your issues as soon as possible. 60-minute response times.",
+      "Direct access to a Sr. ServiceNow support engineer, even after hours, so that you see resolution to your issues as soon as possible. 60-minute response times.",
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (
