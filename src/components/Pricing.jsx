@@ -120,7 +120,7 @@ export function Pricing() {
             description="Pause or cancel anytime."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
-              '24-hour response time',
+              '60-minute response time',
               'Incident, Problem, Change reviews, and Request processing',
               'ServiceNow upgrades and migrations',
               'ServiceNow integration development and architecture',
@@ -135,7 +135,7 @@ export function Pricing() {
             description="Pause or cancel anytime."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
-              '24-hour response time',
+              '60-minute response time',
               'Incident, Problem, Change reviews, and Request processing',
               'ServiceNow upgrades and migrations',
               'ServiceNow integration development and architecture',
@@ -149,7 +149,7 @@ export function Pricing() {
             description="Pause or cancel anytime."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
-              '24-hour response time',
+              '60-minute response time',
               'Incident, Problem, Change reviews, and Request processing',
               'ServiceNow upgrades and migrations',
               'ServiceNow integration development and architecture',
