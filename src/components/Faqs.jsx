@@ -69,6 +69,11 @@ const faqs = [
       answer:
         'We have a 60-minute response time for urgent requests. We will respond to your request within 60 minutes, start work on your request within 2 hours, and provide you with an update within 4 hours.',
     },
+    {
+      question: 'How will you communicate with me?',
+      answer:
+        'We will communicate with you via email, phone, and text.',
+    },
 
   ],
 ]
