@@ -144,8 +144,8 @@ export function Pricing() {
             ]}
           />
           <Plan
-            name="Custom Hours"
-            price="Custom hours monthly"
+            name="Custom hours monthly"
+            price="Custom hours"
             description="Pause or cancel anytime."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
