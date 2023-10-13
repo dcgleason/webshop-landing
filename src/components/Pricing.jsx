@@ -126,6 +126,7 @@ export function Pricing() {
               'ServiceNow integration development and architecture',
               'ServiceNow data management and data migrations',
               'Customization and development',
+              'Overtime work at $150/hour'
             ]}
           />
           <Plan
@@ -141,6 +142,7 @@ export function Pricing() {
               'ServiceNow integration development and architecture',
               'ServiceNow data management and data migrations',
               'Customization and development',
+              'Overtime work at $150/hour'
             ]}
           />
           <Plan
