@@ -130,8 +130,8 @@ export function Pricing() {
           />
           <Plan
             featured
-            name="30 Hours"
-            price="$2,695"
+            name="25 hours"
+            price="$2,249"
             description="Pause or cancel anytime."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
