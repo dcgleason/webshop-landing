@@ -13,7 +13,7 @@ const features = [
     name: 'ServiceNow technical support',
     summary: 'Experts to solve your most complex ServiceNow issues.',
     description:
-    "We have the experience and expertise to solve your most complex ServiceNow issues.",
+    "We have the experience and expertise to solve your most complex ServiceNow issues. Experience in ITSM, ITAM, CMDB, Service Portal and custom app development and integrations.",
     image: screenshotProfitLoss,
     icon: function ReportingIcon() {
       let id = useId()
