@@ -105,57 +105,57 @@ export function Pricing() {
           <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl">
             <span className="relative whitespace-nowrap">
               <SwirlyDoodle className="absolute left-0 top-1/2 h-[1em] w-full fill-blue-400" />
-              <span className="relative">Time-Block</span>
+              <span className="relative">Monthly</span>
             </span>{' '}
-            Agreements
+            Payments
           </h2>
           <p className="mt-4 text-lg text-slate-400">
-            We offer time-block agreements for ongoing ServiceNow support that fit your needs.
+           We offer three monthly payment plans. Each plan includes a set number of hours of work per month.
           </p>
         </div>
         <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
           <Plan
-            name="50  Hours"
+            name="50 Hours"
             price="$4,495"
-            description="Payment plans available."
+            description="Pause or cancel anytime."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
               '24-hour response time',
               'Incident, Problem, Change reviews, and Request processing',
               'ServiceNow upgrades and migrations',
-              'ServiceNow integrations',
-              'ServiceNow administration',
-              'ITSM and custom app development and architecture'
+              'ServiceNow integration development and architecture',
+              'ServiceNow data management and data migrations',
+              'Customization and development',
             ]}
           />
           <Plan
             featured
             name="100 Hours"
             price="$8,995"
-            description="Payment plans available."
-            href="https://calendly.com/beyondnow-sn/30min"
-            features={[
-              '24-hour response time',
-              'Incident, Problem, Change reviews, and Request processing',
-              'ServiceNow upgrades and data migrations',
-              'ServiceNow integrations',
-              'ServiceNow administration',
-              'ITSM and custom app development and architecture',
-            ]}
-          />
-          <Plan
-            name="200 Hours"
-            price="$17,995"
-            description="Payment plans available."
+            description="Pause or cancel anytime."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
               '24-hour response time',
               'Incident, Problem, Change reviews, and Request processing',
               'ServiceNow upgrades and migrations',
-              'ServiceNow integrations',
-              'ServiceNow administration',
-              'ITSM and custom app development and architecture',
+              'ServiceNow integration development and architecture',
+              'ServiceNow data management and data migrations',
+              'Customization and development',
             ]}
+          />
+          <Plan
+            name="200 Hours"
+            price="$17,995"
+            description="Pause or cancel anytime."
+            href="https://calendly.com/beyondnow-sn/30min"
+            features={[
+              '24-hour response time',
+              'Incident, Problem, Change reviews, and Request processing',
+              'ServiceNow upgrades and migrations',
+              'ServiceNow integration development and architecture',
+              'ServiceNow data management and data migrations',
+              'Customization and development',
+                        ]}
           />
         </div>
       </Container>
