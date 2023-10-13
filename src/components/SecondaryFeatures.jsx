@@ -10,7 +10,7 @@ import screenshotProfitLoss from '@/images/screenshots/profit-loss.png'
 
 const features = [
   {
-    name: 'L3 technical support',
+    name: 'ServiceNo wtechnical support',
     summary: 'We have the expertise to solve your most complex ServiceNow issues.',
     description:
     "We have the expertise to solve your most complex ServiceNow issues. We'll work with you to understand your needs and provide a solution that works for you.",
