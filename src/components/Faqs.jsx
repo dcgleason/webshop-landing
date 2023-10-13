@@ -11,12 +11,12 @@ const faqs = [
     {
       question: 'Why BeyondNow LLC?',
       answer:
-      "Good question! BeyondNow is all about get you the quality help you need from seasoned ServiceNow professionals, when you need it, without having to go through a lengthy hiring process. BeyondNow works to provide ServiceNow help without having to pay for a full-time, salaried employee.",
+      "Good question! BeyondNow is all about getting you 24/7 access to seasoned ServiceNow professionals to solve urgent technical issues that can't wait (we boast 60-minute max response time). We don't offer long-term contracts, so say if your ServiceNow needs slows... you are able to cancel or pause your subscription at any time. ",
     },
     {
       question: 'Who are the technical support engineers?',
       answer:
-        "You might be suprirsed to hear this, but at the moment BeyondNow LCC is a firm of 1 person. I'm Dan, and I'm a Senior ServiceNow Engineer who has worked for IBM, the U.S. Department of Health & Human Services, and the U.S. Department of State. I've been working with ServiceNow for 5 years, and was trained as a full-stack developer before that. I'm a certified ServiceNow System Administrator, Application Developer, with experience in ITSM, ITAM, CMDB, and custom app development and integrations.",
+        "You might be suprirsed to hear this, but at the moment BeyondNow LCC is a firm of 1 person. I'm Dan (https://www.linkedin.com/in/dcgleason/), and I'm a Senior ServiceNow Engineer who has worked for IBM, the U.S. Department of Health & Human Services, and the U.S. Department of State. I've been working with ServiceNow for 5 years, and was trained as a full-stack developer before that. I'm a certified ServiceNow System Administrator, Application Developer, with experience in ITSM, ITAM, CMDB, Service Portal and custom app development and integrations.",
     },
     
     {
