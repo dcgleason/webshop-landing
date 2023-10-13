@@ -9,14 +9,14 @@ import logoStaticKit from '@/images/logos/statickit.svg'
 import logoTransistor from '@/images/logos/transistor.svg'
 import logoTuple from '@/images/logos/tuple.svg'
 
-//beyondnow is a productized service that lets a business hire a ServiceNow consultant on demand in time blocks of 10 hours, 20 hours, or 40 hours per month. The consultant is a certified ServiceNow developer with over 10 years of experience in the ITSM industry. The consultant can help with ServiceNow implementations, upgrades, and integrations. The consultant can also help with ServiceNow administration, development, and support. The consultant can also help with ServiceNow training and documentation. The consultant can also help with ServiceNow project management and business analysis. The consultant can also help with ServiceNow process improvement and process automation. The consultant can also help with ServiceNow ITSM, ITOM, ITBM, and ITAM. The consultant can also help with ServiceNow HRSD, CSM, and SecOps. The consultant can also help with ServiceNow GRC, IRM, and VRM. The consultant can also help with ServiceNow SAM, ITSM Pro, and ITSM Enterprise.
+//beyondnow is a productized service that lets a business hire a ServiceNow technical support engineer on demand in time blocks of 10 hours, 20 hours, or 40 hours per month. The technical support engineer is a certified ServiceNow developer with over 10 years of experience in the ITSM industry. The technical support engineer can help with ServiceNow implementations, upgrades, and integrations. The technical support engineer can also help with ServiceNow administration, development, and support. The technical support engineer can also help with ServiceNow training and documentation. The technical support engineer can also help with ServiceNow project management and business analysis. The technical support engineer can also help with ServiceNow process improvement and process automation. The technical support engineer can also help with ServiceNow ITSM, ITOM, ITBM, and ITAM. The technical support engineer can also help with ServiceNow HRSD, CSM, and SecOps. The technical support engineer can also help with ServiceNow GRC, IRM, and VRM. The technical support engineer can also help with ServiceNow SAM, ITSM Pro, and ITSM Enterprise.
 //We promise response times with 24 hours 
 
 export function Hero() {
   return (
     <Container className="pb-16 pt-20 text-center lg:pt-32">
       <h1 className="mx-auto max-w-4xl font-display text-5xl font-medium tracking-tight text-slate-900 sm:text-7xl">
-     ServiceNow Support Engineers {' '}
+     ServiceNow Technical Support {' '}
         <span className="relative whitespace-nowrap text-[#235373]">
           <svg
             aria-hidden="true"

@@ -14,7 +14,7 @@ const faqs = [
       "Good question! BeyondNow is all about get you the quality help you need from seasoned ServiceNow professionals, when you need it, without having to go through a lengthy hiring process. BeyondNow works to provide ServiceNow help without having to pay for a full-time, salaried employee.",
     },
     {
-      question: 'Who are the consultants?',
+      question: 'Who are the technical support engineers?',
       answer:
         "You might be suprirsed to hear this, but at the moment BeyondNow LCC is a firm of 1 person. I'm Dan, and I'm a Senior ServiceNow Engineer who has worked for IBM, the U.S. Department of Health & Human Services, and the U.S. Department of State. I've been working with ServiceNow for 5 years, and was trained as a full-stack developer before that. I'm a certified ServiceNow System Administrator, Application Developer, with experience in ITSM, ITAM, CMDB, and custom app development and integrations.",
     },
@@ -39,7 +39,7 @@ const faqs = [
         'This is, in part, up to you. You can have an admin grant me "side door" access to your instance, or I can work with you to set up a user account via your SSO provider (Okta, Active Directory, etc.).',
     },
     {
-      question: 'Do BeyondNow consultants have U.S. government clearnances?',
+      question: 'Do BeyondNow technical support engineers have U.S. government clearnances?',
       answer:
         'Yes -- Dan has a secret clearance.',
     },
