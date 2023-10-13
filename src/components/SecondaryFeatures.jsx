@@ -46,7 +46,7 @@ const features = [
   {
     name: 'After-hours availability',
     summary:
-      'Overnight and evening support to meet your ServiceNow needs.',
+      'Evening and overnight support to meet your ServiceNow needs.',
     description:
       "Direct access to a Sr. ServiceNow support engineer, even after hours, so that you see resolution to your issues as soon as possible. 60-minute response times.",
     image: screenshotInventory,
