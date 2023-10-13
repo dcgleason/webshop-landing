@@ -31,7 +31,7 @@ export function Hero() {
        
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-      BeyondNow LLC lets you hire an on-call, expert ServiceNow support engineer for emergency and after-hours support in recurring, monthly time-blocks of 10 hours, 25 hours, or custom-length.       </p>
+      BeyondNow LLC allows you to hire an on-call, expert ServiceNow support engineer for emergency and after-hours support in recurring, monthly time-blocks of 10 hours, 25 hours, or custom-length.       </p>
       <div className="mt-10 flex justify-center gap-x-6">
         <Button href="#pricing">View plans</Button>
         {/* <Button
