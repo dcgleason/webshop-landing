@@ -46,7 +46,7 @@ const faqs = [
     {
       question: 'What if I need more hours?',
       answer:
-        'You can purchase more hours at any time, and they will be added to your account.',
+        'You can purchase more hours at any time, and they will be added to your account for the next month at a rate of $130/hour. All overtime hours before that next month are billed at $150/hour.',
     },
   
   ],
