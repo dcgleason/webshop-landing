@@ -10,10 +10,10 @@ import screenshotProfitLoss from '@/images/screenshots/profit-loss.png'
 
 const features = [
   {
-    name: 'ServiceNo wtechnical support',
-    summary: 'We have the expertise to solve your most complex ServiceNow issues.',
+    name: 'ServiceNow technical support',
+    summary: 'Experts to solve your most complex ServiceNow issues.',
     description:
-    "We have the expertise to solve your most complex ServiceNow issues. We'll work with you to understand your needs and provide a solution that works for you.",
+    "We have the experience and expertise to solve your most complex ServiceNow issues.",
     image: screenshotProfitLoss,
     icon: function ReportingIcon() {
       let id = useId()
@@ -44,9 +44,9 @@ const features = [
     },
   },
   {
-    name: 'After hours availability',
+    name: 'After-hours availability',
     summary:
-      'We understand that sometimes thinks break at inconvienent times. We work around the clock to keep your business running.',
+      'Around the clock, 24/7 support for your ServiceNow needs.',
     description:
       "Direct access to our ServiceNow support engineer, even after hours, so that you see resolution to your issues as soon as possible.",
     image: screenshotInventory,
@@ -74,9 +74,9 @@ const features = [
   {
     name: 'A communicative approach',
     summary:
-      "Progress reports every time we work your hours.",
+      "Progress reports every time we do work for you",
     description:
-    "We'll keep you updated on progress made, including a summary of work done and hours remaining, whenever we do work for you as we believe in the importance of transparency.",
+    "We'll keep you updated on all work done and time spent as we believe in the importance of transparency.",
     image: screenshotContacts,
     icon: function ContactsIcon() {
       return (
