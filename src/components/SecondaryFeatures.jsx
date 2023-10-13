@@ -74,7 +74,7 @@ const features = [
   {
     name: 'A communicative approach',
     summary:
-      "Progress reports every time we do work for you",
+      "Progress reports every time we do work for you.",
     description:
     "We'll keep you updated on all work done and time spent as we believe in the importance of transparency.",
     image: screenshotContacts,
