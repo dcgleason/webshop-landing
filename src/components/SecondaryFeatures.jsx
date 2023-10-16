@@ -218,7 +218,7 @@ export function SecondaryFeatures() {
           Find, apply, and network for jobs on your behalf.
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">
-         Our services:
+         Our services include:
           </p>
         </div>
         <FeaturesMobile />
