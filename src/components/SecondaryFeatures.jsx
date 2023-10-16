@@ -45,7 +45,7 @@ const features = [
   {
     name: 'Job apps done for you',
     summary:
-      'Job applications and networking companies you select.',
+      'Job applications and networking at companies you select.',
     description:
       "Networking done on your behalf and 3-5 handpicked jobs each week applied to -- each job, a customized resume.",
     image: screenshotInventory,
