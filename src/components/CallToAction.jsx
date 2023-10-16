@@ -24,7 +24,7 @@ export function CallToAction() {
            Onboarding is a 30-minute phone call.
           </h2>
           <p className="mt-4 text-lg tracking-tight text-white">
-            We&apos;ll ask you a few questions about your SeriveNow needs to determine fit before we get started.
+            We&apos;ll ask you a few questions about your background and career goals to start.
           </p>
           <Button href="/#pricing" color="white" className="mt-10">
             Get started
