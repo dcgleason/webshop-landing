@@ -10,10 +10,9 @@ import screenshotProfitLoss from '@/images/screenshots/profit-loss.png'
 
 const features = [
   {
-    name: 'ServiceNow technical support',
-    summary: 'Experts to solve your most complex ServiceNow issues.',
-    description:
-    "We have the experience and expertise to solve your most complex ServiceNow issues. Experience in ITSM, ITAM, CMDB, Service Portal and custom app development and integrations.",
+    name: 'Dedicated Reverse Recruiter',
+    summary: 'Personalized job search management from start to finish.',
+    description: "You'll be paired with a dedicated Reverse Recruiter who will manage your entire job search, from the application process to landing interviews.",
     image: screenshotProfitLoss,
     icon: function ReportingIcon() {
       let id = useId()
@@ -44,11 +43,11 @@ const features = [
     },
   },
   {
-    name: 'After-hours availability',
+    name: 'Job Applications & Optimization',
     summary:
-      'Non-business hour support to meet your ServiceNow needs.',
+      'Tailored job applications to boost your chances.',
     description:
-      "Direct, after-hour access to a Sr. ServiceNow support engineer so that you see resolution to your issues as soon as possible. 60-minute response times.",
+      "Receive 3-5 handpicked jobs each week and have applications submitted on your behalf, each with a customized resume.",
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (
@@ -72,11 +71,11 @@ const features = [
     },
   },
   {
-    name: 'A communicative approach',
+    name: 'Real-Time Communication',
     summary:
-      "Progress reports every time we do work for you.",
+      "Stay updated with live chats and strategy calls.",
     description:
-    "We'll keep you updated on all work done and time spent as we believe in the importance of transparency.",
+    "Enjoy live chat with your Reverse Recruiter during business hours and opt for weekly strategy calls to keep your job search on track.",
     image: screenshotContacts,
     icon: function ContactsIcon() {
       return (
