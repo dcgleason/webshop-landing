@@ -30,11 +30,11 @@ const faqs = [
   [
     {
       question: "How many job applications do you apply to for my per week?",
-      answer: 'Our aim is to handpick and apply to 3-5 jobs per week on your behalf, ensuring all submissions are tailored to the individual role.'
+      answer: "BeyondNow's aim is to handpick and apply to 3-5 jobs per week on your behalf, ensuring all submissions are tailored to the individual role."
     },
     {
       question: 'Do you offer any add-on services?',
-      answer: 'Yes, for an additional fee, we offer custom services like interview prep with mock interviews, networking with targeted companies, and more.'
+      answer: 'Yes, if you opt for the right teir, BeyondNow offers custom services like interview prep with mock interviews, networking with targeted companies, and more.'
     },
     {
       question: 'How does the weekly strategy call work?',
