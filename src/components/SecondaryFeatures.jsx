@@ -47,7 +47,7 @@ const features = [
     summary:
       'Job application process managed on your behalf.',
     description:
-      "Resume & LinkedIn profile optimization, networking done for you with key decision makers at companies that fit your criteria, and 3-5 handpicked jobs applied to each week -- each job gets sent a tailored resume.",
+      "We'll optimize your esume & LinkedIn profile, networking for you with key decision makers at companies that fit your criteria, and apply to 3-5 handpicked jobs for you each week -- each job gets sent a tailored resume.",
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (
