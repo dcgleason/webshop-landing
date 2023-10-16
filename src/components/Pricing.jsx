@@ -107,7 +107,7 @@ export function Pricing() {
               <SwirlyDoodle className="absolute left-0 top-1/2 h-[1em] w-full fill-blue-400" />
               <span className="relative">Monthly</span>
             </span>{' '}
-            Payments
+            Plans
           </h2>
           <p className="mt-4 text-lg text-slate-400">
            We offer three monthly payment plans. 
