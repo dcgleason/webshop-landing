@@ -43,7 +43,7 @@ const features = [
     },
   },
   {
-    name: 'Job Applications & Networking Done For You',
+    name: 'Job Apps & Networking Done For You',
     summary:
       'Job applications and networking a selected companies done on your behalf.',
     description:
@@ -218,7 +218,7 @@ export function SecondaryFeatures() {
         How it works:
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">
-          
+
           </p>
         </div>
         <FeaturesMobile />
