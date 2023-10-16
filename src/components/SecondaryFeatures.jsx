@@ -43,11 +43,11 @@ const features = [
     },
   },
   {
-    name: 'Job Applications & Optimization',
+    name: 'Job Applications & Networking',
     summary:
-      'Tailored job applications to boost your chances.',
+      'Tailored job applications and networking at companies of your choice done for you',
     description:
-      "Receive 3-5 handpicked jobs each week and have applications submitted on your behalf, each with a customized resume.",
+      "Receive 3-5 handpicked jobs each week and have applications submitted and networking done on your behalf -- each job, a customized resume. ",
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (
