@@ -31,7 +31,7 @@ export function Hero() {
        
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-      BeyondNow Reverse Recruiting: U.S.-based Reverse Recruiters manage your ServiceNow job search from discovery to interview. Handpicked jobs, tailored resumes, and strategic networking—all with live chat and optional weekly strategy calls.      <div className="mt-10 flex justify-center gap-x-6">
+      BeyondNow Reverse Recruiting: U.S.-based, fully managed job search service that helps you land your dream ServiceNow job. Handpicked jobs personalized to your criteria, resume optimization, and strategic networking done on your behalf to your companies of choice.      <div className="mt-10 flex justify-center gap-x-6">
         <Button href="#pricing">View plans</Button>
         {/* <Button
           href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
