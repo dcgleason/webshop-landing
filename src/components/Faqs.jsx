@@ -11,72 +11,52 @@ const faqs = [
     {
       question: 'Why BeyondNow LLC?',
       answer:
-      "Good question! BeyondNow is all about getting you 24/7 access to seasoned ServiceNow professionals to solve urgent technical issues that can't wait (we boast 60-minute max response time). We don't offer long-term contracts, so say if your ServiceNow needs slows... you are able to cancel or pause your subscription at any time. ",
+        "BeyondNow specializes in reverse recruiting services exclusively for the ServiceNow domain. We offer personalized career strategies, aiming to place you in roles that align with your goals and expertise. No long-term commitments are required; you can pause or cancel your subscription at any time."
     },
     {
-      question: 'Who are the technical support engineers?',
+      question: 'Who are the Reverse Recruiters?',
       answer:
-        "You might be suprirsed to hear this, but at the moment BeyondNow LCC is a firm of 1 person. I'm Dan (https://www.linkedin.com/in/dcgleason/), and I'm a Senior ServiceNow Engineer who has worked for IBM, the U.S. Department of Health & Human Services, and the U.S. Department of State. I've been working with ServiceNow for 5 years, and was trained as a full-stack developer before that. I'm a certified ServiceNow System Administrator, Application Developer, with experience in ITSM, ITAM, CMDB, Service Portal and custom app development and integrations.",
+        "You might be surprised to hear this, but BeyondNow LLC is a team of 1. Dan Gleason is an experienced professional in the ServiceNow industry with a strong US-based network."
     },
-    
     {
-      question: 'What technologies do you work with?',
-      answer: 'ServiceNow, Medidata, Active Directory, Okta, Jira, Trello, Slack, Github, mainly.',
+      question: 'What services do you offer?',
+      answer: 'We offer a range of services including job handpicking, resume optimization, LinkedIn profile enhancement, targeted networking, interview preparation, and more. Packages are designed to suit various needs and career stages.'
     },
-    
     {
-      question: 'How do I contact my engineer?',
-      answer: 'We give you access to a cell phone number and email address that you can use to contact your engineer directly, at any hour.',
+      question: 'How do I get in touch with my Reverse Recruiter?',
+      answer: 'Upon subscribing to one of our plans, you will receive direct contact details for your dedicated Reverse Recruiter, including a cell phone number and email for easy communication.'
     }
-  
-  
-  ],
-  [
-   
-    {
-      question: 'How you get access to our ServiceNow instances?',
-      answer:
-        '"Side-door" access to your instance usually is the easiet way, but if you have disabed side_door.do, I can help you grant me temporary access in other ways.',
-    },
-    {
-      question: 'Do BeyondNow technical support engineers have U.S. government clearnances?',
-      answer:
-        'Yes -- Dan has a secret clearance.',
-    },
-    {
-      question: 'What if I need more hours?',
-      answer:
-        'You can purchase more hours at any time, and they will be added to your account for the next month at a rate of $130/hour. All overtime hours before that next month are billed at $150/hour.',
-    },
-  
   ],
   [
     {
-      question:
-        'How do I make requests if you work async?',
-      answer:
-      'You can email, call, or text your engineer at any time. We will respond to your request within 60 minutes, start work on your request within 2 hours, and provide you with an update within 4 hours.',
+      question: "How many job applications do you apply to for my per week?",
+      answer: 'Our aim is to handpick and apply to 3-5 jobs per week on your behalf, ensuring all submissions are tailored to the individual role.'
     },
     {
-      question:
-        "Do you offer refunds?",
-      answer:
-        "We do not offer refunds. If you are unhappy with our service, you can cancel your subscription at any time.",
-    },
-
-    {
-      question: 'How do you handle urgent requests?',
-      answer:
-        'We have a 60-minute response time for urgent requests. We will respond to your request within 60 minutes, start work on your request within 2 hours, and provide you with an update within 4 hours.',
+      question: 'Do you offer any add-on services?',
+      answer: 'Yes, for an additional fee, we offer custom services like interview prep with mock interviews, networking with targeted companies, and more.'
     },
     {
-      question: 'How will you communicate with me?',
-      answer:
-        'We will communicate with you via email, phone, and text.',
-    },
-
+      question: 'How does the weekly strategy call work?',
+      answer: 'The weekly strategy call is optional but highly recommended. It gives us a chance to sync up, review progress, and adapt our strategy based on any changes or feedback.'
+    }
   ],
-]
+  [
+    {
+      question: 'How do you handle networking on my behalf?',
+      answer: 'We utilize our extensive industry connections to proactively reach out and introduce you to potential employers and stakeholders, with your approval and direction.'
+    },
+    {
+      question: 'Do you offer refunds?',
+      answer: 'We do not offer refunds. If you are dissatisfied with our service, you can cancel your subscription at any time.'
+    },
+    {
+      question: 'What modes of communication will you use?',
+      answer: 'We offer communication via email, phone, and live chat during business hours. All correspondences are aimed to be responsive and efficient.'
+    }
+  ]
+];
+
 
 export function Faqs() {
   const [activeIndex, setActiveIndex] = useState();

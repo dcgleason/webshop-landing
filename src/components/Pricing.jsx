@@ -116,7 +116,7 @@ export function Pricing() {
         <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
           <Plan
             name="Base"
-            price="$1500"
+            price="$1500/month"
             description="Pause or cancel anytime."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
@@ -124,13 +124,14 @@ export function Pricing() {
               'Initial discovery call with your Reverse Recruiter',
               '3-5 jobs handpicked each week based on your criteria',
               'Resume optimization for each submitted job application',
-              'LinkedIn profile optimization'
+              'LinkedIn profile optimization',
+              'Email support from your Reverse Recruiter',
             ]}
           />
           <Plan
             featured
             name="Intermediate"
-            price="$2250"
+            price="$2250/month"
             description="Pause or cancel anytime."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
@@ -142,7 +143,7 @@ export function Pricing() {
           />
           <Plan
             name="Premium"
-            price="$3000"
+            price="$3000/month"
             description="Pause or cancel anytime."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
