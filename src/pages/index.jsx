@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <>
         <Head>
-          <title>BeyondNow: ServiceNow Reverse Recruiting</title>
+          <title>BeyondNow: Reverse Recruiting for ServiceNow Professionals</title>
           <meta
             name="description"
             content="BeyondNow: Reverse Recruiting for ServiceNow Professionals"
