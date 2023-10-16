@@ -110,13 +110,13 @@ export function Pricing() {
             Payments
           </h2>
           <p className="mt-4 text-lg text-slate-400">
-           We offer three monthly payment plans. Each plan includes a set number of hours of work per month.
+           We offer three monthly payment plans. 
           </p>
         </div>
         <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
           <Plan
             name="Base"
-            price="$1295"
+            price="$1500"
             description="Pause or cancel anytime."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
@@ -130,7 +130,7 @@ export function Pricing() {
           <Plan
             featured
             name="Intermediate"
-            price="$3,249"
+            price="$2250"
             description="Pause or cancel anytime."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
@@ -142,7 +142,7 @@ export function Pricing() {
           />
           <Plan
             name="Premium"
-            price="Custom hours"
+            price="$3000"
             description="Pause or cancel anytime."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
