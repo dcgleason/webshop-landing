@@ -118,7 +118,7 @@ export function Pricing() {
             name="Base"
             price="$1500/month"
             description="Pause or cancel anytime."
-            href="https://calendly.com/beyondnow-sn/30min"
+            href="https://buy.stripe.com/6oEcOUgHL4aqbPG3cc"
             features={[
               '100% U.S.-based Reverse Recruiters (no work is outsourced)',
               'Initial discovery call with your Reverse Recruiter',
@@ -133,7 +133,7 @@ export function Pricing() {
             name="Intermediate"
             price="$2250/month"
             description="Pause or cancel anytime."
-            href="https://calendly.com/beyondnow-sn/30min"
+            href="https://buy.stripe.com/aEU4iocrv36m5ridQR"
             features={[
               'All features of Base Tier',
                 '3-5 approved jobs applied for each week on your behalf',
@@ -145,7 +145,7 @@ export function Pricing() {
             name="Premium"
             price="$3000/month"
             description="Pause or cancel anytime."
-            href="https://calendly.com/beyondnow-sn/30min"
+            href="https://buy.stripe.com/28oeX24Z3fT88Du146"
             features={[
               'All features of Intermediate Tier',
               'Live chat with your Reverse Recruiter during business hours',
