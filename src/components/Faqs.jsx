@@ -16,7 +16,7 @@ const faqs = [
     {
       question: 'Who are the Reverse Recruiters?',
       answer:
-        "You might be surprised to hear this, but BeyondNow LLC is a team of 1. Dan Gleason is an experienced professional in the ServiceNow industry with a strong US-based, ServiceNow network."
+        "You might be surprised to hear this, but BeyondNow LLC is a team of 1. Dan Gleason (https://www.linkedin.com/in/dcgleason/) is an experienced professional in the ServiceNow industry with a strong US-based, ServiceNow network."
     },
     {
       question: 'What services do you offer?',
