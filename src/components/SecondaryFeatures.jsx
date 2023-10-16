@@ -12,7 +12,7 @@ const features = [
   {
     name: 'Dedicated Reverse Recruiter',
     summary: 'Personalized job search management',
-    description: "You'll be paired with a dedicated Reverse Recruiter who will manage your entire job search whose mission is to land and prepare you for interviews.",
+    description: "You'll be paired with a dedicated Reverse Recruiter who will manage your entire job search and whose mission is to land and prepare you for interviews.",
     image: screenshotProfitLoss,
     icon: function ReportingIcon() {
       let id = useId()
