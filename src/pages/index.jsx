@@ -20,7 +20,7 @@ export default function Home() {
           <title>BeyondNow: Reverse Recruiting for ServiceNow Professionals</title>
           <meta
             name="description"
-            content="BeyondNow is a reverse recruitment firm that manages your ServiceNow job search for you by optimizing your resume & LinkedIn profile, networking with key decision makers for you at companies on your behalf, and appling to hand-picked, approved-of ServiceNow jobs for you."
+            content="BeyondNow LLC is a reverse recruitment firm that manages your ServiceNow job search for you by optimizing your resume & LinkedIn profile, networking with key decision makers for you at companies on your behalf, and appling to hand-picked, approved-of ServiceNow jobs for you."
           />
           <meta name="keywords" content="IT Consulting, ServiceNow, Subscription, Reverse Recruiting, Reverse Recruiter, job search"/>
       </Head>
