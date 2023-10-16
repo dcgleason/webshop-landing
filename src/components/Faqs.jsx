@@ -59,8 +59,7 @@ const faqs = [
       answer: 'As someone who has been on the other side of the interview table, your Reverse Recruiter will help you prepare for interviews by providing you with a list of potential questions and answers, tips and tricks to help you stand out, and personalized feedback on your performance.'
     }
   ]
-  ]
-];
+  ];
 
 
 export function Faqs() {
