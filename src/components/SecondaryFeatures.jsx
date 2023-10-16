@@ -215,10 +215,10 @@ export function SecondaryFeatures() {
       <Container>
         <div className="mx-auto max-w-2xl md:text-center">
           <h2 className="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">
-            Let us to the heavy lifting.
+        How it works:
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">
-    How it works:
+          
           </p>
         </div>
         <FeaturesMobile />
