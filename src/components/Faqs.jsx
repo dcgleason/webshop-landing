@@ -48,11 +48,11 @@ const faqs = [
     },
     {
       question: 'Do you offer refunds?',
-      answer: 'We do not offer refunds. If you are dissatisfied with our service, you can cancel your subscription at any time.'
+      answer: 'BeyondNow does do not offer refunds. If you are dissatisfied with our service, you can cancel your subscription at any time.'
     },
     {
       question: 'What modes of communication will you use?',
-      answer: 'We offer communication via email, phone, and live chat during business hours. All correspondences are aimed to be responsive and efficient.'
+      answer: 'Communication happens via email, phone, and live chat during business hours. All correspondences are aimed to be responsive and efficient.'
     }
   ]
 ];
