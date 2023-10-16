@@ -120,13 +120,11 @@ export function Pricing() {
             description="Pause or cancel anytime."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
-              '60-minute response time // 5pm - 9am weekdays // 24-hr weekends',
-              'Incident, Problem, Change reviews, and Request processing',
-              'ServiceNow upgrades and migrations',
-              'ServiceNow integration development and architecture',
-              'ServiceNow data management and data migrations',
-              'Customization and development',
-              'Overtime work at $150/hour'
+              '100% U.S.-based Reverse Recruiters (no work is outsourced)',
+              'Initial discovery call with your Reverse Recruiter',
+              '3-5 jobs handpicked each week based on your criteria',
+              'Resume optimization for each submitted job application',
+              'LinkedIn profile optimization'
             ]}
           />
           <Plan
@@ -136,13 +134,10 @@ export function Pricing() {
             description="Pause or cancel anytime."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
-              '60-minute response time // 5pm - 9am weekdays // 24-hr weekends',
-              'Incident, Problem, Change reviews, and Request processing',
-              'ServiceNow upgrades and migrations',
-              'ServiceNow integration development and architecture',
-              'ServiceNow data management and data migrations',
-              'Customization and development',
-              'Overtime work at $150/hour'
+              'All features of Basic Tier',
+                '3-5 approved jobs applied for each week on your behalf',
+                'Networking on your behalf to land you interviews', 
+                'Marketing you to target companies of your choice',
             ]}
           />
           <Plan
@@ -151,12 +146,12 @@ export function Pricing() {
             description="Pause or cancel anytime."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
-              '60-minute response time // 5pm - 9am weekdays // 24-hr weekends',
-              'Incident, Problem, Change reviews, and Request processing',
-              'ServiceNow upgrades and migrations',
-              'ServiceNow integration development and architecture',
-              'ServiceNow data management and data migrations',
-              'Customization and development',
+              'All features of Intermediate Tier',
+              'Live chat with your Reverse Recruiter during business hours',
+              'Weekly strategy calls with your Reverse Recruiter (optional)',
+              'Interview prep with mock interviews and personalized feedback',
+              'Negotiation support for salary and benefits'
+              
                         ]}
           />
         </div>
