@@ -120,7 +120,7 @@ export function Pricing() {
             description="Pause or cancel anytime."
             href="https://buy.stripe.com/6oEcOUgHL4aqbPG3cc"
             features={[
-              '100% U.S.-based Reverse Recruiters (no work is outsourced)',
+              '100% U.S.-based Reverse Recruiter (can find jobs in any English-speaking country)',
               'Initial discovery call with your Reverse Recruiter',
               '3-5 jobs handpicked each week based on your criteria',
               'Resume optimization for each submitted job application',
