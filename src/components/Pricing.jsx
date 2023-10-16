@@ -115,7 +115,7 @@ export function Pricing() {
         </div>
         <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
           <Plan
-            name="10 hours monthly"
+            name="Base"
             price="$1295"
             description="Pause or cancel anytime."
             href="https://calendly.com/beyondnow-sn/30min"
@@ -129,7 +129,7 @@ export function Pricing() {
           />
           <Plan
             featured
-            name="25 hours monthly"
+            name="Intermediate"
             price="$3,249"
             description="Pause or cancel anytime."
             href="https://calendly.com/beyondnow-sn/30min"
@@ -141,7 +141,7 @@ export function Pricing() {
             ]}
           />
           <Plan
-            name="Custom hours monthly"
+            name="Premium"
             price="Custom hours"
             description="Pause or cancel anytime."
             href="https://calendly.com/beyondnow-sn/30min"
