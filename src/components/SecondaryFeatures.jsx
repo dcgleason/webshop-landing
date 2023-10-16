@@ -43,9 +43,9 @@ const features = [
     },
   },
   {
-    name: 'Job Applications & Networking',
+    name: 'Job Applications & Networking Done For You',
     summary:
-      'Tailored job applications and networking at companies of your choice done for you',
+      'Job applications and networking a selected companies done on your behalf.',
     description:
       "Receive 3-5 handpicked jobs each week and have applications submitted and networking done on your behalf -- each job, a customized resume.",
     image: screenshotInventory,
