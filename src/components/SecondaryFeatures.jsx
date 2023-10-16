@@ -43,7 +43,7 @@ const features = [
     },
   },
   {
-    name: 'Job Apps & Networking Done For You',
+    name: 'Heavy lifting done for you',
     summary:
       'Job applications and networking a selected companies done on your behalf.',
     description:
