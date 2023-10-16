@@ -47,7 +47,7 @@ const features = [
     summary:
       'Job applications and networking done for you at quality companies.',
     description:
-      "Networking done on your behalf and 3-5 handpicked jobs each week applied to -- each job, a customized resume.",
+      "Networking done on your behalf and 3-5 handpicked jobs applied to (based on your criteria) each week applied to -- each job, a customized resume.",
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (
