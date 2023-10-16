@@ -38,7 +38,7 @@ const faqs = [
     },
     {
       question: 'How does the weekly strategy call work?',
-      answer: 'The weekly strategy call is optional but highly recommended. It gives us a chance to sync up, review progress, and adapt our strategy based on any changes or feedback.'
+      answer: 'The weekly strategy call is only available in the Premium teir. It gives us a chance to sync up, review progress, and adapt our strategy based on any changes or feedback.'
     }
   ],
   [
@@ -53,7 +53,12 @@ const faqs = [
     {
       question: 'What modes of communication will you use?',
       answer: 'Communication happens via email, phone, and live chat during business hours. All correspondences are aimed to be responsive and efficient.'
+    },
+    {
+      question: 'How do you prepare me for interviews?',
+      answer: 'As someone who has been on the other side of the interview table, your Reverse Recruiter will help you prepare for interviews by providing you with a list of potential questions and answers, tips and tricks to help you stand out, and personalized feedback on your performance.'
     }
+  ]
   ]
 ];
 
