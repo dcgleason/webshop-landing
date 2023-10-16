@@ -11,8 +11,8 @@ import screenshotProfitLoss from '@/images/screenshots/profit-loss.png'
 const features = [
   {
     name: 'Dedicated Reverse Recruiter',
-    summary: 'Personalized job search management from start to finish.',
-    description: "You'll be paired with a dedicated Reverse Recruiter who will manage your entire job search, from the application process to landing interviews.",
+    summary: 'Personalized job search management',
+    description: "You'll be paired with a dedicated Reverse Recruiter who will manage your entire job search whose mission is to land and prepare you for interviews.",
     image: screenshotProfitLoss,
     icon: function ReportingIcon() {
       let id = useId()
@@ -47,7 +47,7 @@ const features = [
     summary:
       'Tailored job applications and networking at companies of your choice done for you',
     description:
-      "Receive 3-5 handpicked jobs each week and have applications submitted and networking done on your behalf -- each job, a customized resume. ",
+      "Receive 3-5 handpicked jobs each week and have applications submitted and networking done on your behalf -- each job, a customized resume.",
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (
@@ -71,7 +71,7 @@ const features = [
     },
   },
   {
-    name: 'Real-Time Communication',
+    name: 'A Communicative Approach',
     summary:
       "Stay updated with live chats and strategy calls.",
     description:
