@@ -135,7 +135,7 @@ export function Pricing() {
             description="Pause or cancel anytime."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
-              'All features of Basic Tier',
+              'All features of Base Tier',
                 '3-5 approved jobs applied for each week on your behalf',
                 'Networking on your behalf to land you interviews', 
                 'Marketing you to target companies of your choice',
