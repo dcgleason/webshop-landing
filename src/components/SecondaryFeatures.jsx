@@ -71,7 +71,7 @@ const features = [
     },
   },
   {
-    name: 'A Communicative Approach',
+    name: 'Frequent communication',
     summary:
       "Stay updated with live chats and strategy calls.",
     description:
