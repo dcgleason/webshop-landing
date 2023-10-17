@@ -12,7 +12,7 @@ const features = [
   {
     name: 'Resume & LinkedIn Optimization',
     summary: 'Resume & LinkedIn profile optimization to help you stand out.',
-    description: "Your dedicated Reverse Recruiter will give you tools and tips that will improve your resumes & LinkedIn profile.",
+    description: "Your dedicated Reverse Recruiter will give you tools and tips to improve your resumes & LinkedIn profile so that you stand out from the crowd.",
     image: screenshotProfitLoss,
     icon: function ReportingIcon() {
       let id = useId()
@@ -71,7 +71,7 @@ const features = [
     },
   },
   {
-    name: 'Application submissions & Interview Prep',
+    name: 'Application Submissions & Interview Prep',
     summary:
       "3-5 tailored applications sent in per week to get you the job.",
     description:
