@@ -10,9 +10,9 @@ import screenshotProfitLoss from '@/images/screenshots/profit-loss.png'
 
 const features = [
   {
-    name: 'Dedicated Reverse Recruiter',
-    summary: 'Personalized job search coaching.',
-    description: "You'll be paired with a dedicated Reverse Recruiter who will manage your entire job search and whose mission is to land and prepare you for interviews.",
+    name: 'Resume & LinkedIn Optimization',
+    summary: 'We optimize your resume & LinkedIn profile.',
+    description: "We optimize your resume & LinkedIn profile to help you stand out to the right people.",
     image: screenshotProfitLoss,
     icon: function ReportingIcon() {
       let id = useId()
