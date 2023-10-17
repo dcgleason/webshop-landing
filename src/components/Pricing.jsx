@@ -123,8 +123,8 @@ export function Pricing() {
               '100% U.S.-based Reverse Recruiter (can find jobs in any English-speaking country)',
               'Initial discovery call with your Reverse Recruiter',
               '3-5 approved jobs applied to each week on your behalf',
-              'Resume optimization for each submitted job application',
-              'LinkedIn profile optimization',
+              'Resume tailored for each submitted job application',
+              'LinkedIn profile & resume optimization',
               'Email support from your Reverse Recruiter',
             ]}
           />
