@@ -11,8 +11,8 @@ import screenshotProfitLoss from '@/images/screenshots/profit-loss.png'
 const features = [
   {
     name: 'Resume & LinkedIn Optimization',
-    summary: 'We optimize your resume & LinkedIn profile.',
-    description: "We optimize your resume & LinkedIn profile to help you stand out to the right people.",
+    summary: 'Resume & LinkedIn profile optimization to help you stand out.',
+    description: "Your dedicated Reverse Recruiter will help you optimize your ServiceNow resume & LinkedIn profile to help you get noticed.",
     image: screenshotProfitLoss,
     icon: function ReportingIcon() {
       let id = useId()
