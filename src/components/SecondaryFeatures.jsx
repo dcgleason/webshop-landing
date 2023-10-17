@@ -45,7 +45,7 @@ const features = [
   {
     name: "Targeted Networking & Interview Coaching",
     summary:
-      'Insider access to ServiceNow partners & customers along with interview-prep.',
+      'Insider access to ServiceNow partners & customers to get you connected.',
     description:
       "Your Reverse Recruiter (a ServiceNow professional) will find & introduce you to key decision makers at ServiceNow partners and customers and then coach you on how to get the job.",
     image: screenshotInventory,
