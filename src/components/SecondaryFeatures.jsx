@@ -45,7 +45,7 @@ const features = [
   {
     name: "Coaching & Interview Prep",
     summary:
-      'We coaching you to secure referrals and ace your interviews.',
+      'Secure referrals and ace your interviews.',
     description:
       "We find & introduce you with key decision makers at ServiceNow partner and customers, coach you on how to referrals, and ace your interviews.",
     image: screenshotInventory,
@@ -73,7 +73,7 @@ const features = [
   {
     name: 'Applications Done For You',
     summary:
-      "To save you time, we apply to 3-5 handpicked jobs each week on your behalf.",
+      "Tailored applications to 3-5 jobs per week.",
     description:
     "We apply to 3-5 handpicked jobs each week on your behalf, ensuring all submissions are tailored to each individual role.",
     image: screenshotContacts,
