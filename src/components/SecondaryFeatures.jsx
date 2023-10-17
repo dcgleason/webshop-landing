@@ -43,11 +43,11 @@ const features = [
     },
   },
   {
-    name: 'Job applications done for you',
+    name: "Coaching & Interview Prep",
     summary:
-      'Job application process managed on your behalf.',
+      'We coach you on how to get people to give you referrals and prepare you for interviews.',
     description:
-      "We'll optimize your resume & LinkedIn profile, network with key decision makers at companies that fit your criteria for you, and apply to 3-5 handpicked jobs for you each week -- each job gets sent a tailored resume.",
+      "We find and introduce you with key decision makers at ServiciceNow Partners and Customers that fit your criteria and coach you on how to get your new contacts to give you referrals.",
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (
@@ -71,11 +71,11 @@ const features = [
     },
   },
   {
-    name: 'Frequent communication',
+    name: 'Apply to jobs for you',
     summary:
-      "Stay updated with live chats and strategy calls.",
+      "To save you time, we apply to 3-5 handpicked jobs each week on your behalf.",
     description:
-    "Enjoy live chat with your Reverse Recruiter during business hours and opt for weekly strategy calls to keep your job search on track.",
+    "We apply to 3-5 handpicked jobs each week on your behalf, ensuring all submissions are tailored to each individual role.",
     image: screenshotContacts,
     icon: function ContactsIcon() {
       return (
