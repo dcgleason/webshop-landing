@@ -122,7 +122,7 @@ export function Pricing() {
             features={[
               '100% U.S.-based Reverse Recruiter (can find jobs in any English-speaking country)',
               'Initial discovery call with your Reverse Recruiter',
-              '3-5 jobs handpicked each week based on your criteria',
+              '3-5 approved jobs applied to each week on your behalf',
               'Resume optimization for each submitted job application',
               'LinkedIn profile optimization',
               'Email support from your Reverse Recruiter',
@@ -136,7 +136,6 @@ export function Pricing() {
             href="https://buy.stripe.com/aEU4iocrv36m5ridQR"
             features={[
               'All features of Base Tier',
-                '3-5 approved jobs applied for each week on your behalf',
                 'Live chat with your Reverse Recruiter during business hours',
                 'Network on your behalf and introduce you to key decision makers at target companies', 
                 'Step-by-step coaching on how to get referrals',
