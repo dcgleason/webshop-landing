@@ -31,7 +31,7 @@ export function Hero() {
        
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-     Stop looking and start finding! BeyondNow LLC is a U.S.-based reverse recruitment firm that manages your ServiceNow job search for you.  
+     Stop looking and start finding! BeyondNow LLC is a U.S.-based reverse recruitment firm that helps you find the perfect job in the ServiceNow space.  
       </p>
         <div className="mt-10 flex justify-center gap-x-6">
         <Button href="#pricing">View plans</Button>
