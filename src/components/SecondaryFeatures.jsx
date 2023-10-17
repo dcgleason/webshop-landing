@@ -71,9 +71,9 @@ const features = [
     },
   },
   {
-    name: 'Applications Done For You',
+    name: 'Job Applications Done For You',
     summary:
-      "Tailored applications sent for 3-5 jobs per week.",
+      "Tailored applications sent for 3-5 approved jobs per week.",
     description:
     "We apply to 3-5 handpicked jobs each week on your behalf, ensuring all submissions are tailored to each individual role.",
     image: screenshotContacts,
