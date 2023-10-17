@@ -45,9 +45,9 @@ const features = [
   {
     name: "Targeted Networking & Interview Coaching",
     summary:
-      'Insider access to ServiceNow partners and customers and coaching.',
+      'Insider access to ServiceNow partners & customers along with interview-prep.',
     description:
-      "We, ServiceNow professionals oursevles, find & introduce you to key decision makers at ServiceNow partners and customers and then coach you on how to get referred and ace your interviews.",
+      "We, as ServiceNow professionals oursevles, find & introduce you to key decision makers at ServiceNow partner and customers and then coach you on how to get referred and ace your interviews.",
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (
