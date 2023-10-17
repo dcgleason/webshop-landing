@@ -218,7 +218,6 @@ export function SecondaryFeatures() {
         Services include:
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">
-
           </p>
         </div>
         <FeaturesMobile />
