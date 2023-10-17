@@ -137,8 +137,9 @@ export function Pricing() {
             features={[
               'All features of Base Tier',
                 '3-5 approved jobs applied for each week on your behalf',
-                'Networking on your behalf to land you interviews', 
-                'Marketing you to target companies of your choice',
+                'Live chat with your Reverse Recruiter during business hours',
+                'Network no your behalf and introduce you to key decision makers at target companies', 
+                'Coaching on how to get referrals, step-by-step',
             ]}
           />
           <Plan
@@ -148,8 +149,7 @@ export function Pricing() {
             href="https://buy.stripe.com/28oeX24Z3fT88Du146"
             features={[
               'All features of Intermediate Tier',
-              'Live chat with your Reverse Recruiter during business hours',
-              'Weekly strategy calls with your Reverse Recruiter (optional)',
+              'Weekly strategy calls with your Reverse Recruiter',
               'Interview prep with mock interviews and personalized feedback',
               'Negotiation support for salary and benefits'
               
