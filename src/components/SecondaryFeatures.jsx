@@ -45,9 +45,9 @@ const features = [
   {
     name: "Coaching & Interview Prep",
     summary:
-      'We coach you on how to get people to give you referrals and prepare you for interviews.',
+      'We coaching you to secure referrals and ace your interviews.',
     description:
-      "We find and introduce you with key decision makers at ServiciceNow Partners and Customers that fit your criteria and coach you on how to get your new contacts to give you referrals.",
+      "We find & introduce you with key decision makers at ServiceNow partner and customers, coach you on how to referrals, and ace your interviews.",
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (
