@@ -75,7 +75,7 @@ const features = [
     summary:
       "3-5 tailored applications sent in per week to get you the job.",
     description:
-    "Your dedicated Reverse Recruiter will apply to 3-5 handpicked jobs each week on your behalf, ensure all submissions are tailored to each individual role, and then help you ace your interviews.",
+    "We handpicked and applied to 3-5 jobs each week on your behalf, all submissions are tailored to each individual role, and then coach you on how to ace your interview.",
     image: screenshotContacts,
     icon: function ContactsIcon() {
       return (
