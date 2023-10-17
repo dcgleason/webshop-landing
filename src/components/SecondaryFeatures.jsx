@@ -75,7 +75,7 @@ const features = [
     summary:
       "3-5 tailored applications sent in per week to get you the job.",
     description:
-    "We handpicked and applied to 3-5 jobs each week on your behalf, all submissions are tailored to each individual role, and then coach you on how to ace your interview.",
+    "We handpick and apply to 3-5 jobs each week on your behalf (all submissions are tailored to each individual role) and then coach you on how to ace your interviews.",
     image: screenshotContacts,
     icon: function ContactsIcon() {
       return (
