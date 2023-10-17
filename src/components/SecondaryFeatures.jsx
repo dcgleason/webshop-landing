@@ -71,7 +71,7 @@ const features = [
     },
   },
   {
-    name: 'Apply to jobs for you',
+    name: 'Applications Done For You',
     summary:
       "To save you time, we apply to 3-5 handpicked jobs each week on your behalf.",
     description:
