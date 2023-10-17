@@ -43,11 +43,11 @@ const features = [
     },
   },
   {
-    name: "Coaching & Interview Prep",
+    name: "Targeted Networking & Interview Coaching",
     summary:
-      'Secure referrals and ace your interviews.',
+      'Insider access to ServiceNow partners and customers and coaching.',
     description:
-      "We find & introduce you with key decision makers at ServiceNow partners and customers and coach you on how to get referrals and ace your interviews.",
+      "We, ServiceNow professionals oursevles, find & introduce you to key decision makers at ServiceNow partners and customers and then coach you on how to get referred and ace your interviews.",
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (
