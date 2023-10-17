@@ -43,7 +43,7 @@ const features = [
     },
   },
   {
-    name: "Targeted Networking & Interview Coaching",
+    name: "Targeted Networking & Coaching",
     summary:
       'Insider access to ServiceNow partners & customers to get you connected.',
     description:
@@ -71,11 +71,11 @@ const features = [
     },
   },
   {
-    name: 'Job Applications Done For You',
+    name: 'Application submissions & Interview Prep',
     summary:
       "Tailored applications sent for 3-5 approved-by-you jobs per week to get you the job.",
     description:
-    "We apply to 3-5 handpicked jobs each week on your behalf, ensuring all submissions are tailored to each individual role.",
+    "We apply to 3-5 handpicked jobs each week on your behalf, ensure all submissions are tailored to each individual role, and then help you ace your interviews.",
     image: screenshotContacts,
     icon: function ContactsIcon() {
       return (
