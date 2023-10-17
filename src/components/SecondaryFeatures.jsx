@@ -71,7 +71,7 @@ const features = [
     },
   },
   {
-    name: 'Application Submissions & Interview Prep',
+    name: 'Application Submitted for You & Interview Prep',
     summary:
       "3-5 tailored applications sent in per week to get you the job.",
     description:
