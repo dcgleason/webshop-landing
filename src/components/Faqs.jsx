@@ -44,7 +44,7 @@ const faqs = [
   [
     {
       question: 'How do you handle networking on my behalf?',
-      answer: 'We utilize our extensive industry connections to proactively reach out and introduce you to potential employers and stakeholders, with your approval and direction.'
+      answer: 'We utilize our extensive industry connections to proactively reach out and introduce you to potential employers and stakeholders, and then act as a coach to help you land interviews via a referral.'
     },
     {
       question: 'Do you offer refunds?',
