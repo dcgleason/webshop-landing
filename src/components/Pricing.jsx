@@ -138,8 +138,8 @@ export function Pricing() {
               'All features of Base Tier',
                 '3-5 approved jobs applied for each week on your behalf',
                 'Live chat with your Reverse Recruiter during business hours',
-                'Network no your behalf and introduce you to key decision makers at target companies', 
-                'Coaching on how to get referrals, step-by-step',
+                'Network on your behalf and introduce you to key decision makers at target companies', 
+                'Step-by-step coaching on how to get referrals',
             ]}
           />
           <Plan
