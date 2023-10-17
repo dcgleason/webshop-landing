@@ -110,7 +110,7 @@ export function Pricing() {
             Plans
           </h2>
           <p className="mt-4 text-lg text-slate-400">
-           We offer three monthly payment plans. 
+           There are three subscriptions-based teirs. 
           </p>
         </div>
         <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
