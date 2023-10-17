@@ -47,7 +47,7 @@ const features = [
     summary:
       'Secure referrals and ace your interviews.',
     description:
-      "We find & introduce you with key decision makers at ServiceNow partner and customers and coach you on how to get referrals and ace your interviews.",
+      "We find & introduce you with key decision makers at ServiceNow partners and customers and coach you on how to get referrals and ace your interviews.",
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (
