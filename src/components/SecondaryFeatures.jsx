@@ -47,7 +47,7 @@ const features = [
     summary:
       'Insider access to ServiceNow partners & customers along with interview-prep.',
     description:
-      "Your Reverse Recruiter (also a ServiceNow professional) will find & introduce you to key decision makers at ServiceNow partners and customers and then coach you on how to get the job.",
+      "Your Reverse Recruiter (a ServiceNow professional) will find & introduce you to key decision makers at ServiceNow partners and customers and then coach you on how to get the job.",
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (
