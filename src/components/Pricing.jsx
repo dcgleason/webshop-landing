@@ -116,7 +116,7 @@ export function Pricing() {
         <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
           <Plan
             name="Base"
-            price="3% of first year's salary"
+            price="3% of initial salary"
             description="Payment plans available. "
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
@@ -131,7 +131,7 @@ export function Pricing() {
           <Plan
             featured
             name="Intermediate"
-            price="4% of first year's salary"
+            price="4% of initial salary"
             description="Payment plans available."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
@@ -143,7 +143,7 @@ export function Pricing() {
           />
           <Plan
             name="Premium"
-            price="$5% of first year's salary"
+            price="$5% of initial salary"
             description="Payment plans available."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
