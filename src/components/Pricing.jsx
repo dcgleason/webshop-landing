@@ -105,19 +105,19 @@ export function Pricing() {
           <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl">
             <span className="relative whitespace-nowrap">
               <SwirlyDoodle className="absolute left-0 top-1/2 h-[1em] w-full fill-blue-400" />
-              <span className="relative">Monthly</span>
+              <span className="relative">Payment</span>
             </span>{' '}
             Plans
           </h2>
           <p className="mt-4 text-lg text-slate-400">
-           There are three subscriptions-based teirs. 
+          You don&apos;t pay until you land the job. 
           </p>
         </div>
         <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
           <Plan
             name="Base"
-            price="$1500/month"
-            description="Pause or cancel anytime."
+            price="3% of your first year's salary"
+            description="Payment plans available."
             href="https://buy.stripe.com/6oEcOUgHL4aqbPG3cc"
             features={[
               '100% U.S.-based Reverse Recruiter (require that clients plan to work in an English-speaking country)',
@@ -131,8 +131,8 @@ export function Pricing() {
           <Plan
             featured
             name="Intermediate"
-            price="$2250/month"
-            description="Pause or cancel anytime."
+            price="4% of your first year's salary"
+            description="Payment plans available."
             href="https://buy.stripe.com/aEU4iocrv36m5ridQR"
             features={[
               'All features of Base Tier',
@@ -143,8 +143,8 @@ export function Pricing() {
           />
           <Plan
             name="Premium"
-            price="$3000/month"
-            description="Pause or cancel anytime."
+            price="$5% of your first year's salary"
+            description="Payment plans available."
             href="https://buy.stripe.com/28oeX24Z3fT88Du146"
             features={[
               'All features of Intermediate Tier',
