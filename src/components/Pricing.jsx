@@ -117,7 +117,7 @@ export function Pricing() {
           <Plan
             name="Base"
             price="3% of first year's salary"
-            description=""
+            description="Payment plans available. "
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
               '100% U.S.-based Reverse Recruiter (require that clients plan to work in an English-speaking country)',
