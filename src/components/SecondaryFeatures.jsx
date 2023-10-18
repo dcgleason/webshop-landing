@@ -11,7 +11,11 @@ import screenshotProfitLoss from '@/images/screenshots/profit-loss.png'
 const features = [
   {
     name: 'Resume & LinkedIn Optimization',
-    summary: 'Resume optimization & LinkedIn strategy to help you stand out.',
+    summary: (
+      <>
+        Resume optimization & LinkedIn strategy <span className="underline">to help you stand out</span>.
+      </>
+    ),
     description: "Your dedicated Reverse Recruiter will use proven strategies to help you improve your resume & LinkedIn present from the perspective of a hiring manager.",
     image: screenshotProfitLoss,
     icon: function ReportingIcon() {
@@ -44,8 +48,11 @@ const features = [
   },
   {
     name: "Targeted Networking & Coaching",
-    summary:
-      'Insider access to ServiceNow Partners to get you connected.',
+    summary: (
+      <>
+        Insider access to ServiceNow Partners <span className="underline">to get you connected</span>.
+      </>
+    ),
     description:
       "Your Reverse Recruiter (a ServiceNow professional) will find & introduce you to key decision makers at ServiceNow Partners companies and coach you on how to land interviews via referral.",
     image: screenshotInventory,
@@ -72,8 +79,11 @@ const features = [
   },
   {
     name: 'Application Submitted for You & Interview Prep',
-    summary:
-      "3-5 tailored applications sent in per week to get you the job.",
+    summary: (
+      <>
+        3-5 tailored applications sent in per week <span className="underline">to get you the job</span>.
+      </>
+    ),
     description:
     "We handpick and apply to 3-5 jobs each week on your behalf (all submissions are tailored to each individual role) and then coach you on how to ace your interviews.",
     image: screenshotContacts,
