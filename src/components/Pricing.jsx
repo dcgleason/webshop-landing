@@ -124,7 +124,7 @@ export function Pricing() {
               'Initial discovery call with your Reverse Recruiter',
               '3-5 approved jobs applied to each week on your behalf',
               'Resume tailored for each submitted job application',
-              'LinkedIn presence & resume optimization',
+              'LinkedIn consulting & resume optimization',
               'Email support from your Reverse Recruiter',
             ]}
           />
