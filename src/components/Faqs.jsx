@@ -11,7 +11,7 @@ const faqs = [
     {
       question: 'Why BeyondNow LLC?',
       answer:
-        "BeyondNow specializes in reverse recruiting services exclusively for the ServiceNow domain. We offer personalized career strategies, aiming to place you in roles that align with your goals and expertise. No long-term commitments are required; you can pause or cancel your subscription at any time."
+        "BeyondNow specializes in reverse recruiting services exclusively for the ServiceNow domain. We offer personalized career strategies, aiming to place you in roles that align with your goals and expertise. Our philosphy is that you don't pay until you land at your desired company."
     },
     {
       question: 'Who are the Reverse Recruiters?',
