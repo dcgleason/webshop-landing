@@ -107,7 +107,7 @@ export function Pricing() {
               <SwirlyDoodle className="absolute left-0 top-1/2 h-[1em] w-full fill-blue-400" />
               <span className="relative">Payment</span>
             </span>{' '}
-            
+            Options
           </h2>
           <p className="mt-4 text-lg text-slate-400">
           You don&apos;t pay until you land the job. 
