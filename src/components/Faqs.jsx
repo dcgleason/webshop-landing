@@ -20,7 +20,7 @@ const faqs = [
     },
     {
       question: 'What services do you offer?',
-      answer: 'We offer a range of services including job handpicking, resume optimization, LinkedIn profile enhancement, targeted networking, interview preparation, and more. Packages are designed to suit various needs and career stages.'
+      answer: 'We offer a range of services including job handpicking, resume optimization, LinkedIn strategy consulting, targeted networking, interview preparation, and more. Packages are designed to suit various needs and career stages.'
     },
     {
       question: 'How do I get in touch with my Reverse Recruiter?',
