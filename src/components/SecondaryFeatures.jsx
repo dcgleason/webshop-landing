@@ -54,7 +54,7 @@ const features = [
       </>
     ),
     description:
-      "Your Reverse Recruiter (a ServiceNow professional) will find & introduce you to key decision makers at ServiceNow Partners companies and coach you on how to land interviews with referrals.",
+      "Your Reverse Recruiter (a ServiceNow professional) will find & introduce you to key decision makers at ServiceNow Partners companies and coach you on how to land interviews via referrals.",
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (
