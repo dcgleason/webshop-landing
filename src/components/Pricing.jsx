@@ -116,9 +116,9 @@ export function Pricing() {
         <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
           <Plan
             name="Base"
-            price="3% of your first year's salary"
+            price="3% of salary year 1"
             description="Payment plans available."
-            href="https://buy.stripe.com/6oEcOUgHL4aqbPG3cc"
+            href="https://calendly.com/beyondnow-sn/30min"
             features={[
               '100% U.S.-based Reverse Recruiter (require that clients plan to work in an English-speaking country)',
               'Initial discovery call with your Reverse Recruiter',
@@ -131,9 +131,9 @@ export function Pricing() {
           <Plan
             featured
             name="Intermediate"
-            price="4% of your first year's salary"
+            price="4% of salary year 1"
             description="Payment plans available."
-            href="https://buy.stripe.com/aEU4iocrv36m5ridQR"
+            href="https://calendly.com/beyondnow-sn/30min"
             features={[
               'All features of Base Tier',
                 'Live chat with your Reverse Recruiter during business hours',
@@ -143,9 +143,9 @@ export function Pricing() {
           />
           <Plan
             name="Premium"
-            price="$5% of your first year's salary"
+            price="$5% of salary year 1"
             description="Payment plans available."
-            href="https://buy.stripe.com/28oeX24Z3fT88Du146"
+            href="https://calendly.com/beyondnow-sn/30min"
             features={[
               'All features of Intermediate Tier',
               'Weekly strategy calls with your Reverse Recruiter',
