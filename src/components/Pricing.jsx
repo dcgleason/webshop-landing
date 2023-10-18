@@ -143,7 +143,7 @@ export function Pricing() {
           />
           <Plan
             name="Premium"
-            price="$5% of initial salary"
+            price="5% of initial salary"
             description="Payment plans available."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
