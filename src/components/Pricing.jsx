@@ -130,7 +130,7 @@ export function Pricing() {
           />
           <Plan
             featured
-            name="Networking & Referrals"
+            name="Networking & Referral Coaching"
             price="$999/month"
             description="Pause or cancel anytime."
             href="https://buy.stripe.com/aEU6qw3UZ8qG6vm28c"
@@ -147,7 +147,7 @@ export function Pricing() {
             description="Pause or cancel anytime."
             href="https://buy.stripe.com/dR66qw0IN9uK8DuaEJ"
             features={[
-              "All features of 'Interview Prep & Negotiation Support' Tier",
+              "All features of 'Networking & Referral Coaching' Tier",
               'Live chat with your Reverse Recruiter during business hours',
               'Interview prep with mock interviews and personalized feedback',
               'Negotiation support for salary and benefits via mock negotiations and personalized feedback',
