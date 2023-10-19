@@ -115,10 +115,10 @@ export function Pricing() {
         </div>
         <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
           <Plan
-            name="Tailored Submissions & LinkedIn Support "
-            price="$999"
+            name="Applications done for you & Linkedin Strategy"
+            price="$499"
             description="Pause or cancel anytime. "
-            href="https://buy.stripe.com/28oeX24Z3fT88Du146"
+            href="https://buy.stripe.com/cN2dSY4Z3dL006YbIL"
             features={[
               '100% U.S.-based Reverse Recruiter (require that clients plan to work in an English-speaking country)',
               'Initial discovery call with your Reverse Recruiter',
@@ -130,12 +130,12 @@ export function Pricing() {
           />
           <Plan
             featured
-            name="Network & Referrals"
-            price="$1499"
+            name="Networking & Referrals"
+            price="$999"
             description="Pause or cancel anytime."
-            href="https://buy.stripe.com/aEU4iocrv36m5ridQR"
+            href="https://buy.stripe.com/aEU6qw3UZ8qG6vm28c"
             features={[
-              "All features of 'Applications done for you' Tier",
+              "All features of 'Applications done for you & LinkedIn Strategy' Tier",
                 'Live chat with your Reverse Recruiter during business hours',
                 'Networking on your behalf and introductions to key decision makers at target companies (when possible)', 
                 'Step-by-step coaching on how to get referrals',
@@ -143,14 +143,14 @@ export function Pricing() {
           />
           <Plan
             name="Interview Prep & Negotiation Support"
-            price="$1999"
+            price="$1499"
             description="Pause or cancel anytime."
-            href="https://buy.stripe.com/28oeX24Z3fT88Du146"
+            href="https://buy.stripe.com/dR66qw0IN9uK8DuaEJ"
             features={[
               "All features of 'Interview Prep & Negotiation Support' Tier",
               'Weekly strategy calls with your Reverse Recruiter',
               'Interview prep with mock interviews and personalized feedback',
-              'Negotiation support for salary and benefits'
+              'Negotiation support for salary and benefits via mock negotiations and personalized feedback',
               
                         ]}
           />
