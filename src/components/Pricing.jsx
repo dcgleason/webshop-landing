@@ -116,7 +116,7 @@ export function Pricing() {
         <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
           <Plan
             name="Applications done for you & Linkedin Strategy"
-            price="$499"
+            price="$499/month"
             description="Pause or cancel anytime. "
             href="https://buy.stripe.com/cN2dSY4Z3dL006YbIL"
             features={[
@@ -131,7 +131,7 @@ export function Pricing() {
           <Plan
             featured
             name="Networking & Referrals"
-            price="$999"
+            price="$999/month"
             description="Pause or cancel anytime."
             href="https://buy.stripe.com/aEU6qw3UZ8qG6vm28c"
             features={[
@@ -143,7 +143,7 @@ export function Pricing() {
           />
           <Plan
             name="Interview Prep & Negotiation Support"
-            price="$1499"
+            price="$1499/month"
             description="Pause or cancel anytime."
             href="https://buy.stripe.com/dR66qw0IN9uK8DuaEJ"
             features={[
