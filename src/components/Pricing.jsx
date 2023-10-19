@@ -115,29 +115,29 @@ export function Pricing() {
         </div>
         <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
           <Plan
-            name="Applications done for you"
+            name="Tailored Submissions & LinkedIn Support "
             price="$999"
             description="Pause or cancel anytime. "
             href="https://buy.stripe.com/28oeX24Z3fT88Du146"
             features={[
               '100% U.S.-based Reverse Recruiter (require that clients plan to work in an English-speaking country)',
               'Initial discovery call with your Reverse Recruiter',
-              '3-5 approved jobs applied to each week on your behalf',
+              '5 approved jobs applied to each week on your behalf',
               'Resume tailored for each submitted job application',
-              'LinkedIn consulting & resume optimization',
+              'Ongoing LinkedIn strategy support',
               'Email support from your Reverse Recruiter',
             ]}
           />
           <Plan
             featured
             name="Network & Referrals"
-            price="$1500"
+            price="$1499"
             description="Pause or cancel anytime."
             href="https://buy.stripe.com/aEU4iocrv36m5ridQR"
             features={[
               "All features of 'Applications done for you' Tier",
                 'Live chat with your Reverse Recruiter during business hours',
-                'Network on your behalf and introduce you to key decision makers at target companies', 
+                'Networking on your behalf and introductions to key decision makers at target companies (when possible)', 
                 'Step-by-step coaching on how to get referrals',
             ]}
           />
