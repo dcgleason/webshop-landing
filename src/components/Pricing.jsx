@@ -105,12 +105,12 @@ export function Pricing() {
           <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl">
             <span className="relative whitespace-nowrap">
               <SwirlyDoodle className="absolute left-0 top-1/2 h-[1em] w-full fill-blue-400" />
-              <span className="relative">Payment</span>
+              <span className="relative">Monthly</span>
             </span>{' '}
-            Options
+            Payment
           </h2>
           <p className="mt-4 text-lg text-slate-400">
-          You don&apos;t pay until you land the job. 
+            Pause or cancel anytime.
           </p>
         </div>
         <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
