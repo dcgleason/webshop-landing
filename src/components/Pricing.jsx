@@ -135,7 +135,7 @@ export function Pricing() {
             description="Pause or cancel anytime."
             href="https://buy.stripe.com/aEU6qw3UZ8qG6vm28c"
             features={[
-              "All features of 'Applications done for you & LinkedIn Strategy' Tier",
+              "All features of 'Application Submissions & LinkedIn' Tier",
                 'Weekly strategy calls with your Reverse Recruiter',
                 'Networking on your behalf and introductions to key decision makers at target companies (when possible)', 
                 'Step-by-step coaching on how to get referrals',
@@ -147,7 +147,7 @@ export function Pricing() {
             description="Pause or cancel anytime."
             href="https://buy.stripe.com/dR66qw0IN9uK8DuaEJ"
             features={[
-              "All features of 'Networking & Referral Coaching' Tier",
+              "All features of 'Networking & Referral' Tier",
               'Live chat with your Reverse Recruiter during business hours',
               'Interview prep with mock interviews and personalized feedback',
               'Negotiation support for salary and benefits via mock negotiations and personalized feedback',
