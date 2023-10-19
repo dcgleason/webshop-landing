@@ -122,7 +122,7 @@ export function Pricing() {
             features={[
               '100% U.S.-based Reverse Recruiter (require that clients plan to work in an English-speaking country)',
               'Initial discovery call with your Reverse Recruiter',
-              '5 approved jobs applied to each week on your behalf',
+              '10 approved jobs applied to each week on your behalf',
               'Resume tailored for each submitted job application',
               'Ongoing LinkedIn strategy support',
               'Email support from your Reverse Recruiter',
