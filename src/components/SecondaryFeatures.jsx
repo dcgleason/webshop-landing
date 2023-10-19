@@ -77,7 +77,7 @@ const features = [
     name: 'Application Submitted for You & Interview Prep',
     summary: (
       <>
-       10 tailored job apps submitted per week <span className="underline">to get you the job</span>.
+       10-12 tailored job apps submitted per week <span className="underline">to get you the job</span>.
       </>
     ),
     description:
