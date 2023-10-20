@@ -77,11 +77,11 @@ const features = [
     name: 'Application Submitted for You & Interview Prep',
     summary: (
       <>
-       10-12 tailored job apps submitted per week <span className="underline">to get you the job</span>.
+       5-7 tailored job apps submitted per week <span className="underline">to get you the job</span>.
       </>
     ),
     description:
-    "We handpick and apply to 3-5 jobs each week on your behalf (all submissions are tailored to each individual role) and then help you ace your interviews.",
+    "We handpick and apply to 5-7 jobs each week on your behalf (all submissions are tailored to each individual role) and then help you ace your interviews.",
     image: screenshotContacts,
     icon: function InventoryIcon() {
       return (
