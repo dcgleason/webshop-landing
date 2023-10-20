@@ -137,7 +137,7 @@ export function Pricing() {
             features={[
               "All features of 'Application Submissions & LinkedIn' Tier",
                 'Weekly strategy calls with your Reverse Recruiter',
-                'Networking on your behalf and introductions to key decision makers at target companies (when possible)', 
+                'Networking on your behalf and introductions to key decision makers at target companies', 
                 'Step-by-step coaching on how to get referrals',
             ]}
           />
