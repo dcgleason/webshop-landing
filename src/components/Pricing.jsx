@@ -130,7 +130,7 @@ export function Pricing() {
           />
           <Plan
             featured
-            name="Networking Coaching"
+            name="LinkedIn Networking Coaching"
             price="$399/month"
             description="Pause or cancel anytime."
             href="https://buy.stripe.com/aEU6qw3UZ8qG6vm28c"
@@ -148,7 +148,7 @@ export function Pricing() {
             description="Pause or cancel anytime."
             href="https://buy.stripe.com/dR66qw0IN9uK8DuaEJ"
             features={[
-              "All features of 'Networkinging Coaching' Tier",
+              "All features of 'LinkedIn Networkinging Coaching' Tier",
               'Live chat with your Reverse Recruiter during business hours',
               '10-12 approved jobs applied to each week on your behalf',
               'Interview prep with mock interviews and personalized feedback',
