@@ -118,7 +118,7 @@ export function Pricing() {
             name="Apps Submitted & Linkedin Strategy"
             price="$149/month"
             description="Pause or cancel anytime. "
-            href="https://buy.stripe.com/cN2dSY4Z3dL006YbIL"
+            href="https://buy.stripe.com/3cscOU4Z37mCf1S8wC"
             features={[
               '100% U.S.-based Reverse Recruiter (require that clients plan to work in an English-speaking country)',
               'Initial discovery call with your Reverse Recruiter',
@@ -133,7 +133,7 @@ export function Pricing() {
             name="LinkedIn Networking Coaching"
             price="$399/month"
             description="Pause or cancel anytime."
-            href="https://buy.stripe.com/aEU6qw3UZ8qG6vm28c"
+            href="https://buy.stripe.com/bIYg168bf6iy3jaeV1"
             features={[
               "All features of 'Apps Submitted & LinkedIn Strategy' Tier",
                 'Weekly strategy calls with your Reverse Recruiter',
