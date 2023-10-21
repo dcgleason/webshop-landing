@@ -30,7 +30,7 @@ const faqs = [
   [
     {
       question: "How many job applications do you apply to for my per week?",
-      answer: "BeyondNow's aim is to handpick and apply to 5-7 jobs per week on your behalf, ensuring all submissions are tailored to the individual role."
+      answer: "BeyondNow's aim is to handpick and apply to 3-12 jobs per week on your behalf (depending on your plan), ensuring all submissions are tailored to the individual role."
     },
     {
       question: 'Do you offer any add-on services?',
