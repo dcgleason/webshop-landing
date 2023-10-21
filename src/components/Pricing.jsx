@@ -138,7 +138,7 @@ export function Pricing() {
               "All features of 'Application & LinkedIn Strategy' Tier",
                 'Weekly strategy calls with your Reverse Recruiter',
                 '5-7 approved jobs applied to each week on your behalf',
-                'Coaching on how to find an build relationships with key decision makers at your target companies',
+                'Coaching on how to find & build relationships with key decision makers at your target companies',
                 'Step-by-step coaching on how to get referrals',
             ]}
           />
