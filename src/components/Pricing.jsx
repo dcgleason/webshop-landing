@@ -115,7 +115,7 @@ export function Pricing() {
         </div>
         <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
           <Plan
-            name="Application Submissions & Linkedin"
+            name="Application & Linkedin Strategy"
             price="$149/month"
             description="Pause or cancel anytime. "
             href="https://buy.stripe.com/cN2dSY4Z3dL006YbIL"
@@ -130,15 +130,15 @@ export function Pricing() {
           />
           <Plan
             featured
-            name="Networking & Referral"
-            price="$499/month"
+            name="Networking Coaching"
+            price="$399/month"
             description="Pause or cancel anytime."
             href="https://buy.stripe.com/aEU6qw3UZ8qG6vm28c"
             features={[
-              "All features of 'Application Submissions & LinkedIn' Tier",
+              "All features of 'Application & LinkedIn Strategy' Tier",
                 'Weekly strategy calls with your Reverse Recruiter',
                 '5-7 approved jobs applied to each week on your behalf',
-                'Networking on your behalf and introductions to key decision makers at target companies', 
+                'Coaching on how to find an build relationships with key decision makers at your target companies',
                 'Step-by-step coaching on how to get referrals',
             ]}
           />
@@ -148,8 +148,9 @@ export function Pricing() {
             description="Pause or cancel anytime."
             href="https://buy.stripe.com/dR66qw0IN9uK8DuaEJ"
             features={[
-              "All features of 'Networking & Referral' Tier",
+              "All features of 'Networkinging Coaching' Tier",
               'Live chat with your Reverse Recruiter during business hours',
+              '10-12 approved jobs applied to each week on your behalf',
               'Interview prep with mock interviews and personalized feedback',
               'Negotiation support for salary and benefits via mock negotiations and personalized feedback',
               
