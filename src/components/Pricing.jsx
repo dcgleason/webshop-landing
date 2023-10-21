@@ -115,7 +115,7 @@ export function Pricing() {
         </div>
         <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
           <Plan
-            name="Application & Linkedin Strategy"
+            name="Apps Submitted & Linkedin Strategy"
             price="$149/month"
             description="Pause or cancel anytime. "
             href="https://buy.stripe.com/cN2dSY4Z3dL006YbIL"
@@ -135,7 +135,7 @@ export function Pricing() {
             description="Pause or cancel anytime."
             href="https://buy.stripe.com/aEU6qw3UZ8qG6vm28c"
             features={[
-              "All features of 'Application & LinkedIn Strategy' Tier",
+              "All features of 'Apps Submitted & LinkedIn Strategy' Tier",
                 'Weekly strategy calls with your Reverse Recruiter',
                 '5-7 approved jobs applied to each week on your behalf',
                 'Coaching on how to find & build relationships with key decision makers at your target companies',
