@@ -81,7 +81,7 @@ const features = [
       </>
     ),
     description:
-    "We handpick and apply to 5-7 jobs each week on your behalf (all submissions are tailored to each individual role) and then help you ace your interviews.",
+    "We handpick and apply to jobs each week on your behalf (all submissions are tailored to each individual role) and then help you ace your interviews.",
     image: screenshotContacts,
     icon: function InventoryIcon() {
       return (
