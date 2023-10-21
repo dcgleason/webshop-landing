@@ -146,7 +146,7 @@ export function Pricing() {
             name="Interview Prep & Negotiation"
             price="$799/month"
             description="Pause or cancel anytime."
-            href="https://buy.stripe.com/dR66qw0IN9uK8DuaEJ"
+            href="https://buy.stripe.com/fZe16c4Z3ayO2f63ck"
             features={[
               "All features of 'LinkedIn Networkinging Coaching' Tier",
               'Live chat with your Reverse Recruiter during business hours',
