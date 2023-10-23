@@ -74,14 +74,14 @@ const features = [
   },
 
   {
-    name: 'Application Submitted for You & Interview Prep',
+    name: 'Technical support & Interview Prep',
     summary: (
       <>
-      Tailored job apps submitted per week <span className="underline">to get you the job</span>.
+      Technical help for your personal portfolio projects <span className="underline">to get you the job</span>.
       </>
     ),
     description:
-    "We handpick and apply to jobs each week on your behalf (all submissions are tailored to each individual role) and then help you ace your interviews.",
+    "We provide technical ServiceNow support to help you build projects in your Personal Develeloper Instances will 'Wow' employers and help you ace your interviews.",
     image: screenshotContacts,
     icon: function InventoryIcon() {
       return (
