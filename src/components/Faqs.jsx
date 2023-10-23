@@ -11,10 +11,10 @@ const faqs = [
     {
       question: 'Why BeyondNow LLC?',
       answer:
-        "BeyondNow specializes in reverse recruiting services exclusively for the ServiceNow domain. We offer personalized career strategies, aiming to place you in roles that align with your goals and expertise. Our philosphy is that you don't pay until you land at your desired company."
+        "BeyondNow specializes in 'job-finding coaching' exclusively for the ServiceNow domain. We offer personalized career strategies, aiming to place you in roles that align with your goals and expertise. Our philosphy is that you don't pay until you land at your desired company."
     },
     {
-      question: 'Who are the Reverse Recruiters?',
+      question: 'Who are the coaches?',
       answer:
         "You might be surprised to hear this, but BeyondNow LLC is a team of 1. Dan Gleason (https://www.linkedin.com/in/dcgleason/) is an experienced professional in the ServiceNow industry with a strong US-based, ServiceNow network."
     },
@@ -23,8 +23,8 @@ const faqs = [
       answer: 'We offer a range of services including job handpicking, resume optimization, LinkedIn strategy consulting, targeted networking, interview preparation, and more. Packages are designed to suit various needs and career stages.'
     },
     {
-      question: 'How do I get in touch with my Reverse Recruiter?',
-      answer: 'Upon subscribing to one of our plans, you will receive direct contact details for your dedicated Reverse Recruiter, including a cell phone number and email for easy communication.'
+      question: 'How do I get in touch with my coach?',
+      answer: 'Upon subscribing to one of our plans, you will receive direct contact details for your dedicated coach, including a cell phone number and email for easy communication.'
     }
   ],
   [
@@ -56,7 +56,7 @@ const faqs = [
     },
     {
       question: 'How do you prepare me for interviews?',
-      answer: 'As someone who has been on the other side of the interview table, your Reverse Recruiter will help you prepare for interviews by providing you with a list of potential questions and answers, tips and tricks to help you stand out, and personalized feedback on your performance.'
+      answer: 'As someone who has been on the other side of the interview table, your coach will help you prepare for interviews by providing you with a list of potential questions and answers, tips and tricks to help you stand out, and personalized feedback on your performance.'
     }
   ]
   ];

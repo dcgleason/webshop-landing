@@ -54,7 +54,7 @@ const features = [
       </>
     ),
     description:
-      "Your Reverse Recruiter (an experienced ServiceNow professional) will coach you how to find & network with ServiceNow professionals so that they give you referrals.",
+      "Your coach (an experienced ServiceNow professional) will teach you how to find & network with ServiceNow professionals so that they give you referrals.",
     image: screenshotInventory,
     icon: function ContactsIcon() {
       return (
