@@ -81,7 +81,7 @@ const features = [
       </>
     ),
     description:
-    "We provide technical ServiceNow support to help you build projects in your Personal Develeloper Instances will 'Wow' employers and help you ace your interviews.",
+    "We provide technical ServiceNow support to help you build projects in your Personal Develeloper Instance will 'Wow' employers and help you ace your interviews.",
     image: screenshotContacts,
     icon: function InventoryIcon() {
       return (

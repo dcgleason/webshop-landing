@@ -141,13 +141,14 @@ export function Pricing() {
             ]}
           />
           <Plan
-            name="Interview Prep & Negotiation"
+            name="Technical Support & Interview Prep"
             price="$499/month"
             description="Pause or cancel anytime."
             href="https://buy.stripe.com/fZe16c4Z3ayO2f63ck"
             features={[
               "All features of 'LinkedIn Networkinging Coaching' Tier",
               'Live chat with your Reverse Recruiter during business hours',
+              'Technical support for ServiceNow-related questions',
               'Interview prep with mock interviews and personalized feedback',
               'Negotiation support for salary and benefits via mock negotiations and personalized feedback',
               
