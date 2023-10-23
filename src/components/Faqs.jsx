@@ -11,20 +11,20 @@ const faqs = [
     {
       question: 'Why BeyondNow LLC?',
       answer:
-        "BeyondNow specializes in 'job-finding coaching' exclusively for the ServiceNow domain. We offer personalized career strategies, aiming to place you in roles that align with your goals and expertise. Our philosphy is that you don't pay until you land at your desired company."
+        "BeyondNow specializes in career consulting exclusively for the ServiceNow domain. We offer personalized career strategies, aiming to place you in roles that align with your goals and expertise. Our philosphy is that you don't pay until you land at your desired company."
     },
     {
-      question: 'Who are the coaches?',
+      question: 'Who are the Career Consultants?',
       answer:
         "You might be surprised to hear this, but BeyondNow LLC is a team of 1. Dan Gleason (https://www.linkedin.com/in/dcgleason/) is an experienced professional in the ServiceNow industry with a strong US-based, ServiceNow network."
     },
     {
       question: 'What services do you offer?',
-      answer: 'We offer a range of services including job handpicking, resume optimization, LinkedIn strategy consulting, targeted networking, interview preparation, and more. Packages are designed to suit various needs and career stages.'
+      answer: 'We offer a range of services including resume optimization, LinkedIn strategy consulting, targeted networking, interview preparation, and more. Packages are designed to suit various needs and career stages.'
     },
     {
-      question: 'How do I get in touch with my coach?',
-      answer: 'Upon subscribing to one of our plans, you will receive direct contact details for your dedicated coach, including a cell phone number and email for easy communication.'
+      question: 'How do I get in touch with my Career Consultant?',
+      answer: 'Upon subscribing to one of our plans, you will receive direct contact details for your dedicated consultant, including a cell phone number and email for easy communication.'
     }
   ],
   [
@@ -44,7 +44,7 @@ const faqs = [
   [
     {
       question: 'How do you handle networking on my behalf?',
-      answer: 'We utilize our extensive industry connections to proactively reach out and introduce you to potential employers and stakeholders, and then act as a coach to help you land interviews via a referral.'
+      answer: 'We utilize our extensive industry experience and coach you on how to reach out to potential employers and stakeholders, and then act as a coach to help you land interviews via a referral.'
     },
     {
       question: 'Do you offer refunds?',
@@ -56,7 +56,7 @@ const faqs = [
     },
     {
       question: 'How do you prepare me for interviews?',
-      answer: 'As someone who has been on the other side of the interview table, your coach will help you prepare for interviews by providing you with a list of potential questions and answers, tips and tricks to help you stand out, and personalized feedback on your performance.'
+      answer: 'As someone who has been on the other side of the interview table, your consultant will help you prepare for interviews by providing you with a list of potential questions and answers, tips and tricks to help you stand out, and personalized feedback on your performance.'
     }
   ]
   ];

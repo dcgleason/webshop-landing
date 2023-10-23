@@ -22,7 +22,7 @@ export default function Home() {
             name="description"
             content="BeyondNow LLC is a career coaching firm that helps you through your ServiceNow job search & career challenges by optimizing your resume, helping you improve you LinkedIn presence, coaching you through effective networking strategies that get you referrals, and providing you interview & negotiation prep."
           />
-          <meta name="keywords" content="IT Consulting, ServiceNow, Subscription, Reverse Recruiting, Reverse Recruiter, job search"/>
+          <meta name="keywords" content="IT Consulting, ServiceNow, Subscription, Career Consulting, Reverse Recruiter, job search"/>
       </Head>
       <Header />
 

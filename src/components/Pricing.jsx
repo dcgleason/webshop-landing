@@ -120,11 +120,11 @@ export function Pricing() {
             description="Pause or cancel anytime. "
             href="https://buy.stripe.com/3cscOU4Z37mCf1S8wC"
             features={[
-              '100% U.S.-based Reverse Recruiter (require that clients plan to work in an English-speaking country)',
-              'Initial discovery call with your Reverse Recruiter',
+              '100% U.S.-based consultants (require that clients plan to work in an English-speaking country)',
+              'Initial discovery call with your Career Consultant',
               'Ongoing tailored resume optimization for each submitted job application',
               'Ongoing LinkedIn strategy support',
-              'Email support from your Reverse Recruiter',
+              'Email support from your Career Consultant',
             ]}
           />
           <Plan
@@ -135,7 +135,7 @@ export function Pricing() {
             href="https://buy.stripe.com/bIYg168bf6iy3jaeV1"
             features={[
               "All features of 'Apps Submitted & LinkedIn Strategy' Tier",
-                'Weekly strategy calls with your Reverse Recruiter',
+                'Weekly strategy calls with your Career Consultant',
                 'Coaching on how to find & build relationships with key decision makers at your target companies',
                 'Step-by-step coaching on how to get referrals',
             ]}
@@ -147,7 +147,7 @@ export function Pricing() {
             href="https://buy.stripe.com/fZe16c4Z3ayO2f63ck"
             features={[
               "All features of 'LinkedIn Networkinging Coaching' Tier",
-              'Live chat with your Reverse Recruiter during business hours',
+              'Live chat with your Career Consultant during business hours',
               'Technical support for ServiceNow-related questions',
               'Interview prep with mock interviews and personalized feedback',
               'Negotiation support for salary and benefits via mock negotiations and personalized feedback',
