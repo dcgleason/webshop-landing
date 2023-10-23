@@ -74,7 +74,7 @@ const features = [
   },
 
   {
-    name: 'Technical support & Interview Prep',
+    name: 'Technical Support & Interview Prep',
     summary: (
       <>
       Technical help for your personal portfolio projects <span className="underline">to get you the job</span>.
