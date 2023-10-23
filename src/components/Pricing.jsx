@@ -116,14 +116,13 @@ export function Pricing() {
         <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
           <Plan
             name="Apps Submitted & Linkedin Strategy"
-            price="$149/month"
+            price="$49/month"
             description="Pause or cancel anytime. "
             href="https://buy.stripe.com/3cscOU4Z37mCf1S8wC"
             features={[
               '100% U.S.-based Reverse Recruiter (require that clients plan to work in an English-speaking country)',
               'Initial discovery call with your Reverse Recruiter',
-              '3-5 approved jobs applied to each week on your behalf',
-              'Resume tailored for each submitted job application',
+              'Ongoing tailored resume optimization for each submitted job application',
               'Ongoing LinkedIn strategy support',
               'Email support from your Reverse Recruiter',
             ]}
@@ -131,26 +130,24 @@ export function Pricing() {
           <Plan
             featured
             name="LinkedIn Networking Coaching"
-            price="$399/month"
+            price="$299/month"
             description="Pause or cancel anytime."
             href="https://buy.stripe.com/bIYg168bf6iy3jaeV1"
             features={[
               "All features of 'Apps Submitted & LinkedIn Strategy' Tier",
                 'Weekly strategy calls with your Reverse Recruiter',
-                '5-7 approved jobs applied to each week on your behalf',
                 'Coaching on how to find & build relationships with key decision makers at your target companies',
                 'Step-by-step coaching on how to get referrals',
             ]}
           />
           <Plan
             name="Interview Prep & Negotiation"
-            price="$799/month"
+            price="$499/month"
             description="Pause or cancel anytime."
             href="https://buy.stripe.com/fZe16c4Z3ayO2f63ck"
             features={[
               "All features of 'LinkedIn Networkinging Coaching' Tier",
               'Live chat with your Reverse Recruiter during business hours',
-              '10-12 approved jobs applied to each week on your behalf',
               'Interview prep with mock interviews and personalized feedback',
               'Negotiation support for salary and benefits via mock negotiations and personalized feedback',
               
