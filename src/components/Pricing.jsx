@@ -115,7 +115,7 @@ export function Pricing() {
         </div>
         <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
           <Plan
-            name="Apps Submitted & Linkedin Strategy"
+            name="Resume Optimization & Linkedin Strategy"
             price="$49/month"
             description="Pause or cancel anytime. "
             href="https://buy.stripe.com/3cscOU4Z37mCf1S8wC"
