@@ -151,7 +151,7 @@ export function Pricing() {
               "All features of 'LinkedIn Networkinging Coaching' Tier",
               'Live chat with your Career Consultant during business hours',
               'Interview prep with mock interviews and personalized feedback',
-              'Negotiation support for salary and benefits via mock negotiations and personalized feedback',
+              'Negotiation coaching to help you get the best offer possible',
               
                         ]}
           />
