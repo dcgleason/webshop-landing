@@ -134,7 +134,7 @@ export function Pricing() {
             description="Pause or cancel anytime."
             href="https://buy.stripe.com/bIYg168bf6iy3jaeV1"
             features={[
-              "All features of 'Apps Submitted & LinkedIn Strategy' Tier",
+              "All features of 'Resume Optimization & Linkedin Strategy' Tier",
                 'Weekly strategy calls with your Career Consultant',
                 'Coaching on how to find & build relationships with key decision makers at your target companies',
                 'Step-by-step coaching on how to get referrals',
