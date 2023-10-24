@@ -122,8 +122,8 @@ export function Pricing() {
             features={[
               '100% U.S.-based consultants (require that clients plan to work in an English-speaking country)',
               'Initial discovery call with your Career Consultant',
+              'LinkedIn Profile optimization',
               'Ongoing tailored resume optimization for each submitted job application',
-              'Ongoing LinkedIn strategy support',
               'Email support from your Career Consultant',
             ]}
           />
@@ -137,6 +137,7 @@ export function Pricing() {
               "All features of 'Resume Optimization & Linkedin Strategy' Tier",
                 'Weekly strategy calls with your Career Consultant',
                 'Technical support for ServiceNow-related questions',
+                'LinkedIn presence & networking strategy coaching',
                 'Coaching on how to find & build relationships with key decision makers at your target companies',
                 'Step-by-step coaching on how to get referrals',
             ]}
