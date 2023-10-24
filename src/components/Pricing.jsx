@@ -115,7 +115,7 @@ export function Pricing() {
         </div>
         <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
           <Plan
-            name="Resume Optimization & Linkedin Strategy"
+            name="Resume & LinkedIn Optimization"
             price="$49/month"
             description="Pause or cancel anytime. "
             href="https://buy.stripe.com/3cscOU4Z37mCf1S8wC"
@@ -134,7 +134,7 @@ export function Pricing() {
             description="Pause or cancel anytime."
             href="https://buy.stripe.com/bIYg168bf6iy3jaeV1"
             features={[
-              "All features of 'Resume Optimization & Linkedin Strategy' Tier",
+              "All features of 'Resume & LinkedIn Optimization' Tier",
                 'Weekly strategy calls with your Career Consultant',
                 'Technical support for ServiceNow-related questions',
                 'LinkedIn presence & networking strategy coaching',
@@ -143,7 +143,7 @@ export function Pricing() {
             ]}
           />
           <Plan
-            name="Technical Support & Interview Prep"
+            name="Negotiation & Interview Prep"
             price="$999/month"
             description="Pause or cancel anytime."
             href="https://buy.stripe.com/fZe16c4Z3ayO2f63ck"
