@@ -130,7 +130,7 @@ export function Pricing() {
           <Plan
             featured
             name="LinkedIn Networking Coaching"
-            price="$199/month"
+            price="$149/month"
             description="Pause or cancel anytime."
             href="https://buy.stripe.com/bIYg168bf6iy3jaeV1"
             features={[
