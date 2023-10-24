@@ -130,25 +130,25 @@ export function Pricing() {
           <Plan
             featured
             name="LinkedIn Networking Coaching"
-            price="$149/month"
+            price="$449/month"
             description="Pause or cancel anytime."
             href="https://buy.stripe.com/bIYg168bf6iy3jaeV1"
             features={[
               "All features of 'Resume Optimization & Linkedin Strategy' Tier",
                 'Weekly strategy calls with your Career Consultant',
+                'Technical support for ServiceNow-related questions',
                 'Coaching on how to find & build relationships with key decision makers at your target companies',
                 'Step-by-step coaching on how to get referrals',
             ]}
           />
           <Plan
             name="Technical Support & Interview Prep"
-            price="$299/month"
+            price="$999/month"
             description="Pause or cancel anytime."
             href="https://buy.stripe.com/fZe16c4Z3ayO2f63ck"
             features={[
               "All features of 'LinkedIn Networkinging Coaching' Tier",
               'Live chat with your Career Consultant during business hours',
-              'Technical support for ServiceNow-related questions',
               'Interview prep with mock interviews and personalized feedback',
               'Negotiation support for salary and benefits via mock negotiations and personalized feedback',
               
