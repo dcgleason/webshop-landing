@@ -113,46 +113,46 @@ export function Pricing() {
             Pause or cancel anytime.
           </p>
         </div>
-        <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
-          <Plan
-            name="Resume & LinkedIn Optimization"
+        <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-2 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
+          {/* <Plan
+            name="Lite ServiceNow Career Support"
             price="$49/month"
             description="Pause or cancel anytime. "
             href="https://buy.stripe.com/3cscOU4Z37mCf1S8wC"
             features={[
               '100% U.S.-based consultants (require that clients plan to work in an English-speaking country)',
               'Initial discovery call with your Career Consultant',
-              'LinkedIn Profile optimization',
+              'LinkedIn Profile optimization suggestion',
               'Ongoing tailored resume optimization for each submitted job application',
               'Email support from your Career Consultant',
             ]}
-          />
+          /> */}
           <Plan
             featured
-            name="LinkedIn Networking Coaching"
-            price="$449/month"
-            description="Pause or cancel anytime."
+            name="1-on-1 ServiceNow Career Coaching"
+            price="$250"
+            description="One-time call to answer your most pressing questions about your ServiceNow career search."
             href="https://buy.stripe.com/bIYg168bf6iy3jaeV1"
             features={[
-              "All features of 'Resume & LinkedIn Optimization' Tier",
-                'Weekly strategy calls with your Career Consultant',
-                'Technical support for ServiceNow-related questions',
+              "What you and your ServiceNow Career Coach can talk about during your 1:1 Coaching Call:",
+                'Overall discuss your job search strategy',
+                'Technical support for ServiceNow-related PDI project questions',
                 'LinkedIn presence & networking strategy coaching',
-                'Coaching on how to find & build relationships with key decision makers at your target companies',
-                'Step-by-step coaching on how to get referrals',
+                'How to find & build relationships with key decision makers at your target companies',
+                'Step-by-step guide on how to get referrals',
+                'Interview prep with mock interviews and personalized feedback',
+                'Negotiation coaching to help you get the best offers possible',
             ]}
           />
           <Plan
-            name="Negotiation & Interview Prep"
-            price="$999/month"
-            description="Pause or cancel anytime."
+            name="Premium Ongoing ServiceNow Career Coaching"
+            price="$399/month"
+            description="Pause or cancel anytime. For those who want to work with a ServiceNow Career Coach on an ongoing basis. "
             href="https://buy.stripe.com/fZe16c4Z3ayO2f63ck"
             features={[
               "All features of 'LinkedIn Networkinging Coaching' Tier",
-              'Live chat with your Career Consultant during business hours',
-              'Interview prep with mock interviews and personalized feedback',
-              'Negotiation coaching to help you get the best offers possible',
-              
+              'Weekly group accountability & coaching calls with your ServiceNow Career Consultant and other clients',
+              'Live chat with your Career Consultant during business hours for personalized support',
                         ]}
           />
         </div>
