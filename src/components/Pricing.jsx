@@ -145,13 +145,13 @@ export function Pricing() {
           />
           <Plan
             name="Premium Ongoing ServiceNow Career Coaching"
-            price="$399/month"
+            price="$799/month"
             description="Pause or cancel anytime. For those who want to work with a ServiceNow Career Coach on an ongoing basis. "
             href="https://buy.stripe.com/fZe16c4Z3ayO2f63ck"
             features={[
-              "All features of 'LinkedIn Networkinging Coaching' Tier",
-              'Weekly group accountability & coaching calls with your ServiceNow Career Consultant and other clients',
-              'Live chat with your Career Consultant during business hours for personalized support',
+              "All topics of '1-on-1 ServiceNow Career Coaching' covered",
+              'Bi-weekly 1:1 accountability & coaching calls with your ServiceNow Career Consultant and other clients',
+              'Live chat with your Career Consultant during business hours for urgeny support',
                         ]}
           />
         </div>
