@@ -21,22 +21,16 @@ const faqs = [
     },
     {
       question: 'What services do you offer?',
-      answer: 'We offer a range of services including resume optimization, LinkedIn strategy consulting, targeted networking, interview preparation, and more. Packages are designed to suit various needs and career stages.'
+      answer: 'We offer a range of services including resume optimization, LinkedIn strategy consulting, targeted networking, interview preparation, and more.'
     },
-    {
-      question: 'How do I get in touch with my Career Consultant?',
-      answer: 'Upon subscribing to one of our plans, you will receive direct contact details for your dedicated consultant, including a cell phone number and email for easy communication.'
-    }
+   
   ],
   [
     {
-      question: "How many job applications do you apply to for my per week?",
-      answer: "BeyondNow's aim is to handpick and apply to 3-12 jobs per week on your behalf (depending on your plan), ensuring all submissions are tailored to the individual role."
+      question: 'How do I get in touch with my Career Consultant?',
+      answer: 'Upon subscribing to one of our plans, you will receive direct contact details for your dedicated consultant, including a cell phone number and email for easy communication.'
     },
-    {
-      question: 'Do you offer any add-on services?',
-      answer: 'Yes, if you opt for the right teir, BeyondNow offers custom services like interview prep with mock interviews, networking with targeted companies, and more.'
-    },
+
     {
       question: 'How does the weekly strategy call work?',
       answer: 'The weekly strategy call is only available in the Premium teir. It gives us a chance to sync up, review progress, and adapt our strategy based on any changes or feedback.'
@@ -44,20 +38,12 @@ const faqs = [
   ],
   [
     {
-      question: 'How do you handle networking on my behalf?',
-      answer: 'We utilize our extensive industry experience and coach you on how to reach out to potential employers and stakeholders, and then act as a coach to help you land interviews via a referral.'
-    },
-    {
       question: 'Do you offer refunds?',
       answer: 'BeyondNow does do not offer refunds. If you are dissatisfied with our service, you can cancel your subscription at any time.'
     },
     {
       question: 'What modes of communication will you use?',
       answer: 'Communication happens via email, phone, and live chat during business hours. All correspondences are aimed to be responsive and efficient.'
-    },
-    {
-      question: 'How do you prepare me for interviews?',
-      answer: 'As someone who has been on the other side of the interview table, your consultant will help you prepare for interviews by providing you with a list of potential questions and answers, tips and tricks to help you stand out, and personalized feedback on your performance.'
     }
   ]
   ];
