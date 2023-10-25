@@ -34,7 +34,7 @@ export function Hero() {
      Stop looking and start finding! BeyondNow LLC is a U.S.-based career consulting firm that coaches you on how to effectively network to land your dream position in the ServiceNow space using referrals.  
       </p>
         <div className="mt-10 flex justify-center gap-x-6">
-        <Button href="#pricing">View plans</Button>
+        <Button href="#pricing">Boook a call</Button>
         {/* <Button
           href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           variant="outline"
