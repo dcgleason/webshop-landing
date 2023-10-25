@@ -131,10 +131,9 @@ export function Pricing() {
             featured
             name="1-on-1 ServiceNow Career Coaching"
             price="$250"
-            description="1-hour call to answer your most pressing questions about your ServiceNow career search. Provide solutions for: "
+            description="1-hour call. Provides ServiceNow job-search recommendatinons based effective, proven strategies. Specifically... "
             href="https://calendly.com/beyondnow-sn/beyondnow-private-coaching"
             features={[
-                'Your overall job search strategy',
                 'Technical support for ServiceNow-related PDI project questions',
                 'LinkedIn presence & networking strategy coaching',
                 'How to find & build relationships with key decision makers at your target companies',
