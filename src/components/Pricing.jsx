@@ -131,10 +131,9 @@ export function Pricing() {
             featured
             name="1-on-1 ServiceNow Career Coaching"
             price="$250"
-            description="One-time call to answer your most pressing questions about your ServiceNow career search."
+            description="One-time call to answer your most pressing questions about your ServiceNow career search. Can talk about the following: "
             href="https://buy.stripe.com/bIYg168bf6iy3jaeV1"
             features={[
-              "What you and your ServiceNow Career Coach can talk about during your 1:1 Coaching Call:",
                 'Overall discuss your job search strategy',
                 'Technical support for ServiceNow-related PDI project questions',
                 'LinkedIn presence & networking strategy coaching',
