@@ -105,12 +105,12 @@ export function Pricing() {
           <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl">
             <span className="relative whitespace-nowrap">
               <SwirlyDoodle className="absolute left-0 top-1/2 h-[1em] w-full fill-blue-400" />
-              <span className="relative">Coaching</span>
+              <span className="relative">Options</span>
             </span>{' '}
-            Options
+            
           </h2>
           <p className="mt-4 text-lg text-slate-400">
-            To book a call, or a recurring call, with Dan please click on the button below.
+            Book either a one-time call, or a recurring coaching call, below.
           </p>
         </div>
         <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-2 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
