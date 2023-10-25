@@ -134,7 +134,7 @@ export function Pricing() {
             description="1-hour call to answer your most pressing questions about your ServiceNow career search. Can talk about the following: "
             href="https://calendly.com/beyondnow-sn/beyondnow-private-coaching"
             features={[
-                'Overall discuss your job search strategy',
+                'Your overall job search strategy',
                 'Technical support for ServiceNow-related PDI project questions',
                 'LinkedIn presence & networking strategy coaching',
                 'How to find & build relationships with key decision makers at your target companies',
