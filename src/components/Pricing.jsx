@@ -146,7 +146,7 @@ export function Pricing() {
           <Plan
             name="Premium Ongoing ServiceNow Career Coaching"
             price="$799/month"
-            description="Pause or cancel anytime. For those who want to work with a ServiceNow Career Coach on an ongoing basis. "
+            description="PFor those who want to work with a ServiceNow Career Coach on an ongoing basis. ause or cancel anytime. "
             href="https://buy.stripe.com/fZe16c4Z3ayO2f63ck"
             features={[
               "All topics of '1-on-1 ServiceNow Career Coaching' covered",
