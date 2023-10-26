@@ -6,47 +6,42 @@ import { useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faChevronDown, faChevronUp } from '@fortawesome/free-solid-svg-icons';
 
-
 const faqs = [
   [
     {
-      question: 'Why BeyondNow LLC?',
+      question: 'Why Dan Gleason?',
       answer:
-        "BeyondNow specializes in career consulting exclusively for the ServiceNow domain. We offer personalized career strategies, aiming to place you in roles that align with your goals and expertise. Our philosphy is that you don't pay until you land at your desired company."
+        "Dan is a seasoned ServiceNow professinoal with 5 years of exerpience in the ServiceNow industry as a developer. Dan specializes in career consulting exclusively for the ServiceNow domain. Offering personalized career strategies, his aim is to place you in roles that align with your goals and expertise. LinkedIn: https://www.linkedin.com/in/dcgleason/"
     },
+
     {
-      question: 'Who are the Career Consultants?',
-      answer:
-        "You might be surprised to hear this, but BeyondNow LLC is a team of 1. Dan Gleason (https://www.linkedin.com/in/dcgleason/) is an experienced professional in the ServiceNow industry with a strong US-based, ServiceNow network."
-    },
-    {
-      question: 'What services do you offer?',
-      answer: 'We offer a range of services including resume optimization, LinkedIn strategy consulting, targeted networking, interview preparation, and more.'
+      question: 'What can Dan help you with?',
+      answer: 'A range of services including resume optimization, LinkedIn strategy consulting, targeted networking, interview preparation, and more are offered.'
     },
    
   ],
   [
     {
-      question: 'How do I get in touch with my Career Consultant?',
-      answer: 'Upon subscribing to one of our plans, you will receive direct contact details for your dedicated consultant, including a cell phone number and email for easy communication.'
+      question: 'How do I get in touch with Dan?',
+      answer: 'Upon subscribing to one of the plans, you will receive direct contact details for Dan, including a cell phone number and email for easy communication.'
     },
 
     {
       question: 'How does the weekly strategy call work?',
-      answer: 'The weekly strategy call is only available in the Premium teir. It gives us a chance to sync up, review progress, and adapt our strategy based on any changes or feedback.'
+      answer: 'The weekly strategy call, available only in the Premium tier, allows for a sync up to review progress, and adapt strategies based on any changes or feedback.'
     }
   ],
   [
     {
       question: 'Do you offer refunds?',
-      answer: 'BeyondNow does do not offer refunds. If you are dissatisfied with our service, you can cancel your subscription at any time.'
+      answer: 'Refunds are not offered. However, if dissatisfied, you can cancel your subscription at any time.'
     },
     {
       question: 'What modes of communication will you use?',
-      answer: 'Communication happens via email, phone, and live chat during business hours. All correspondences are aimed to be responsive and efficient.'
+      answer: 'Communication is facilitated via email, phone, and live chat during business hours, with all correspondences aimed to be responsive and efficient.'
     }
   ]
-  ];
+];
 
 
 export function Faqs() {
