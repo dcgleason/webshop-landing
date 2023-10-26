@@ -31,7 +31,7 @@ export function Hero() {
        
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-     Dan Gleason is a U.S.-based ServiceNow career consulter & professional that teaches you how to effectively network to land your dream position in the ServiceNow space using referrals.  
+     Dan Gleason is a U.S.-based ServiceNow consultant & professional that teaches you how to effectively network to land your dream position in the ServiceNow space using referrals.  
       </p>
         <div className="mt-10 flex justify-center gap-x-6">
         <Button href="#pricing">Book a call</Button>
