@@ -27,7 +27,7 @@ export function CallToAction() {
             - past mentee
           </p>
           <Button href="/#pricing" color="white" className="mt-10">
-            Get started
+            Book call
           </Button>
         </div>
       </Container>
