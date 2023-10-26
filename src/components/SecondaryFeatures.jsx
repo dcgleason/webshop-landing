@@ -16,7 +16,7 @@ const features = [
         Resume optimization & LinkedIn strategy <span className="underline">to help you stand out</span>.
       </>
     ),
-    description: "Will use proven strategies to help you improve your resume & LinkedIn presence from the perspective of a hiring manager.",
+    description: "Uses providen strategies to help you improve your resume & LinkedIn presence from the perspective of a hiring manager.",
     image: screenshotProfitLoss,
     icon: function ReportingIcon() {
       let id = useId()
@@ -54,7 +54,7 @@ const features = [
       </>
     ),
     description:
-      "Will teach you how to find & network with ServiceNow professionals so that they give you referrals.",
+      "Teaches you how to find & network with ServiceNow professionals so that they give you referrals.",
     image: screenshotInventory,
     icon: function ContactsIcon() {
       return (
@@ -81,7 +81,7 @@ const features = [
       </>
     ),
     description:
-    "Will provide technical ServiceNow support to help you build projects in your Personal Develeloper Instance will 'Wow' employers and help you ace your interviews.",
+    "Provides technical ServiceNow support to help you build projects in your Personal Develeloper Instance will 'Wow' employers and help you ace your interviews.",
     image: screenshotContacts,
     icon: function InventoryIcon() {
       return (
