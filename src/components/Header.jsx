@@ -108,11 +108,11 @@ export function Header() {
             <div className="hidden md:block">
           
             </div>
-            <Button href="#pricing" style={{ backgroundColor: '#235373' }}>
+            {/* <Button href="#pricing" style={{ backgroundColor: '#235373' }}>
               <span>
                   Get job-search help <span className="hidden lg:inline">today</span>
               </span>
-          </Button>
+          </Button> */}
 
             <div className="-mr-1 md:hidden">
               <MobileNavigation />
