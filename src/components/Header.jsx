@@ -110,7 +110,7 @@ export function Header() {
             </div>
             <Button href="#pricing" style={{ backgroundColor: '#235373' }}>
               <span>
-                  Sign-up <span className="hidden lg:inline">today</span>
+                  Get job-search help <span className="hidden lg:inline">today</span>
               </span>
           </Button>
 
