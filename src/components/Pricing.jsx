@@ -144,12 +144,12 @@ export function Pricing() {
             ]}
           />
           <Plan
-            name="Ongoing Group ServiceNow Career Consulting"
+            name="Reverse Recruitment + Group Q&A Career Consulting"
             price="$799/month"
             description="For those who want to work with a ServiceNow Career Coach on an ongoing basis. Pause or cancel anytime. "
             href="https://buy.stripe.com/fZe16c4Z3ayO2f63ck"
             features={[
-              "All topics of '1-on-1 ServiceNow Career Coaching' covered",
+              "All topics of '1-on-1 ServiceNow Career Coaching' covered except in a group setting",
               '7-10 job applications that fit your criteria submitted on your behalf each week',
               'Week-end report of all jobs applied to',
                         ]}
