@@ -149,7 +149,7 @@ export function Pricing() {
             description="For those who want a 'Done-for-you' job submission service and a ServiceNow Career Coach on an ongoing basis. Pause or cancel anytime. "
             href="#"
             features={[
-              "All topics of '1-on-1 ServiceNow Career Coaching' covered except in a group setting",
+              "All topics of '1-on-1 ServiceNow Career Coaching' covered except in a group setting, weekly",
               '7-10 job applications that fit your criteria submitted on your behalf each week',
               'Week-end report of all jobs applied to',
                         ]}
