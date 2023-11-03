@@ -31,7 +31,7 @@ export function Hero() {
        
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-     BeyondNow is a U.S.-based reverse recruitment firm that applies to jobs in the ServiceNow ecosystem for you and supports your networking efforts along the way to help you find your dream job.   
+     BeyondNow is a U.S.-based reverse recruitment firm that applies to jobs in the ServiceNow ecosystem for you and supports your networking efforts to help you find your dream job.   
       </p>
         <div className="mt-10 flex justify-center gap-x-6">
         <Button href="#pricing">Book a call</Button>
