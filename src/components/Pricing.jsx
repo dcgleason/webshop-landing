@@ -110,7 +110,7 @@ export function Pricing() {
             a call
           </h2>
           <p className="mt-4 text-lg text-slate-400">
-            Book either a one-time call, or a recurring coaching call, below.
+            Book either a one-time call, or a recurring reverse recruitment service, below.
           </p>
         </div>
         <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-2 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
