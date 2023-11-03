@@ -131,7 +131,7 @@ export function Pricing() {
             featured
             name="1-on-1 ServiceNow Career Consulting Call"
             price="$99"
-            description="1-hour call. ServiceNow job-search recommendatinons based effective, proven strategies. "
+            description="1-hour call. Personalized ServiceNow job search & networking recommendations. "
             href="#"
             features={[
                 'Technical support for ServiceNow-related PDI project questions',
