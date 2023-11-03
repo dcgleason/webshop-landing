@@ -150,8 +150,8 @@ export function Pricing() {
             href="https://buy.stripe.com/fZe16c4Z3ayO2f63ck"
             features={[
               "All topics of '1-on-1 ServiceNow Career Coaching' covered",
-              'Bi-weekly group accountability & coaching calls with your ServiceNow Career Consultant and other clients',
-              'Live chat with your Career Consultant during business hours for time-sensitive support',
+              '7-10 job applications that fit your criteria submitted on your behalf each week',
+              'Week-end report of all jobs applied to',
                         ]}
           />
         </div>
