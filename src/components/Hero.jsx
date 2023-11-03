@@ -34,7 +34,7 @@ export function Hero() {
      BeyondNow is a U.S.-based reverse recruitment firm that applies to jobs in the ServiceNow ecosystem for you and supports your networking efforts to help you find your dream job.   
       </p>
         <div className="mt-10 flex justify-center gap-x-6">
-        <Button href="#pricing">Book a call</Button>
+        <Button href="#pricing">Sign-up Today</Button>
         {/* <Button
           href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           variant="outline"
