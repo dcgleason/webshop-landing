@@ -130,7 +130,7 @@ export function Pricing() {
           <Plan
             featured
             name="1-on-1 ServiceNow Career Consulting Call"
-            price="$99"
+            price="$149"
             description="1-hour call. Personalized ServiceNow job search & networking recommendations. "
             href="#"
             features={[
