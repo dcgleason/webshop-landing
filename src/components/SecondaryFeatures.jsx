@@ -81,7 +81,7 @@ const features = [
       </>
     ),
     description:
-    "Technical ServiceNow support to help you build projects in your Personal Develeloper Instance will 'Wow' employers and help you ace your interviews and job submitted on your behalf to get you the job.",
+    "Technical ServiceNow support to help for your Personal Develeloper Instance projects and jobs submitted on your behalf to get you the position.",
     image: screenshotContacts,
     icon: function InventoryIcon() {
       return (
