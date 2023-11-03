@@ -27,7 +27,7 @@ export function CallToAction() {
             - Harry Wilson, ServiceNow Developer
           </p>
           <Button href="/#pricing" color="white" className="mt-10">
-            Book call
+            Sign-up today
           </Button>
         </div>
       </Container>
