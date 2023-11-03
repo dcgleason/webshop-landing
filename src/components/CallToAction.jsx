@@ -24,7 +24,7 @@ export function CallToAction() {
           &quot;Dan always goes the extra mile&quot;
                     </h2>
           <p className="mt-4 text-lg tracking-tight text-white">
-            - Co-worker
+            - Harry Wilson, ServiceNow Developer
           </p>
           <Button href="/#pricing" color="white" className="mt-10">
             Book call
