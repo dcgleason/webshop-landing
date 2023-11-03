@@ -145,7 +145,7 @@ export function Pricing() {
           />
           <Plan
             name="Reverse Recruitment + Group Q&A Career Consulting"
-            price="$449/month"
+            price="$349/month"
             description="For those who want a 'Done-for-you' job submission service and a ServiceNow Career Coach on an ongoing basis. Pause or cancel anytime. "
             href="https://buy.stripe.com/cN2dSY4Z3dL006YbIL"
             features={[
