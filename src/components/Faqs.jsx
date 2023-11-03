@@ -9,36 +9,33 @@ import { faChevronDown, faChevronUp } from '@fortawesome/free-solid-svg-icons';
 const faqs = [
   [
     {
-      question: 'Why Dan Gleason?',
+      question: 'Why choose BeyondNow for ServiceNow career growth?',
       answer:
-        "Dan is a seasoned ServiceNow professinoal with 5 years of exerpience in the ServiceNow industry as a developer. Dan specializes in career consulting exclusively for the ServiceNow domain. Offering personalized career strategies, his aim is to place you in roles that align with your goals and expertise. LinkedIn: https://www.linkedin.com/in/dcgleason/"
+        "BeyondNow is spearheaded by Dan Gleason, a ServiceNow expert with over 5 years of experience. Dan's career consulting and reverse recruiting is tailored to the ServiceNow ecosystem, providing personalized strategies to position you in roles that best fit your career ambitions. Dan's expertise extends to group calls where collective insights and strategies are shared. LinkedIn: https://www.linkedin.com/in/dcgleason/"
     },
-
     {
-      question: 'What can Dan help you with?',
-      answer: 'A range of services including resume optimization, LinkedIn strategy consulting, targeted networking, interview preparation, and more are offered.'
+      question: 'What services does BeyondNow provide?',
+      answer: 'BeyondNow offers comprehensive career services including resume optimization, LinkedIn strategy, networking tactics, interview prep, group strategy calls for collaborative learning and support, and reverse recruitment.'
     },
-   
   ],
   [
     {
-      question: 'How do I get in touch with Dan?',
-      answer: 'Upon subscribing to one of the plans, you will receive direct contact details for Dan, including a cell phone number and email for easy communication.'
+      question: 'How can I contact Dan at BeyondNow?',
+      answer: "After subscribing, you'll get direct access to Dan via email and will be able to ask questions and receive tailored advice on your weekly group strategy calls."
     },
-
     {
-      question: 'How does the weekly strategy call work?',
-      answer: 'The weekly strategy call, available only in the Premium tier, allows for a sync up to review progress, and adapt strategies based on any changes or feedback.'
+      question: 'What is the structure of the weekly group strategy call?',
+      answer: 'The group strategy call is a premium feature where participants engage in collective brainstorming, share progress, and receive tailored advice to refine their career strategies.'
     }
   ],
   [
     {
-      question: 'Do you offer refunds?',
-      answer: 'Refunds are not offered. However, if dissatisfied, you can cancel your subscription at any time.'
+      question: 'Does BeyondNow offer refunds?',
+      answer: 'BeyondNow values your satisfaction; while refunds are not available, you have the flexibility to cancel your subscription anytime should your needs change.'
     },
     {
-      question: 'What modes of communication will you use?',
-      answer: 'Communication is facilitated via email, phone, and live chat during business hours, with all correspondences aimed to be responsive and efficient.'
+      question: 'Which communication methods does BeyondNow use?',
+      answer: 'BeyondNow ensures seamless interaction through email and live group calls, striving for prompt and effective communication during business hours.'
     }
   ]
 ];
