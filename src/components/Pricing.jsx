@@ -130,7 +130,7 @@ export function Pricing() {
           <Plan
             featured
             name="1-on-1 ServiceNow Career Consulting Call"
-            price="$250"
+            price="$150"
             description="1-hour call. ServiceNow job-search recommendatinons based effective, proven strategies. "
             href="https://calendly.com/beyondnow-sn/beyondnow-private-coaching"
             features={[
@@ -145,7 +145,7 @@ export function Pricing() {
           />
           <Plan
             name="Reverse Recruitment + Group Q&A Career Consulting"
-            price="$799/month"
+            price="$399/month"
             description="For those who want a 'Done-for-you' job submission service and a ServiceNow Career Coach on an ongoing basis. Pause or cancel anytime. "
             href="https://buy.stripe.com/fZe16c4Z3ayO2f63ck"
             features={[
