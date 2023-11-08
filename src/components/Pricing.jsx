@@ -145,9 +145,9 @@ export function Pricing() {
             ]}
           />
           <Plan
-            name="Reverse Recruitment + Group Q&A Career Consulting"
+            name="Reverse Recruitment + Group Q&A Career Consulting (Limited availability)"
             price="$799"
-            description="Ongoing job search assitance. Pay only when you get a job ($75 non-refundable, initial deposit). Limited availability."
+            description="$75 non-refundable, initial deposit. Ongoing job search assitance. Pay when you get a job."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
               "All topics of '1-on-1 ServiceNow Career Coaching' covered except in a group setting, weekly",
