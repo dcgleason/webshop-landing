@@ -105,9 +105,9 @@ export function Pricing() {
           <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl">
             <span className="relative whitespace-nowrap">
               <SwirlyDoodle className="absolute left-0 top-1/2 h-[1em] w-full fill-blue-400" />
-              <span className="relative">Book</span>
+              <span className="relative">Take a meaningful step</span>
             </span>{' '}
-            a call
+            towards your dream job.
           </h2>
           <p className="mt-4 text-lg text-slate-400">
             Book either a one-time call, or apply to a be apart of my recurring reverse recruitment cohort below.
