@@ -47,10 +47,10 @@ const features = [
     },
   },
   {
-    name: "Targeted Networking & Coaching",
+    name: "Personalized Networking Tips & Coaching",
     summary: (
       <>
-        Insider access to ServiceNow Partners <span className="underline">to get you connected</span>.
+        Networking strategy to help you <span className="underline">to get you connected</span>.
       </>
     ),
     description:
@@ -74,10 +74,10 @@ const features = [
   },
 
   {
-    name: 'Personal PDI Project Support & Jobs Submitted For You',
+    name: 'Technical Support & Jobs Submitted For You',
     summary: (
       <>
-      Jobs submitted on your behalf and technical help on your personal PDI projects <span className="underline">get you the job</span>.
+      Jobs submitted on your behalf and technical help on your PDI projects <span className="underline">get you the job</span>.
       </>
     ),
     description:
