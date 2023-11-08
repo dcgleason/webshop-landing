@@ -111,7 +111,7 @@ export function Pricing() {
             in the ServiceNow ecosystem.
           </h2>
           <p className="mt-4 text-lg text-slate-400">
-            Book either a one-time call, or apply to a be apart of my recurring reverse recruitment cohort below.
+            Book either a one-time call, or apply to a be a part of my recurring reverse recruitment cohort below.
           </p>
         </div>
         <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-2 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
