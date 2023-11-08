@@ -110,7 +110,7 @@ export function Pricing() {
             a call
           </h2>
           <p className="mt-4 text-lg text-slate-400">
-            Book either a one-time call, or a recurring reverse recruitment service, below.
+            Book either a one-time call, or apply to a be apart of my recurring reverse recruitment cohort below.
           </p>
         </div>
         <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-2 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
@@ -147,7 +147,7 @@ export function Pricing() {
             name="Reverse Recruitment + Group Q&A Career Consulting"
             price="$799"
             description="Ongoing job search assitance. Pay only when you get a job ($75 non-refundable, initial deposit). Limited availability."
-            href="https://buy.stripe.com/cN2dSY4Z3dL006YbIL"
+            href="https://calendly.com/beyondnow-sn/30min"
             features={[
               "All topics of '1-on-1 ServiceNow Career Coaching' covered except in a group setting, weekly",
               '7-10 job applications that fit your criteria submitted on your behalf each week',
