@@ -87,7 +87,7 @@ function Plan({ name, price, description, href, features, featured = false }) {
         className="mt-8"
         aria-label={`Get started with the ${name} plan for ${price}`}
       >
-        Apply now
+        Get started
       </Button>
     </section>
   )
@@ -105,9 +105,9 @@ export function Pricing() {
           <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl">
             <span className="relative whitespace-nowrap">
               <SwirlyDoodle className="absolute left-0 top-1/2 h-[1em] w-full fill-blue-400" />
-              <span className="relative">Take a meaningful step</span>
+              Let&apos;s get you your <span className="relative">dream job</span>
             </span>{' '}
-            towards your dream job.
+            in the ServiceNow ecosystem.
           </h2>
           <p className="mt-4 text-lg text-slate-400">
             Book either a one-time call, or apply to a be apart of my recurring reverse recruitment cohort below.
