@@ -103,9 +103,10 @@ export function Pricing() {
       <Container>
         <div className="md:text-center">
           <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl">
+          Let&apos;s get you your{' '}
             <span className="relative whitespace-nowrap">
               <SwirlyDoodle className="absolute left-0 top-1/2 h-[1em] w-full fill-blue-400" />
-              Let&apos;s get you your <span className="relative">dream job</span>
+             <span className="relative">dream job</span>
             </span>{' '}
             in the ServiceNow ecosystem.
           </h2>
