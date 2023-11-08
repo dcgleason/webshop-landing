@@ -77,7 +77,7 @@ const features = [
     name: 'Technical Support & Jobs Submitted For You',
     summary: (
       <>
-      Jobs submitted on your behalf and technical help on your PDI projects <span className="underline">get you the job</span>.
+      Jobs submitted and technical help <span className="underline">get you the job</span>.
       </>
     ),
     description:
