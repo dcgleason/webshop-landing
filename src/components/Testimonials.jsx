@@ -35,7 +35,7 @@ const testimonials = [
   
     {
       content:
-      "[Dan] gave me real truths to the career that I&apos;m grateful for that. [Dan&apos;s] a awesome guy...and really gave me the confidence (throughout the process)" ,
+      "[Dan] gave me real truths to the career that I&apos;m grateful for that. [Dan&apos;s] an awesome guy...and really gave me the confidence I need (throughout the process)" ,
        author: {
         name: 'Adam Houmiel',
         role: 'Junior ServiceNow Developer',
