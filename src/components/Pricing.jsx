@@ -150,9 +150,8 @@ export function Pricing() {
             description="$75 non-refundable, initial deposit. Ongoing job search assitance. Pay when you get a job."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
-              "All topics of '1-on-1 ServiceNow Career Consulting Call' covered except in a group setting, weekly",
-              '7-10 job applications that fit your criteria submitted on your behalf each week',
-              'Week-end report of all jobs applied to',
+              "All topics of '1-on-1 ServiceNow Career Consulting Call' covered weekly",
+              'Weekly group Q&A calls with other cohort members',
                         ]}
           />
         </div>
