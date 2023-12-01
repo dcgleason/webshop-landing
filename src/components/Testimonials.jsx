@@ -14,7 +14,7 @@ const testimonials = [
        "Danny is GREAT to work with and an awesome collaborator. He and I completed this integration of two systems. At one point after he left the project, a comment was made ‘Where is Dan? Bring him back because we actually get work done. Given the opportunity, I would flip tables over to work with him again. He's that good.",
       author: {
         name: 'Addam Driver',
-        role: 'Lead Solutions Architect @ U.S. Department of Health & Human Services',
+        role: 'Lead Solutions Architect',
         image: avatarImage4,
       },
     },
@@ -26,7 +26,7 @@ const testimonials = [
         "Dan always goes the extra mile to get in depth information on a topic when you have a question. He never gives you just the bare minimum information and it is this level of detail and curiosity that drives his continued improvement. I thoroughly enjoyed working with Dan in the short time we had together.",
       author: {
         name: 'Harry Wilson',
-        role: 'Application Developer @ IBM',
+        role: 'ServiceNow Application Developer',
         image: avatarImage2,
       },
     },
@@ -35,10 +35,10 @@ const testimonials = [
   
     {
       content:
-      "Dan is an individual that will always be there when you need him. He is dependable, creative and always thinking outside the box. Anyone would be lucky to have Dan on their staff or team!" ,
+      "[Dan] gave me real truths to the career that I&apos;m grateful for that. [Dan&apos;s] a awesome guy...and really gave me the confidence (throughout the process)" ,
        author: {
-        name: 'Stephen Sullivan',
-        role: 'Director @ Guggenheim Partners',
+        name: 'Adam Houmiel',
+        role: 'Junior ServiceNow Developer',
         image: avatarImage2,
       },
     },
