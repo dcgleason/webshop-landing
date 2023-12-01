@@ -24,7 +24,7 @@ export function CallToAction() {
           &quot;[Dan] gave me real truths to the career that I&apos;m grateful for that. [Dan&apos;s] an awesome guy...and really gave me the confidence I needed (throughout the process)&quot;
                     </h2>
           <p className="mt-4 text-lg tracking-tight text-white">
-            - Adam Houmiel, Junior ServiceNow Developer (past client)
+            - Adam Houmiel, Junior ServiceNow Developer (past client, got a job in 3 weeks)
           </p>
           <Button href="/#pricing" color="white" className="mt-10">
             Apply now
