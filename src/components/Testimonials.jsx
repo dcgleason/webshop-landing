@@ -13,7 +13,7 @@ const testimonials = [
       content:
        "Danny is GREAT to work with and an awesome collaborator. He and I completed this integration of two systems. At one point after he left the project, a comment was made ‘Where is Dan? Bring him back because we actually get work done. Given the opportunity, I would flip tables over to work with him again. He's that good.",
       author: {
-        name: 'Addam Driver',
+        name: 'Addam D.',
         role: 'Lead Solutions Architect',
         image: avatarImage4,
       },
@@ -25,7 +25,7 @@ const testimonials = [
       content:
         "Dan always goes the extra mile to get in depth information on a topic when you have a question. He never gives you just the bare minimum information and it is this level of detail and curiosity that drives his continued improvement. I thoroughly enjoyed working with Dan in the short time we had together.",
       author: {
-        name: 'Harry Wilson',
+        name: 'Harry W.',
         role: 'ServiceNow Application Developer',
         image: avatarImage2,
       },
@@ -37,7 +37,7 @@ const testimonials = [
       content:
       "[Dan] gave me real truths to the career that I&apos;m grateful for that. [Dan's] an awesome guy...and really gave me the confidence I need (throughout the process)" ,
        author: {
-        name: 'Adam Houmiel',
+        name: 'Adam H.',
         role: 'Junior ServiceNow Developer (past client, got a job in 3 weeks)',
         image: avatarImage2,
       },
