@@ -147,10 +147,11 @@ export function Pricing() {
           <Plan
             name="Reverse Recruitment + Group Q&A Career Consulting (Limited availability)"
             price="$799"
-            description="$75 non-refundable, initial deposit. Ongoing job search assitance. Pay when you get a job."
+            description="$75 refundable, initial deposit. Ongoing job search assitance. Pay when you get a job."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
               "All topics of '1-on-1 ServiceNow Career Consulting Call' covered weekly 1-on-1s",
+              "3-5 job applications submitted on your behalf each week",
               'Admission to online community of current job seekers and past clients',
                         ]}
           />
