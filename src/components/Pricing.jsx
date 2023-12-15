@@ -135,12 +135,12 @@ export function Pricing() {
             description="30 targeted jobs applied for you per month. Ongoing search guidance from seasoned ServiceNow developer. Pause or cancel anytime. "
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
+                'Unlimted resume revisions',
                 'Technical support for ServiceNow-related PDI project questions',
                 'LinkedIn presence & networking strategy coaching',
                 'How to find & build relationships with key decision makers at your target companies',
                 'Step-by-step guide on how to get referrals',
                 'Interview prep with mock interviews and personalized feedback',
-                'Negotiation coaching to help you get the best offers possible',
                 '30 jobs applied for you per month with report of all applications at the end of the month',
                 'Admission to online community of current job seekers and past clients',
             ]}
@@ -151,14 +151,14 @@ export function Pricing() {
             description="$75 refundable, initial deposit. Ongoing job search assitance from seasoned ServiceNow developer. Pay when you get a job."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
+              'Unlimited resume reivisions',
               'Technical support for ServiceNow-related PDI project questions',
               'LinkedIn presence & networking strategy coaching',
               'How to find & build relationships with key decision makers at your target companies',
               'Step-by-step guide on how to get referrals',
               'Interview prep with mock interviews and personalized feedback',
-              'Negotiation coaching to help you get the best offers possible',
               "1 targetted job application submitted on your behalf each week",
-              'Admission to online community of current job seekers and past clients',
+              'Addision to company Notion teamspace to track your job search progress',
                         ]}
           />
         </div>
