@@ -131,8 +131,8 @@ export function Pricing() {
           <Plan
             featured
             name="Done-For-You ServiceNow Job Search Support"
-            price="$999/month"
-            description="150 jobs applied for you per month. Ongoing search guidance from Dan. Pause or cancel anytime. "
+            price="$1599/month"
+            description="30 jobs applied for you per month. Ongoing search guidance from Dan. Pause or cancel anytime. "
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
                 'Technical support for ServiceNow-related PDI project questions',
@@ -142,7 +142,7 @@ export function Pricing() {
                 'How to manage work-related stress specific to ServiceNow roles', 
                 'Interview prep with mock interviews and personalized feedback',
                 'Negotiation coaching to help you get the best offers possible',
-                '150 jobs applied for you per month with report of all applications at the end of the month',
+                '30 jobs applied for you per month with report of all applications at the end of the month',
                 'Admission to online community of current job seekers and past clients',
             ]}
           />
@@ -159,7 +159,7 @@ export function Pricing() {
               'How to manage work-related stress specific to ServiceNow roles', 
               'Interview prep with mock interviews and personalized feedback',
               'Negotiation coaching to help you get the best offers possible',
-              "3-5 job applications submitted on your behalf each week",
+              "1 targetted job application submitted on your behalf each week",
               'Admission to online community of current job seekers and past clients',
                         ]}
           />
