@@ -142,7 +142,7 @@ export function Pricing() {
                 'How to manage work-related stress specific to ServiceNow roles', 
                 'Interview prep with mock interviews and personalized feedback',
                 'Negotiation coaching to help you get the best offers possible',
-                '100 jobs applied for you per month with report of all applications at the end of the month',
+                '150 jobs applied for you per month with report of all applications at the end of the month',
                 'Admission to online community of current job seekers and past clients',
             ]}
           />
