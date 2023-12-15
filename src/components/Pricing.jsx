@@ -130,10 +130,10 @@ export function Pricing() {
           /> */}
           <Plan
             featured
-            name="1-on-1 ServiceNow Career Consulting Call"
-            price="$149"
-            description="1-hour call. Personalized ServiceNow job search & networking recommendations. "
-            href="https://calendly.com/beyondnow-sn/beyondnow-private-coaching"
+            name="Done-For-You ServiceNow Job Search Support"
+            price="$999/month"
+            description="150 jobs applied for you per month. Ongoing search guidance from Dan. Pause or cancel anytime. "
+            href="https://calendly.com/beyondnow-sn/30min"
             features={[
                 'Technical support for ServiceNow-related PDI project questions',
                 'LinkedIn presence & networking strategy coaching',
@@ -142,15 +142,23 @@ export function Pricing() {
                 'How to manage work-related stress specific to ServiceNow roles', 
                 'Interview prep with mock interviews and personalized feedback',
                 'Negotiation coaching to help you get the best offers possible',
+                '100 jobs applied for you per month with report of all applications at the end of the month',
+                'Admission to online community of current job seekers and past clients',
             ]}
           />
           <Plan
-            name="Reverse Recruitment + Group Q&A Career Consulting (Limited availability)"
+            name="Performance-Based ServiceNow Job Search Support"
             price="$799"
             description="$75 refundable, initial deposit. Ongoing job search assitance. Pay when you get a job."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
-              "All topics of '1-on-1 ServiceNow Career Consulting Call' covered weekly 1-on-1s",
+              'Technical support for ServiceNow-related PDI project questions',
+              'LinkedIn presence & networking strategy coaching',
+              'How to find & build relationships with key decision makers at your target companies',
+              'Step-by-step guide on how to get referrals',
+              'How to manage work-related stress specific to ServiceNow roles', 
+              'Interview prep with mock interviews and personalized feedback',
+              'Negotiation coaching to help you get the best offers possible',
               "3-5 job applications submitted on your behalf each week",
               'Admission to online community of current job seekers and past clients',
                         ]}
