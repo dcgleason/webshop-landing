@@ -15,17 +15,17 @@ const faqs = [
     },
     {
       question: 'What services does BeyondNow provide?',
-      answer: 'BeyondNow offers comprehensive career services including resume optimization, LinkedIn strategy, networking tactics, interview prep, group strategy calls for collaborative learning and support, and reverse recruitment.'
+      answer: 'BeyondNow offers comprehensive career services including resume optimization, LinkedIn strategy, networking tactics, interview prep, strategy calls for collaborative learning and support, and reverse recruitment.'
     },
   ],
   [
     {
       question: 'How can I contact Dan at BeyondNow?',
-      answer: "After subscribing, you'll get direct access to Dan via email and will be able to ask questions and receive tailored advice on your weekly group strategy calls."
+      answer: "After subscribing, you'll get direct access to Dan via email and will be able to ask questions and receive tailored advice on your weekly strategy calls."
     },
     {
-      question: 'What is the structure of the weekly group strategy call?',
-      answer: 'The group strategy call is a premium feature where participants engage in collective brainstorming, share progress, and receive tailored advice to refine their career strategies.'
+      question: 'What is the structure of the weekly strategy call?',
+      answer: 'The strategy call is a premium feature where you can receive tailored advice to refine their career strategies.'
     }
   ],
   [
