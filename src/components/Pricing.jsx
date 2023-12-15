@@ -142,7 +142,7 @@ export function Pricing() {
                 'Step-by-step guide on how to get referrals',
                 'Interview prep with mock interviews and personalized feedback',
                 '30 jobs applied for you per month with report of all applications at the end of the month',
-                'Admission to online community of current job seekers and past clients',
+                'Admission to company Notion teamspace to track the job search progress done on your behalf',
             ]}
           />
           <Plan
@@ -158,7 +158,7 @@ export function Pricing() {
               'Step-by-step guide on how to get referrals',
               'Interview prep with mock interviews and personalized feedback',
               "1 targetted job application submitted on your behalf each week",
-              'Addision to company Notion teamspace to track your job search progress',
+              'Admission to company Notion teamspace to track your job search progress',
                         ]}
           />
         </div>
