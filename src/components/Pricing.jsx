@@ -132,7 +132,7 @@ export function Pricing() {
             featured
             name="Done-For-You ServiceNow Job Search Support"
             price="$1299/month"
-            description="30 targeted jobs applied for you per month. Ongoing search guidance from seasoned ServiceNow developer (Dan). Pause or cancel anytime. "
+            description="30 targeted jobs applied for you per month. Ongoing search guidance from seasoned ServiceNow developer. Pause or cancel anytime. "
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
                 'Technical support for ServiceNow-related PDI project questions',
@@ -149,7 +149,7 @@ export function Pricing() {
           <Plan
             name="Performance-Based ServiceNow Job Search Support"
             price="$799"
-            description="$75 refundable, initial deposit. Ongoing job search assitance. Pay when you get a job."
+            description="$75 refundable, initial deposit. Ongoing job search assitance from seasoned ServiceNow developer. Pay when you get a job."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
               'Technical support for ServiceNow-related PDI project questions',
