@@ -130,7 +130,7 @@ export function Pricing() {
           /> */}
           <Plan
             featured
-            name="Ongoing Job Search Support"
+            name="ServiceNow Job Search Support"
             price="$179/month"
             description="Job search support from a Reverse Recruiter and ServiceNow developer. Pause or cancel anytime. "
             href="https://calendly.com/beyondnow-sn/30min"
