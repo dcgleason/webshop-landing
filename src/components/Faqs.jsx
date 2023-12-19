@@ -15,17 +15,17 @@ const faqs = [
     },
     {
       question: 'What services does BeyondNow provide?',
-      answer: 'BeyondNow offers comprehensive career services including resume optimization, LinkedIn strategy, networking tactics, interview prep, strategy calls for collaborative learning and support, and reverse recruitment.'
+      answer: 'BeyondNow offers comprehensive career services including resume optimization, LinkedIn strategy, networking tactics, strategy calls for collaborative learning and support, and reverse recruitment.'
     },
   ],
   [
     {
       question: 'How can I contact Dan at BeyondNow?',
-      answer: "After subscribing, you'll get direct access to Dan via email and will be able to ask questions and receive tailored advice on your weekly strategy calls."
+      answer: "After subscribing, you'll get direct access to Dan via email and will be added to a 1:1 private Notion Teamspace task board that where you can post 'To-dos,' 'Questions,' etc. for Dan to review and respond to."
     },
     {
-      question: 'What is the structure of the weekly strategy call?',
-      answer: 'The strategy call is a premium feature where you can receive tailored advice to refine their career strategies.'
+      question: 'What is the structure of the 1:1 coachign call?',
+      answer: 'The 1:1 coaching call is a 30 minute call where you can ask Dan any questions you have about your job search. Dan will also provide you with personalized feedback based on his work with you.'
     }
   ],
   [
@@ -35,7 +35,7 @@ const faqs = [
     },
     {
       question: 'Which communication methods does BeyondNow use?',
-      answer: 'BeyondNow ensures seamless interaction through email and live group calls, striving for prompt and effective communication during business hours.'
+      answer: 'Welcome to email Dan at dan@beyondnow.services at any point if you have questions.'
     }
   ]
 ];
