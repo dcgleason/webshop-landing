@@ -13,7 +13,7 @@ const features = [
     name: 'Resume & LinkedIn Optimization',
     summary: (
       <>
-        Resume optimization & LinkedIn strategy <span className="underline">to help you stand out</span>.
+        Improve your resume & LinkedIn profile <span className="underline">so that you stand out</span>.
       </>
     ),
     description: "Strategies to help you improve your resume & LinkedIn presence from the perspective of a hiring manager.",
