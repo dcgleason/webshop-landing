@@ -136,8 +136,8 @@ export function Pricing() {
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
                 'Unlimited Resume revisions tailored to each job posting',
-                'Unlimited cover letter revisions to help you stand out',
-                'LinkedIn profile reviews to help you stand out to recruiters',
+                'Unlimited cover letter revisions to help you stand out', 
+                'LinkedIn profile reviews to help you stand out to recruiters',  
                 'PDI project ideas and developer support to augment your resume (if you lack work experience)',
                 'LinkedIn post reviews and feedback to get you noticed by hiring managers',
                 'LinkedIn direct message message reviews and feedback to help you more effectively build relationships with key decision makers',
