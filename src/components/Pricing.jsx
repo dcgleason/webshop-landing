@@ -130,7 +130,7 @@ export function Pricing() {
           /> */}
           <Plan
             featured
-            name="ServiceNow Job Search Support"
+            name="ServiceNow Career Mentorship"
             price="$79/month"
             description="Job search support from a Reverse Recruiter and ServiceNow developer. Pause or cancel anytime. "
             href="https://calendly.com/beyondnow-sn/30min"
