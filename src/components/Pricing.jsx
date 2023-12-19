@@ -156,7 +156,7 @@ export function Pricing() {
               'PDI project ideas and developer support to augment your resume (if you lack work experience)',
               'LinkedIn post reviews and feedback to get you noticed by hiring managers',
               'LinkedIn direct message message reviews and feedback to help you more effectively build relationships with key decision makers',
-              '48 hour max response time',
+              '48 hour max response time + 1 hour of 1:1 coaching per month',
                         ]}
           />
         </div>
