@@ -130,35 +130,33 @@ export function Pricing() {
           /> */}
           <Plan
             featured
-            name="Done-For-You ServiceNow Job Search Support"
-            price="$1299/month"
-            description="30 targeted jobs applied for you per month. Ongoing search guidance from seasoned ServiceNow developer. Pause or cancel anytime. "
+            name="Ongoing ServiceNow Career Support"
+            price="$79/month"
+            description="Ongoing job search support (based on stragies that work) from a seasoned ServiceNow developer and Reverse Recruiter. Pause or cancel anytime. "
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
-                'Unlimted resume revisions',
-                'Technical support for ServiceNow-related PDI project questions',
-                'LinkedIn presence & networking strategy coaching',
-                'How to find & build relationships with key decision makers at your target companies',
-                'Step-by-step guide on how to get referrals',
-                'Interview prep with mock interviews and personalized feedback',
-                '30 jobs applied for you per month with report of all applications at the end of the month',
-                'Admission to company Notion teamspace to track the job search progress done on your behalf',
+                'Unlimted resume reviews to keep your resume out of the no pile',
+                'Unlimted LinekdIn profile reviews to help you stand out to recruiters',
+                'Unlimited cover letter reviews to help you stand out',
+                'Ideas and developer support for ServiceNow-related PDI projects to augment your resume (if you lack work experience)',
+                'LinkedIn post reviews and feedback to get you noticed by hiring managers',
+                'LinkedIn direct message message reviews and feedback to help you build relationships with key decision makers',
+                'Access to experienced ServiceNow developer via individual Notion Teamspace (24 hour max response time)',
             ]}
           />
           <Plan
             name="Performance-Based ServiceNow Job Search Support"
             price="$799"
-            description="$75 refundable, initial deposit. Ongoing job search assitance from seasoned ServiceNow developer. Pay when you get a job."
+            description="Ongoing job search support (based on stragies that work) from a seasoned ServiceNow developer and Reverse Recruiter. Pay when you get a job ($75 initial deposit)."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
-              'Unlimited resume reivisions',
-              'Technical support for ServiceNow-related PDI project questions',
-              'LinkedIn presence & networking strategy coaching',
-              'How to find & build relationships with key decision makers at your target companies',
-              'Step-by-step guide on how to get referrals',
-              'Interview prep with mock interviews and personalized feedback',
-              "1 targetted job application submitted on your behalf each week",
-              'Admission to company Notion teamspace to track your job search progress',
+              'Unlimted resume reviews to keep your resume out of the no pile',
+              'Unlimted LinekdIn profile reviews to help you stand out to recruiters',
+              'Unlimited cover letter reviews to help you stand out',
+              'Ideas and developer support for ServiceNow-related PDI projects to augment your resume (if you lack work experience)',
+              'LinkedIn post reviews and feedback to get you noticed by hiring managers',
+              'LinkedIn direct message message reviews and feedback to help you build relationships with key decision makers',
+              'Access to experienced ServiceNow developer via individual Notion Teamspace (24 hour max response time)',
                         ]}
           />
         </div>
