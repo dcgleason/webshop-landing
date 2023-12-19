@@ -87,7 +87,7 @@ function Plan({ name, price, description, href, features, featured = false }) {
         className="mt-8"
         aria-label={`Get started with the ${name} plan for ${price}`}
       >
-        Get started
+        Revise my resume for free
       </Button>
     </section>
   )
@@ -111,7 +111,7 @@ export function Pricing() {
             in the ServiceNow ecosystem.
           </h2>
           <p className="mt-4 text-lg text-slate-400">
-            Book either a one-time call, or apply to a be a part of my recurring reverse recruitment cohort below.
+            Book an initial consultations get your free initial resume revision. 
           </p>
         </div>
         <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-2 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
@@ -130,33 +130,33 @@ export function Pricing() {
           /> */}
           <Plan
             featured
-            name="ServiceNow Job Search Support"
-            price="$79/month"
-            description="Ongoing job search support (based on stragies that work) from a seasoned ServiceNow developer and Reverse Recruiter. Pause or cancel anytime. "
+            name="Ongoing Job Search Support"
+            price="$149/month"
+            description="Job search support from a Reverse Recruiter and ServiceNow developer. Pause or cancel anytime. "
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
-                'Unlimted resume reviews to keep your resume out of the no pile',
-                'Unlimted LinekdIn profile reviews to help you stand out to recruiters',
-                'Unlimited cover letter reviews to help you stand out',
-                'Ideas and developer support for ServiceNow-related PDI projects to augment your resume (if you lack work experience)',
+                'Resume revisions tailored to each job',
+                'LinekdIn profile reviews to help you stand out to recruiters',
+                'Unlimited cover letter revisions to help you stand out',
+                'PDI project ideas and developer support to augment your resume (if you lack work experience)',
                 'LinkedIn post reviews and feedback to get you noticed by hiring managers',
-                'LinkedIn direct message message reviews and feedback to help you build relationships with key decision makers',
-                'Access to experienced ServiceNow developer via individual Notion Teamspace (24 hour max response time)',
+                'LinkedIn direct message message reviews and feedback to help you more effectively build relationships with key decision makers',
+                '24 hour max response time + 1 hour of 1:1 coaching per month',
             ]}
           />
           <Plan
             name="Performance-Based ServiceNow Job Search Support"
             price="$799"
-            description="Ongoing job search support (based on stragies that work) from a seasoned ServiceNow developer and Reverse Recruiter. Pay when you get a job ($75 initial deposit)."
+            description="Job search support from a Reverse Recruiter and ServiceNow developer. Pay when you get a job ($75 initial deposit)."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
-              'Unlimted resume reviews to keep your resume out of the no pile',
-              'Unlimted LinekdIn profile reviews to help you stand out to recruiters',
-              'Unlimited cover letter reviews to help you stand out',
-              'Ideas and developer support for ServiceNow-related PDI projects to augment your resume (if you lack work experience)',
+              'Resume revisions tailored to each job',
+              'LinekdIn profile reviews to help you stand out to recruiters',
+              'Unlimited cover letter revisions to help you stand out',
+              'PDI project ideas and developer support to augment your resume (if you lack work experience)',
               'LinkedIn post reviews and feedback to get you noticed by hiring managers',
-              'LinkedIn direct message message reviews and feedback to help you build relationships with key decision makers',
-              'Access to experienced ServiceNow developer via individual Notion Teamspace (24 hour max response time)',
+              'LinkedIn direct message message reviews and feedback to help you more effectively build relationships with key decision makers',
+              '48 hour max response time',
                         ]}
           />
         </div>

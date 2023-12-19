@@ -50,7 +50,7 @@ const features = [
     name: "Personalized Networking Tips & Coaching",
     summary: (
       <>
-        Networking strategy to help you <span className="underline">to get you connected</span>.
+        Network in ways that <span className="underline">get your foot in the door</span>.
       </>
     ),
     description:
@@ -74,10 +74,10 @@ const features = [
   },
 
   {
-    name: 'Technical Support & Jobs Submitted For You',
+    name: 'Technical Support for PDI Projects',
     summary: (
       <>
-      Jobs submitted and technical help <span className="underline">get you the job</span>.
+     Build impressive PDI projects that help <span className="underline">get you the job</span>.
       </>
     ),
     description:
