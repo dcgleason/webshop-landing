@@ -135,7 +135,7 @@ export function Pricing() {
             description="Job search support from a Reverse Recruiter and ServiceNow developer. Pause or cancel anytime. "
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
-                'Resume revisions tailored to each job',
+                'Resume revisions tailored to each job posting',
                 'LinekdIn profile reviews to help you stand out to recruiters',
                 'Unlimited cover letter revisions to help you stand out',
                 'PDI project ideas and developer support to augment your resume (if you lack work experience)',
@@ -150,7 +150,7 @@ export function Pricing() {
             description="Job search support from a Reverse Recruiter and ServiceNow developer. Pay when you get a job ($75 initial deposit)."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
-              'Resume revisions tailored to each job',
+              'Resume revisions tailored to each job posting',
               'LinekdIn profile reviews to help you stand out to recruiters',
               'Unlimited cover letter revisions to help you stand out',
               'PDI project ideas and developer support to augment your resume (if you lack work experience)',
