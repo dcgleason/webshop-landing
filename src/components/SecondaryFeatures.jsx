@@ -81,7 +81,7 @@ const features = [
       </>
     ),
     description:
-    "Technical ServiceNow support to help for your Personal Develeloper Instance projects so that your technical ability is properly highlighted in your applications.",
+    "Technical ServiceNow support for your Personal Develeloper Instance projects so that your technical ability is properly highlighted in your applications.",
     image: screenshotContacts,
     icon: function InventoryIcon() {
       return (
