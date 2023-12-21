@@ -131,8 +131,8 @@ export function Pricing() {
           <Plan
             featured
             name="ServiceNow Career Mentorship"
-            price="$79/month"
-            description="Job search support from a Reverse Recruiter and ServiceNow developer. Pause or cancel anytime. "
+            price="$179/month"
+            description="Job search support from a your ServiceNow-trained career coach. Pause or cancel anytime. "
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
                 'Unlimited Resume revisions tailored to each job posting',
@@ -147,7 +147,7 @@ export function Pricing() {
           <Plan
             name="Performance-Based ServiceNow Job Search Support"
             price="$799"
-            description="Job search support from a Reverse Recruiter and ServiceNow developer. Pay when you get a job ($75 initial deposit)."
+            description="Job search support from your ServiceNow-trained career coach. Pay when you get a job ($75 initial deposit)."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
               'UnlimtedResume revisions tailored to each job posting',
