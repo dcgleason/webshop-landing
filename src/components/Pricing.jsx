@@ -130,7 +130,7 @@ export function Pricing() {
           /> */}
           <Plan
             featured
-            name="ServiceNow Career Mentorship"
+            name="ServiceNow Career Coaching"
             price="$179/month"
             description="Job search support from a your ServiceNow-trained career coach. Pause or cancel anytime. "
             href="https://calendly.com/beyondnow-sn/30min"
