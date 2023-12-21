@@ -31,7 +31,7 @@ export function Hero() {
        
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-     BeyondNow is a U.S.-based career coaching agency that guides you through your ServiceNow job search by offering networking tips & tricks, resume & cover letter assistance, and PDI project support via 1-on-1 weekly coaching calls with certified ServiceNow experts.
+     BeyondNow is a U.S.-based career coaching agency that guides you through your ServiceNow job search by offering up proven-to-work strategies around online networking and resume-building. 
       </p>
         <div className="mt-10 flex justify-center gap-x-6">
         <Button href="#pricing">Apply today</Button>
