@@ -135,7 +135,8 @@ export function Pricing() {
             description="Job search support from a your ServiceNow-trained career coach. Pause or cancel anytime. "
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
-                'Unlimited Resume revisions tailored to each job posting',
+                'Access to private Notion teamspace filled with course content and helpful resources',
+                'Unlimited resume revisions tailored to each job posting',
                 'Unlimited cover letter revisions to help you stand out', 
                 'LinkedIn profile reviews to help you stand out to recruiters',  
                 'PDI project ideas and developer support to augment your resume (if you lack work experience)',
@@ -150,7 +151,8 @@ export function Pricing() {
             description="Job search support from your ServiceNow-trained career coach. Pay when you get a job ($75 initial deposit)."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
-              'UnlimtedResume revisions tailored to each job posting',
+              'Access to private Notion teamspace filled with course content and helpful resources',
+              'Unlimted resume revisions tailored to each job posting',
               'Unlimited cover letter revisions to help you stand out',
               'LinkedIn profile reviews to help you stand out to recruiters',
               'PDI project ideas and developer support to augment your resume (if you lack work experience)',
