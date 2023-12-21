@@ -54,7 +54,7 @@ const features = [
       </>
     ),
     description:
-      "Weekly group coaching calls to help you find & network with ServiceNow professionals so that they give you referrals.",
+      "Coursework and personalized tips around effective LinkedIn networking strategy to you stand out to recruiters and hiring managers.",
     image: screenshotInventory,
     icon: function ContactsIcon() {
       return (
@@ -81,7 +81,7 @@ const features = [
       </>
     ),
     description:
-    "Technical ServiceNow support to help for your Personal Develeloper Instance projects and jobs submitted on your behalf to get you the position.",
+    "Technical ServiceNow support to help for your Personal Develeloper Instance projects so that your technical ability is properly highlighted in your applications.",
     image: screenshotContacts,
     icon: function InventoryIcon() {
       return (
