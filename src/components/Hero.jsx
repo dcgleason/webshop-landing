@@ -31,7 +31,7 @@ export function Hero() {
        
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-     BeyondNow is a U.S.-based reverse recruitment agency that guides you through your ServiceNow job search by offering networking tips & tricks, resume & cover letter reviews, and PDI project support.
+     BeyondNow is a U.S.-based career coaching agency that guides you through your ServiceNow job search by offering networking tips & tricks, resume & cover letter assistance, and PDI project support via 1-on-1 weekly coaching calls with certified ServiceNow experts.
       </p>
         <div className="mt-10 flex justify-center gap-x-6">
         <Button href="#pricing">Apply today</Button>
