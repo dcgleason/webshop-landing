@@ -11,11 +11,11 @@ const faqs = [
     {
       question: 'Why choose BeyondNow for ServiceNow career growth?',
       answer:
-        "BeyondNow is spearheaded by Dan Gleason, a ServiceNow expert with over 5 years of experience. Dan's career consulting and reverse recruiting is tailored to the ServiceNow ecosystem, providing personalized strategies to position you in roles that best fit your career ambitions. Dan's expertise extends to group calls where collective insights and strategies are shared. LinkedIn: https://www.linkedin.com/in/dcgleason/"
+        "BeyondNow is spearheaded by Dan Gleason, a ServiceNow expert with over 5 years of experience. Dan's career coaching is tailored to the ServiceNow ecosystem, providing personalized strategies to position you in roles that best fit your career ambitions. Dan's expertise extends to group calls where collective insights and strategies are shared. LinkedIn: https://www.linkedin.com/in/dcgleason/"
     },
     {
       question: 'What services does BeyondNow provide?',
-      answer: 'BeyondNow offers comprehensive career services including resume optimization, LinkedIn strategy, networking tactics, strategy calls for collaborative learning and support, and reverse recruitment.'
+      answer: 'BeyondNow offers comprehensive career services including resume optimization, LinkedIn strategy, networking tactics, strategy calls for collaborative learning and support.'
     },
   ],
   [
