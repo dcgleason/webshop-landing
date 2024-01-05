@@ -130,19 +130,18 @@ export function Pricing() {
           /> */}
           <Plan
             featured
-            name="ServiceNow Job Search Support"
-            price="$179/month"
-            description="Job search support from a your ServiceNow-trained career coach. Pause or cancel anytime. "
-            href="https://calendly.com/beyondnow-sn/30min"
+            name="DIY ServiceNow Job Search Toolkit"
+            price="$149"
+            description="All the resources you need to land your dream job in the ServiceNow ecosystem. "
+            href="https://buy.stripe.com/5kA7uAbnr8qGaLCbIT"
             features={[
-                'Access to private Notion teamspace filled with course content and helpful resources',
-                'Unlimited resume revisions tailored to each job posting',
-                'Unlimited cover letter revisions to help you stand out', 
-                'LinkedIn profile reviews to help you stand out to recruiters',  
-                'PDI project ideas and developer support to augment your resume (if you lack work experience)',
-                'LinkedIn post reviews and feedback to get you noticed by hiring managers',
-                'LinkedIn direct message message reviews and feedback to help you more effectively build relationships with key decision makers',
-                '24 hour max response time + 30 min of 1:1 coaching per week',
+                'ServiceNow professional 1-page resume template',
+                'Resume review checklist to help you stand out to recruiters',
+                'Cover letter template to help you stand out to recruiters',
+                'LinkedIn instructinoal slide-deck that walks you though how to post LinkedIn content that drives engagement',
+                'LinkedIn post templates based off of content structures actually work',  
+                'LinkedIn networking playbook with step-by-step instructions on how to network effectively on LinkedIn',
+                'Detailed list of 20 unique PDI project ideas to help your application stand out',
             ]}
           />
           <Plan
