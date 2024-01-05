@@ -46,7 +46,7 @@ function CheckIcon({ className }) {
   )
 }
 
-function Plan({ name, price, description, href, features, featured = false }) {
+function Plan({ name, price, description, href, features, featured = false, buttonText }) {
   return (
     <section
       className={clsx(
@@ -141,7 +141,9 @@ export function Pricing() {
                 '"How to post on LinkedIn Drive Engagement" instructional slide-deck',
                 'LinkedIn networking playbook with step-by-step instructions on how to network effectively on LinkedIn',
                 '9 unique PDI project ideas to help your application stand out',
+                
             ]}
+            buttonText="Get the toolkit"
           />
           <Plan
             name="Performance-Based ServiceNow Job Search Support"
@@ -158,6 +160,8 @@ export function Pricing() {
               'LinkedIn direct message message reviews and feedback to help you more effectively build relationships with key decision makers',
               '48 hour max response time + 30 min of 1:1 coaching per week',
                         ]}
+           buttonText="Revise my resume for free"
+
           />
         </div>
       </Container>
