@@ -87,7 +87,7 @@ function Plan({ name, price, description, href, features, featured = false, butt
         className="mt-8"
         aria-label={`Get started with the ${name} plan for ${price}`}
       >
-        Revise my resume for free
+        {buttonText}
       </Button>
     </section>
   )
