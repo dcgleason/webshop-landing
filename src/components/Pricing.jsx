@@ -160,7 +160,7 @@ export function Pricing() {
               'LinkedIn direct message message reviews and feedback to help you more effectively build relationships with key decision makers',
               '48 hour max response time + 30 min of 1:1 coaching per week',
                         ]}
-           buttonText="Revise my resume for free"
+           buttonText="Book call & Revise my resume for free"
 
           />
         </div>
