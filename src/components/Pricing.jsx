@@ -138,10 +138,9 @@ export function Pricing() {
                 'ServiceNow professional 1-page resume template',
                 'Resume review checklist to help you stand out to recruiters',
                 'Cover letter template to help you stand out to recruiters',
-                'LinkedIn instructinoal slide-deck that walks you though how to post LinkedIn content that drives engagement',
-                'LinkedIn post templates based off of content structures actually work',  
+                '"How to post on LinkedIn Drive Engagement" instructional slide-deck',
                 'LinkedIn networking playbook with step-by-step instructions on how to network effectively on LinkedIn',
-                'Detailed list of 20 unique PDI project ideas to help your application stand out',
+                '10 unique PDI project ideas to help your application stand out',
             ]}
           />
           <Plan
