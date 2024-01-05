@@ -136,11 +136,11 @@ export function Pricing() {
             href="https://buy.stripe.com/5kA7uAbnr8qGaLCbIT"
             features={[
                 'ServiceNow professional 1-page resume template',
-                'Resume review checklist to help you stand out to hiring managers',
-                'Cover letter template to help you stand out',
+                'Resume review checklist to help you differentiate yourself from other applicants',
+                'Cover letter template to help you draw attention to your application',
                 '"How to post on LinkedIn Drive Engagement" instructional slide-deck',
                 '"How to effectively network on LinkedIn" step-by-step guide',
-                '9 unique PDI project ideas to help your application stand out',
+                '9 unique PDI project ideas to help your application stand out from the crowd',
                 
             ]}
             buttonText="Get the toolkit"
