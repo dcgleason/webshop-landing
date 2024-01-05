@@ -131,7 +131,7 @@ export function Pricing() {
           <Plan
             featured
             name="DIY ServiceNow Job Search Toolkit"
-            price="$149"
+            price="$29"
             description="All the resources you need to land your dream job in the ServiceNow ecosystem. "
             href="https://buy.stripe.com/5kA7uAbnr8qGaLCbIT"
             features={[
@@ -140,7 +140,7 @@ export function Pricing() {
                 'Cover letter template to help you stand out to recruiters',
                 '"How to post on LinkedIn Drive Engagement" instructional slide-deck',
                 'LinkedIn networking playbook with step-by-step instructions on how to network effectively on LinkedIn',
-                '10 unique PDI project ideas to help your application stand out',
+                '9 unique PDI project ideas to help your application stand out',
             ]}
           />
           <Plan
