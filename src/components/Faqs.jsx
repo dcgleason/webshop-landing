@@ -24,7 +24,7 @@ const faqs = [
       answer: "After subscribing, you'll get direct access to Dan via email and will be added to a 1:1 private Notion Teamspace task board that where you can post 'To-dos,' 'Questions,' etc. for Dan to review and respond to."
     },
     {
-      question: 'What is the structure of the 1:1 coachign call?',
+      question: 'What is the structure of the 1:1 consulting call?',
       answer: 'The 1:1 consulting call is a 30 minute call where you can ask Dan any questions you have about your job search. Dan will also provide you with personalized feedback based on his work with you.'
     }
   ],
