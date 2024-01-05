@@ -47,7 +47,7 @@ const features = [
     },
   },
   {
-    name: "Personalized Networking Tips & Coaching",
+    name: "Personalized Networking Tips & consulting",
     summary: (
       <>
         Network in ways that <span className="underline">get your foot in the door</span>.

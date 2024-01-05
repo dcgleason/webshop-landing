@@ -17,10 +17,10 @@ export default function Home() {
   return (
     <>
         <Head>
-          <title>BeyondNow LLC: Career Coaching for ServiceNow Professionals</title>
+          <title>BeyondNow LLC: Career consulting for ServiceNow Professionals</title>
           <meta
             name="description"
-            content="BeyondNow LLC is a career coaching agency that helps you through your ServiceNow job search & career challenges by optimizing your resume, helping you improve you LinkedIn presence, coaching you through effective networking strategies that get you referrals, and providing you interview & negotiation prep."
+            content="BeyondNow LLC is a career consulting agency that helps you through your ServiceNow job search & career challenges by optimizing your resume, helping you improve you LinkedIn presence, consulting you through effective networking strategies that get you referrals, and providing you interview & negotiation prep."
           />
           <meta name="keywords" content="IT Consulting, ServiceNow, Subscription, Career Consulting, Reverse Recruiter, job search"/>
       </Head>

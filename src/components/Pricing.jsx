@@ -148,7 +148,7 @@ export function Pricing() {
           <Plan
             name="Performance-Based ServiceNow Job Search Support"
             price="$799"
-            description="Job search support from your ServiceNow-trained career coach. Pay when you get a job ($75 initial deposit)."
+            description="Job search support from your ServiceNow-trained career consultant. Pay when you get a job ($75 initial deposit)."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
               'Access to private Notion teamspace filled with course content and helpful resources',
@@ -158,7 +158,7 @@ export function Pricing() {
               'PDI project ideas and developer support to augment your resume (if you lack work experience)',
               'LinkedIn post reviews and feedback to get you noticed by hiring managers',
               'LinkedIn direct message message reviews and feedback to help you more effectively build relationships with key decision makers',
-              '48 hour max response time + 30 min of 1:1 coaching per week',
+              '48 hour max response time + 30 min of 1:1 consulting per week',
                         ]}
            buttonText="Revise my resume for free & book call"
 

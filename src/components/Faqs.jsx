@@ -11,7 +11,7 @@ const faqs = [
     {
       question: 'Why choose BeyondNow for ServiceNow career growth?',
       answer:
-        "BeyondNow is spearheaded by Dan Gleason, a ServiceNow expert with over 5 years of experience. Dan's career coaching is tailored to the ServiceNow ecosystem, providing personalized strategies to position you in roles that best fit your career ambitions. Dan's expertise extends to group calls where collective insights and strategies are shared. LinkedIn: https://www.linkedin.com/in/dcgleason/"
+        "BeyondNow is spearheaded by Dan Gleason, a ServiceNow expert with over 5 years of experience. Dan's career consulting is tailored to the ServiceNow ecosystem, providing personalized strategies to position you in roles that best fit your career ambitions. Dan's expertise extends to group calls where collective insights and strategies are shared. LinkedIn: https://www.linkedin.com/in/dcgleason/"
     },
     {
       question: 'What services does BeyondNow provide?',
@@ -25,7 +25,7 @@ const faqs = [
     },
     {
       question: 'What is the structure of the 1:1 coachign call?',
-      answer: 'The 1:1 coaching call is a 30 minute call where you can ask Dan any questions you have about your job search. Dan will also provide you with personalized feedback based on his work with you.'
+      answer: 'The 1:1 consulting call is a 30 minute call where you can ask Dan any questions you have about your job search. Dan will also provide you with personalized feedback based on his work with you.'
     }
   ],
   [
