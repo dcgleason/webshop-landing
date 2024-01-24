@@ -129,9 +129,9 @@ export function Pricing() {
             ]}
           /> */}
           <Plan
-      
+            featured
             name="Done-For-You ServiceNow Job Search"
-            price="$199/month"
+            price="3% of your first year's salary"
             description="75 applications submitted to targeted jobs on your behalf per month"
             href="https://calendly.com/beyondnow-sn/intro-call-clone"
             features={[
@@ -141,6 +141,8 @@ export function Pricing() {
                 'LinkedIn Profile optimization suggestion',
                 'Ongoing tailored resume optimization for each submitted job application',
                 'Email support from your Reverse Recruiter',
+                'Group coaching sessions with other job seekers and your Reverse Recruiter',
+                'Access to private community filled with course content and helpful resources',
   
                 
             ]}
@@ -148,19 +150,13 @@ export function Pricing() {
           />
         <Plan
             featured
-            name="Done-For-You ServiceNow Job Search Premium"
-            price="$379/month"
-            description="150 applications submitted to targeted jobs on your behalf per month"
-            href="https://calendly.com/beyondnow-sn/intro-call-clone"
+            name="DIY ServiceNow Job Search"
+            price="Coming soon"
+            description="Access to private community filled with course content and helpful resources"
+            href="#"
             features={[
-                'Initial discovery call with your Career Consultant',
-                '150 applications submitted to targeted jobs on your behalf per month',
-                'Report of all jobs applied to at end of month',
-                'LinkedIn Profile optimization suggestion',
-                'Ongoing tailored resume optimization for each submitted job application',
-                'Email support from your Reverse Recruiter',
-  
-                
+                'Access to private communtiy filled with course content and helpful resources',
+    
             ]}
             buttonText="Book initial call"
           />
