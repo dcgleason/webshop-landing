@@ -114,7 +114,7 @@ export function Pricing() {
             Book an initial consultation below. 
           </p>
         </div>
-        <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-2 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
+        <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-1 lg:grid-cols-1 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
           {/* <Plan
             name="Lite ServiceNow Career Support"
             price="$49/month"
@@ -148,7 +148,7 @@ export function Pricing() {
             ]}
             buttonText="Book initial call"
           />
-        <Plan
+        {/* <Plan
             featured
             name="DIY ServiceNow Job Search"
             price="Coming soon"
@@ -159,7 +159,7 @@ export function Pricing() {
     
             ]}
             buttonText="Book initial call"
-          />
+          /> */}
           {/* <Plan
             name="Performance-Based ServiceNow Job Search Support"
             price="$399"
