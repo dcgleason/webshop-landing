@@ -131,12 +131,12 @@ export function Pricing() {
           <Plan
       
             name="Done-For-You ServiceNow Job Search"
-            price="$179/month"
-            description="100 applications submitted to targeted jobs on your behalf per month"
+            price="$199/month"
+            description="50 applications submitted to targeted jobs on your behalf per month"
             href="https://calendly.com/beyondnow-sn/intro-call-clone"
             features={[
                 'Initial discovery call with your Career Consultant',
-                '100 applications submitted to targeted jobs on your behalf per month',
+                '50 applications submitted to targeted jobs on your behalf per month',
                 'Report of all jobs applied to at end of month',
                 'LinkedIn Profile optimization suggestion',
                 'Ongoing tailored resume optimization for each submitted job application',
@@ -150,11 +150,11 @@ export function Pricing() {
             featured
             name="Done-For-You ServiceNow Job Search Premium"
             price="$379/month"
-            description="200 applications submitted to targeted jobs on your behalf per month"
+            description="100 applications submitted to targeted jobs on your behalf per month"
             href="https://calendly.com/beyondnow-sn/intro-call-clone"
             features={[
                 'Initial discovery call with your Career Consultant',
-                '200 applications submitted to targeted jobs on your behalf per month',
+                '100 applications submitted to targeted jobs on your behalf per month',
                 'Report of all jobs applied to at end of month',
                 'LinkedIn Profile optimization suggestion',
                 'Ongoing tailored resume optimization for each submitted job application',
