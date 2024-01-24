@@ -131,7 +131,7 @@ export function Pricing() {
           <Plan
             featured
             name="Done-For-You ServiceNow Job Search"
-            price="5% of year 1 salary per month"
+            price="3% of year 1 salary per month"
             description="75 applications submitted to targeted jobs on your behalf per month"
             href="https://calendly.com/beyondnow-sn/intro-call-clone"
             features={[
