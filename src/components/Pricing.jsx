@@ -114,7 +114,7 @@ export function Pricing() {
             Book an initial consultation to get your free initial resume revision. 
           </p>
         </div>
-        <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-2 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
+        <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-3 lg:grid-cols-3 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
           {/* <Plan
             name="Lite ServiceNow Career Support"
             price="$49/month"
@@ -129,25 +129,38 @@ export function Pricing() {
             ]}
           /> */}
           <Plan
-            featured
-            name="DIY ServiceNow Job Search Toolkit"
-            price="$29"
-            description="All the resources you need to land your dream job in the ServiceNow ecosystem. "
+      
+            name="Done-For-You ServiceNow Job Search"
+            price="$179/month"
+            description="25 applications submitted to targeted jobs on your behalf per month"
             href="https://buy.stripe.com/5kA7uAbnr8qGaLCbIT"
             features={[
-                'ServiceNow professional 1-page resume template',
-                'Resume review checklist to help you differentiate yourself from other applicants',
-                'Cover letter template to help you draw attention to your application',
-                '"How to post on LinkedIn Drive Engagement" instructional slide-deck',
-                '"How to effectively network on LinkedIn" step-by-step guide',
-                '9 unique PDI project ideas to help your application stand out from the crowd',
+                'Initial discovery call with your Career Consultant',
+                '25 applications submitted to targeted jobs on your behalf per month',
+                'Report of all jobs applied to at end of month',
+  
+                
+            ]}
+            buttonText="Get the toolkit"
+          />
+        <Plan
+            featured
+            name="Done-For-You ServiceNow Job Search"
+            price="$379/month"
+            description="50 applications submitted to targeted jobs on your behalf per month"
+            href="https://buy.stripe.com/5kA7uAbnr8qGaLCbIT"
+            features={[
+                'Initial discovery call with your Career Consultant',
+                '50 applications submitted to targeted jobs on your behalf per month',
+                'Report of all jobs applied to at end of month',
+  
                 
             ]}
             buttonText="Get the toolkit"
           />
           <Plan
             name="Performance-Based ServiceNow Job Search Support"
-            price="$799"
+            price="$399"
             description="Job search support from your ServiceNow-trained career consultant. Pay when you get a job ($75 initial deposit)."
             href="https://calendly.com/beyondnow-sn/30min"
             features={[
