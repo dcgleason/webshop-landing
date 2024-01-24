@@ -11,22 +11,19 @@ const faqs = [
     {
       question: 'Why choose BeyondNow for ServiceNow career growth?',
       answer:
-        "BeyondNow is spearheaded by Dan Gleason, a ServiceNow expert with over 5 years of experience. Dan's career consulting is tailored to the ServiceNow ecosystem, providing personalized strategies to position you in roles that best fit your career ambitions. Dan's expertise extends to group calls where collective insights and strategies are shared. LinkedIn: https://www.linkedin.com/in/dcgleason/"
+        "BeyondNow is spearheaded by Dan Gleason, a ServiceNow expert with over 4 years of experience. Dan's reverse recruitment services are tailored to the ServiceNow ecosystem, provide personalized strategies to position you in roles that best fit your career ambitions. Dan's expertise extends to group calls where collective insights and strategies are shared. LinkedIn: https://www.linkedin.com/in/dcgleason/"
     },
     {
       question: 'What services does BeyondNow provide?',
-      answer: 'BeyondNow offers comprehensive career services including resume optimization, LinkedIn strategy, networking tactics, strategy calls for collaborative learning and support.'
+      answer: 'BeyondNow offers comprehensive reverser recruiting services including resume optimization tips, LinkedIn strategy, networking tactics, jobs apps submitted for you so that you can land your dream job faster.'
     },
   ],
   [
     {
       question: 'How can I contact Dan at BeyondNow?',
-      answer: "After subscribing, you'll get direct access to Dan via email and will be added to a 1:1 private Notion Teamspace task board that where you can post 'To-dos,' 'Questions,' etc. for Dan to review and respond to."
+      answer: "After subscribing, you'll have a dedicated Reverse Recruiter contact along with a community with exclusive content and like-minded job seekers and mentors to help you along your way."
     },
-    {
-      question: 'What is the structure of the 1:1 consulting call?',
-      answer: 'The 1:1 consulting call is a 30 minute call where you can ask Dan any questions you have about your job search. Dan will also provide you with personalized feedback based on his work with you.'
-    }
+
   ],
   [
     {
