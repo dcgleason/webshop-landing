@@ -114,7 +114,7 @@ export function Pricing() {
             Book an initial consultation to get your free initial resume revision. 
           </p>
         </div>
-        <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-3 lg:grid-cols-3 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
+        <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-2 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
           {/* <Plan
             name="Lite ServiceNow Career Support"
             price="$49/month"
@@ -145,7 +145,7 @@ export function Pricing() {
           />
         <Plan
             featured
-            name="Done-For-You ServiceNow Job Search"
+            name="Done-For-You ServiceNow Job Search Premium"
             price="$379/month"
             description="50 applications submitted to targeted jobs on your behalf per month"
             href="https://buy.stripe.com/5kA7uAbnr8qGaLCbIT"
@@ -158,7 +158,7 @@ export function Pricing() {
             ]}
             buttonText="Get the toolkit"
           />
-          <Plan
+          {/* <Plan
             name="Performance-Based ServiceNow Job Search Support"
             price="$399"
             description="Job search support from your ServiceNow-trained career consultant. Pay when you get a job ($75 initial deposit)."
@@ -175,7 +175,7 @@ export function Pricing() {
                         ]}
            buttonText="Revise my resume for free & book call"
 
-          />
+          /> */}
         </div>
       </Container>
     </section>
