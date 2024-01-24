@@ -31,10 +31,10 @@ export function Hero() {
        
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-     BeyondNow is a U.S.-based reverse recruiting agency that supports you through your job search process by offering up proven-to-work strategies around online networking and resume-building specific to the ServiceNow space and applies to jobs for you. 
+     BeyondNow is a U.S.-based, reverese recruiting agency that supports you through your job search process by offering up proven-to-work strategies around online networking and resume-building specific to the ServiceNow space and applies to jobs for you. 
       </p>
         <div className="mt-10 flex justify-center gap-x-6">
-        <Button href="#pricing">Apply today</Button>
+        <Button href="#pricing">Book initial call today</Button>
         {/* <Button
           href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           variant="outline"
