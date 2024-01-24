@@ -136,7 +136,7 @@ export function Pricing() {
             href="https://calendly.com/beyondnow-sn/intro-call-clone"
             features={[
                 'Initial discovery call with your Career Consultant',
-                '25 applications submitted to targeted jobs on your behalf per month',
+                '100 applications submitted to targeted jobs on your behalf per month',
                 'Report of all jobs applied to at end of month',
                 'LinkedIn Profile optimization suggestion',
                 'Ongoing tailored resume optimization for each submitted job application',
@@ -154,7 +154,7 @@ export function Pricing() {
             href="https://calendly.com/beyondnow-sn/intro-call-clone"
             features={[
                 'Initial discovery call with your Career Consultant',
-                '50 applications submitted to targeted jobs on your behalf per month',
+                '200 applications submitted to targeted jobs on your behalf per month',
                 'Report of all jobs applied to at end of month',
                 'LinkedIn Profile optimization suggestion',
                 'Ongoing tailored resume optimization for each submitted job application',
