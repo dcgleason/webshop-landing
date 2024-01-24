@@ -138,6 +138,9 @@ export function Pricing() {
                 'Initial discovery call with your Career Consultant',
                 '25 applications submitted to targeted jobs on your behalf per month',
                 'Report of all jobs applied to at end of month',
+                'LinkedIn Profile optimization suggestion',
+                'Ongoing tailored resume optimization for each submitted job application',
+                'Email support from your Reverse Recruiter',
   
                 
             ]}
@@ -153,6 +156,9 @@ export function Pricing() {
                 'Initial discovery call with your Career Consultant',
                 '50 applications submitted to targeted jobs on your behalf per month',
                 'Report of all jobs applied to at end of month',
+                'LinkedIn Profile optimization suggestion',
+                'Ongoing tailored resume optimization for each submitted job application',
+                'Email support from your Reverse Recruiter',
   
                 
             ]}
