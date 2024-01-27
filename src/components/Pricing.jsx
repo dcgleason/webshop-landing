@@ -141,7 +141,6 @@ export function Pricing() {
                 'LinkedIn Profile optimization suggestion',
                 'Ongoing tailored resume optimization for each submitted job application',
                 'Email support from your Reverse Recruiter',
-                'Group coaching sessions with other job seekers and your Reverse Recruiter',
                 'Access to private community filled with course content and helpful resources',
   
                 
