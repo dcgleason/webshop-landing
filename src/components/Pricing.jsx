@@ -132,7 +132,7 @@ export function Pricing() {
             featured
             name="Job Search Support Clinic"
             price="$49/month"
-            description="Job search support from your ServiceNow-trained career consultant."
+            description="Job search support from experienceed ServiceNow professionals. Cancel anytime"
             href="wwww.skool.com/beyondnow-premium"
             features={[
                 'LinkedIn Profile optimization suggestions',
