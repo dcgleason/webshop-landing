@@ -145,7 +145,7 @@ export function Pricing() {
   
                 
             ]}
-            buttonText="Join"
+            buttonText="Apply to join"
           />
         {/* <Plan
             featured
