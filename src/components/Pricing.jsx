@@ -136,12 +136,12 @@ export function Pricing() {
             href="wwww.skool.com/beyondnow-premium"
             features={[
                 'LinkedIn Profile optimization suggestions',
-                'Resume revisions tailored to each job posting',
-                'Cover letter revisions to help you stand out',
+                'Unlimited resume revisions tailored to each job posting',
+                'Unlimited Cover letter revisions to help you stand out',
                 'LinkedIn profile reviews to help you stand out to recruiters',
                 'PDI project ideas and developer support to augment your resume (if you lack work experience)',
-                'LinkedIn post reviews and feedback to get you noticed by hiring managers',
-                'LinkedIn direct message message reviews and feedback to help you more effectively build relationships with key decision makers',
+                'Unlimited LinkedIn post reviews and feedback to get you noticed by hiring managers',
+                'Unlimited LinkedIn direct message message reviews and feedback to help you more effectively build relationships with key decision makers',
   
                 
             ]}
