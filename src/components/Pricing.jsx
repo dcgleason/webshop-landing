@@ -130,22 +130,22 @@ export function Pricing() {
           /> */}
           <Plan
             featured
-            name="Done-For-You ServiceNow Job Search"
-            price="$25/month"
-            description="100 applications submitted to targeted jobs on your behalf per month"
-            href="https://calendly.com/beyondnow-sn/intro-call-clone"
+            name="Job Search Support Clinic"
+            price="$45/month"
+            description="Job search support from your ServiceNow-trained career consultant."
+            href="wwww.skool.com/beyondnow-premium"
             features={[
-                'Initial discovery call with your Career Consultant',
-                '100 applications submitted to targeted jobs on your behalf per month',
-                'Report of all jobs applied to at end of month',
-                'LinkedIn Profile optimization suggestion',
-                'Ongoing tailored resume optimization for each submitted job application',
-                'Email support from your Reverse Recruiter',
-                'Access to private community filled with course content and helpful resources',
+                'LinkedIn Profile optimization suggestions',
+                'Resume revisions tailored to each job posting',
+                'Cover letter revisions to help you stand out',
+                'LinkedIn profile reviews to help you stand out to recruiters',
+                'PDI project ideas and developer support to augment your resume (if you lack work experience)',
+                'LinkedIn post reviews and feedback to get you noticed by hiring managers',
+                'LinkedIn direct message message reviews and feedback to help you more effectively build relationships with key decision makers',
   
                 
             ]}
-            buttonText="Book initial call"
+            buttonText="Join"
           />
         {/* <Plan
             featured
