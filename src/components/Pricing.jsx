@@ -111,7 +111,7 @@ export function Pricing() {
             in the ServiceNow ecosystem.
           </h2>
           <p className="mt-4 text-lg text-slate-400">
-            Book an initial consultation below. 
+            Apply to join below. 
           </p>
         </div>
         <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-1 lg:grid-cols-1 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
