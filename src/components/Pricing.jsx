@@ -131,7 +131,7 @@ export function Pricing() {
           <Plan
             featured
             name="Job Search Support Clinic"
-            price="$49/month"
+            price="$49/month (for first 50 members, $99/month after that)"
             description="Job search support from experienceed ServiceNow professionals. Cancel anytime"
             href="https://www.skool.com/beyondnow-premium"
             features={[
