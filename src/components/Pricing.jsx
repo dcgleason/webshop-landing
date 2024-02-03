@@ -149,89 +149,58 @@ export function Pricing({ clientSecret, stripePromise}) {
 
   return (
     <section
-      id="pricing"
-      aria-label="Pricing"
-      className="bg-slate-900 py-20 sm:py-32"
-    >
-      <Container>
-        <div className="md:text-center">
-          <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl">
-          Let&apos;s get you your{' '}
-            <span className="relative whitespace-nowrap">
-              <SwirlyDoodle className="absolute left-0 top-1/2 h-[1em] w-full fill-blue-400" />
-             <span className="relative">dream job</span>
-            </span>{' '}
-            in the ServiceNow ecosystem.
-          </h2>
-          <p className="mt-4 text-lg text-slate-400">
-            Apply to join below. 
-          </p>
-        </div>
-        <div className="mt-16 grid grid-cols-2 gap-8 sm:grid-cols-2 lg:grid-cols-2 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
-          {/* Embedding the Loom Video next to the Plan */}
-          <VideoEmbed src="https://www.loom.com/embed/45561374fecd45efb670cb6a382ef982" />
-          <Plan
-            featured
-            name="SN Go-Getters Premium Community"
-            price="$49/month"
-            description="Job search support (Reverse Recruiting) from experienced ServiceNow professionals. Cancel anytime"
-            // href="https://www.skool.com/beyondnow-premium"
-            features={[
-                'Up to 25 jobs applied on your behalf per month',
-                'Live weekly group coaching calls',
-                'A new PDI project idea + user stories every 2 weeks to help you build your portfolio',
-                'A new ServiceNow mini-course (detailed notes summary + flashcards of NowLearning classes) released every month to help you learn new skills',
-                'Unlimited resume revisions tailored to each job posting',
-                'Unlimited Cover letter revisions to help you stand out',
-                'LinkedIn profile reviews to help you stand out to recruiters',
-                'Unlimited LinkedIn post reviews and feedback to get you noticed by hiring managers',
-                'Unlimited LinkedIn direct message message reviews and feedback to help you more effectively build relationships with key decision makers',
-  
-                
-            ]}
-            buttonText="Join now"
-            onJoinNowClick={handleJoinNowClick}
-          />
-        {/* <Plan
-            featured
-            name="DIY ServiceNow Job Search"
-            price="Coming soon"
-            description="Access to private community filled with course content and helpful resources"
-            href="#"
-            features={[
-                'Access to private communtiy filled with course content and helpful resources',
-    
-            ]}
-            buttonText="Book initial call"
-          /> */}
-          {/* <Plan
-            name="Performance-Based ServiceNow Job Search Support"
-            price="$399"
-            description="Job search support from your ServiceNow-trained career consultant. Pay when you get a job ($75 initial deposit)."
-            href="https://calendly.com/beyondnow-sn/30min"
-            features={[
-              'Access to private Notion teamspace filled with course content and helpful resources',
-              'Unlimted resume revisions tailored to each job posting',
-              'Unlimited cover letter revisions to help you stand out',
+    id="pricing"
+    aria-label="Pricing"
+    className="bg-slate-900 py-20 sm:py-32"
+  >
+    <Container>
+      <div className="md:text-center">
+        <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl">
+        Let&apos;s get you your{' '}
+          <span className="relative whitespace-nowrap">
+            <SwirlyDoodle className="absolute left-0 top-1/2 h-[1em] w-full fill-blue-400" />
+           <span className="relative">dream job</span>
+          </span>{' '}
+          in the ServiceNow ecosystem.
+        </h2>
+        <p className="mt-4 text-lg text-slate-400">
+          Apply to join below. 
+        </p>
+      </div>
+      <div className="mt-16 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 gap-8 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
+        {/* Embedding the Loom Video next to the Plan */}
+        <VideoEmbed src="https://www.loom.com/embed/45561374fecd45efb670cb6a382ef982" />
+        <Plan
+          featured
+          name="SN Go-Getters Premium Community"
+          price="$49/month"
+          description="Job search support (Reverse Recruiting) from experienced ServiceNow professionals. Cancel anytime"
+          features={[
+              'Up to 25 jobs applied on your behalf per month',
+              'Live weekly group coaching calls',
+              'A new PDI project idea + user stories every 2 weeks to help you build your portfolio',
+              'A new ServiceNow mini-course (detailed notes summary + flashcards of NowLearning classes) released every month to help you learn new skills',
+              'Unlimited resume revisions tailored to each job posting',
+              'Unlimited Cover letter revisions to help you stand out',
               'LinkedIn profile reviews to help you stand out to recruiters',
-              'PDI project ideas and developer support to augment your resume (if you lack work experience)',
-              'LinkedIn post reviews and feedback to get you noticed by hiring managers',
-              'LinkedIn direct message message reviews and feedback to help you more effectively build relationships with key decision makers',
-              '48 hour max response time + 30 min of 1:1 consulting per week',
-                        ]}
-           buttonText="Revise my resume for free & book call"
+              'Unlimited LinkedIn post reviews and feedback to get you noticed by hiring managers',
+              'Unlimited LinkedIn direct message message reviews and feedback to help you more effectively build relationships with key decision makers',
 
-          /> */}
-        </div>
-      </Container>
-      {isCheckoutModalOpen && (
-        <CheckoutModal
-          onClose={() => setCheckoutModalOpen(false)}
-          clientSecret={clientSecret} 
-          stripePromise={stripePromise}
-          
+              
+          ]}
+          buttonText="Join now"
+          onJoinNowClick={handleJoinNowClick}
         />
-      )}
-    </section>
+      </div>
+    </Container>
+    {isCheckoutModalOpen && (
+      <CheckoutModal
+        onClose={() => setCheckoutModalOpen(false)}
+        clientSecret={clientSecret} 
+        stripePromise={stripePromise}
+        
+      />
+    )}
+  </section>
   )
 }
