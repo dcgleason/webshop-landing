@@ -30,9 +30,14 @@ export default function Return() {
     return (
       <section id="success">
         <p>
-          We appreciate your business! A confirmation email will be sent to {customerEmail}.
+          We appreciate your business! Your communmity invite has been sent to {customerEmail} along with separate confirmation email.
 
-          If you have any questions, please email <a href="mailto:orders@example.com">orders@example.com</a>.
+          If you have any questions, please email <a href="mailto:orders@example.com">dan@beyondnow.services</a>! 
+
+          See you on the other side :)
+
+          -Dan
+          Founder of SN Go-Getters Premium (BeyondNow LLC) & Sr. SeviceNow Engineer
         </p>
       </section>
     )
