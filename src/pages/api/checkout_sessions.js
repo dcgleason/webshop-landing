@@ -11,11 +11,11 @@ export default async function handler(req, res) {
             {
               // Provide the exact Price ID (for example, pr_1234) of
               // the product you want to sell
-              price: '{{PRICE_ID}}',
+              price: 'price_1OfilTIrfpdkqjBLj1PTC24c',
               quantity: 1,
             },
           ],
-          mode: 'payment',
+          mode: 'subscription',
           return_url:
             `${req.headers.origin}/return?session_id={CHECKOUT_SESSION_ID}`,
         });
