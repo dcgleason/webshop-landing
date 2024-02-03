@@ -20,9 +20,9 @@ export default function Document(props) {
         {/* Insert the new script here */}
         <script dangerouslySetInnerHTML={{
           __html: `
-            (function(w){w.fpr=w.fpr||function(){w.fpr.q=w.fpr.q||[];w.fpr.q[arguments[0]=='set'?'unshift':'push'](arguments);};})(window);
-            fpr("init", {cid:"1wyzxuko"}); 
-            fpr("click");
+          (function(w){w.fpr=w.fpr||function(){w.fpr.q = w.fpr.q||[];w.fpr.q[arguments[0]=='set'?'unshift':'push'](arguments);};})(window);
+          fpr("init", {cid:"1wyzxuko"}); 
+          fpr("click");
           `
         }} />
         <script src="https://cdn.firstpromoter.com/fpr.js" async></script>
