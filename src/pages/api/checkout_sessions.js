@@ -22,6 +22,7 @@ export default async function handler(req, res) {
 
         res.send({clientSecret: session.client_secret});
       } catch (err) {
+        console.error(err); 
         res.status(err.statusCode || 500).json(err.message);
       }
       break;
