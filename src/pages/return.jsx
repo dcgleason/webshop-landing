@@ -32,7 +32,7 @@ export default function Return() {
         <p>
           We appreciate your business! Your communmity invite has been sent to {customerEmail} along with separate confirmation email.
 
-          If you have any questions, please email <a href="mailto:orders@example.com">dan@beyondnow.services</a>! 
+          If you have any questions, please email <a href="mailto:dan@beyondnow.services">dan@beyondnow.services</a>! 
 
           See you on the other side :)
 
