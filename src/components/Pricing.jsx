@@ -2,6 +2,10 @@ import clsx from 'clsx'
 
 import { Button } from '@/components/Button'
 import { Container } from '@/components/Container'
+import {
+  EmbeddedCheckoutProvider,
+  EmbeddedCheckout
+} from '@stripe/react-stripe-js';
 
 function SwirlyDoodle({ className }) {
   return (
@@ -19,6 +23,21 @@ function SwirlyDoodle({ className }) {
     </svg>
   )
 }
+
+function Checkout({ clientSecret }) {
+  return (
+    <div id="checkout">
+    {clientSecret && (
+      <EmbeddedCheckoutProvider
+        stripe={stripePromise}
+        options={{clientSecret}}
+      >
+        <EmbeddedCheckout />
+      </EmbeddedCheckoutProvider>
+    )}
+  </div>
+  )
+    }
 
 function CheckIcon({ className }) {
   return (
