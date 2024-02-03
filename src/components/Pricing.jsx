@@ -6,6 +6,7 @@ import {
   EmbeddedCheckoutProvider,
   EmbeddedCheckout
 } from '@stripe/react-stripe-js';
+import React, { useState } from 'react';
 
 function SwirlyDoodle({ className }) {
   return (
