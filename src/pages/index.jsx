@@ -10,6 +10,40 @@ import { PrimaryFeatures } from '@/components/PrimaryFeatures'
 import { SecondaryFeatures } from '@/components/SecondaryFeatures'
 import { Testimonials } from '@/components/Testimonials'
 import { useEffect } from 'react'
+import React, { useState } from 'react';
+import { loadStripe } from '@stripe/stripe-js';
+import {
+  EmbeddedCheckoutProvider,
+  EmbeddedCheckout
+} from '@stripe/react-stripe-js';
+
+const stripePromise = loadStripe(process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY);
+
+
+function Stripe() {
+  const [clientSecret, setClientSecret] = useState('');
+
+  useEffect(() => {
+    fetch("/api/checkout_sessions", {
+      method: "POST",
+    })
+      .then((res) => res.json())
+      .then((data) => setClientSecret(data.clientSecret));
+  }, []);
+
+  return (
+    <div id="checkout">
+      {clientSecret && (
+        <EmbeddedCheckoutProvider
+          stripe={stripePromise}
+          options={{clientSecret}}
+        >
+          <EmbeddedCheckout />
+        </EmbeddedCheckoutProvider>
+      )}
+    </div>
+  )
+}
 
 export default function Home() {
 
@@ -20,7 +54,6 @@ export default function Home() {
       window.fpr("referral", { email: email });
     }
   }, []);
-
 
   return (
     <>
@@ -48,7 +81,7 @@ export default function Home() {
         <SecondaryFeatures />
         <CallToAction />
         <Testimonials />
-        <Pricing />
+        <Pricing stripeComponent={Stripe} stripePromise={stripePromise} />
         <Faqs />
       </main>
       <Footer />
