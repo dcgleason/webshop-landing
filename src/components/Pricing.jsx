@@ -27,10 +27,9 @@ function SwirlyDoodle({ className }) {
 
 function CheckoutModal({ onClose, clientSecret, stripePromise}) {
   return (
-    // Modal backdrop with fixed positioning, full viewport width and height, flex for centering, z-index for layering, and a background color
-    <div className="fixed inset-0 z-40 flex items-center justify-center bg-black bg-opacity-50">
-      {/* Modal content with background, padding, width, margin for auto, and rounded corners */}
-      <div className="bg-white p-6 md:p-8 lg:p-12 rounded-lg max-w-lg mx-auto">
+    <div className="fixed inset-0 z-40 flex items-center justify-center bg-black bg-opacity-50 overflow-y-auto">
+      {/* Modal content with background, padding, width, margin for auto, rounded corners, and max height */}
+      <div className="bg-white p-6 md:p-8 lg:p-12 rounded-lg max-w-lg mx-auto max-h-[90vh] overflow-y-auto">
         <button
           onClick={onClose}
           className="mb-4 text-gray-700 hover:text-gray-900"
@@ -42,6 +41,7 @@ function CheckoutModal({ onClose, clientSecret, stripePromise}) {
     </div>
   );
 }
+
 
 function Checkout({ clientSecret, stripePromise }) {
   return (
