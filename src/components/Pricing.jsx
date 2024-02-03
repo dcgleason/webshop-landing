@@ -24,20 +24,36 @@ function SwirlyDoodle({ className }) {
   )
 }
 
-function Checkout({ clientSecret }) {
+function CheckoutModal({ onClose, clientSecret, stripePromise}) {
+  return (
+    // Modal backdrop with fixed positioning, full viewport width and height, flex for centering, z-index for layering, and a background color
+    <div className="fixed inset-0 z-40 flex items-center justify-center bg-black bg-opacity-50">
+      {/* Modal content with background, padding, width, margin for auto, and rounded corners */}
+      <div className="bg-white p-6 md:p-8 lg:p-12 rounded-lg max-w-lg mx-auto">
+        <button
+          onClick={onClose}
+          className="mb-4 text-gray-700 hover:text-gray-900"
+        >
+          Close
+        </button>
+        <Checkout clientSecret={clientSecret} stripePromise={stripePromise} />
+      </div>
+    </div>
+  );
+}
+
+function Checkout({ clientSecret, stripePromise }) {
   return (
     <div id="checkout">
-    {clientSecret && (
-      <EmbeddedCheckoutProvider
-        stripe={stripePromise}
-        options={{clientSecret}}
-      >
-        <EmbeddedCheckout />
-      </EmbeddedCheckoutProvider>
-    )}
-  </div>
-  )
-    }
+      {clientSecret && (
+        <EmbeddedCheckoutProvider stripe={stripePromise} options={{ clientSecret }}>
+          <EmbeddedCheckout />
+        </EmbeddedCheckoutProvider>
+      )}
+    </div>
+  );
+}
+
 
 function CheckIcon({ className }) {
   return (
@@ -65,7 +81,7 @@ function CheckIcon({ className }) {
   )
 }
 
-function Plan({ name, price, description, href, features, featured = false, buttonText }) {
+function Plan({ name, price, description, href, features, featured = false, buttonText, onJoinNowClick }) {
   return (
     <section
       className={clsx(
@@ -105,6 +121,7 @@ function Plan({ name, price, description, href, features, featured = false, butt
         color="white"
         className="mt-8"
         aria-label={`Get started with the ${name} plan for ${price}`}
+        onClick={onJoinNowClick} 
       >
         {buttonText}
       </Button>
@@ -119,7 +136,14 @@ const VideoEmbed = ({ src }) => (
 );
 
 
-export function Pricing() {
+export function Pricing({ clientSecret, stripePromise}) {
+
+  const [isCheckoutModalOpen, setCheckoutModalOpen] = useState(false);
+
+  const handleJoinNowClick = () => {
+    setCheckoutModalOpen(true);
+  };
+
   return (
     <section
       id="pricing"
@@ -160,7 +184,8 @@ export function Pricing() {
   
                 
             ]}
-            buttonText="Apply to join"
+            buttonText="Join now"
+            onJoinNowClick={handleJoinNowClick}
           />
         {/* <Plan
             featured
@@ -194,6 +219,14 @@ export function Pricing() {
           /> */}
         </div>
       </Container>
+      {isCheckoutModalOpen && (
+        <CheckoutModal
+          onClose={() => setCheckoutModalOpen(false)}
+          clientSecret={clientSecret} 
+          stripePromise={stripePromise}
+          
+        />
+      )}
     </section>
   )
 }
