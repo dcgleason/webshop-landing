@@ -140,11 +140,19 @@ const VideoEmbed = ({ src }) => (
 export function Pricing({ clientSecret, stripePromise}) {
 
   useEffect(() => {
-    const email = new URLSearchParams(window.location.search).get('email');
-    if (email) {
-      console.log('email', email);
-      window.fpr("referral", { email: email });
-    }
+    const attemptReferralTracking = () => {
+      if (typeof window.fpr === 'function') {
+        const email = new URLSearchParams(window.location.search).get('email');
+        if (email) {
+          window.fpr("referral", { email: email });
+        }
+      } else {
+        // Retry after a delay if fpr is not defined
+        setTimeout(attemptReferralTracking, 500);
+      }
+    };
+  
+    attemptReferralTracking();
   }, []);
 
   const [isCheckoutModalOpen, setCheckoutModalOpen] = useState(false);
