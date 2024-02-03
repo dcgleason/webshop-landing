@@ -9,7 +9,7 @@ export default function Return() {
     const queryString = window.location.search;
     const urlParams = new URLSearchParams(queryString);
     const sessionId = urlParams.get('session_id');
-
+  
     fetch(`/api/checkout_sessions?session_id=${sessionId}`, {
       method: "GET",
     })
@@ -17,8 +17,14 @@ export default function Return() {
       .then((data) => {
         setStatus(data.status);
         setCustomerEmail(data.customer_email);
+        // Check if the status is 'complete' and the First Promoter script is loaded
+        if (data.status === 'complete' && typeof window.fpr === 'function') {
+          // Assuming 'email' is the correct parameter to track the referral
+          window.fpr("referral", { email: data.customer_email });
+        }
       });
   }, []);
+  
 
   if (status === 'open') {
     return (
