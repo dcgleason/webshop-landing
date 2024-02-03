@@ -139,7 +139,16 @@ const VideoEmbed = ({ src }) => (
 
 export function Pricing({ clientSecret, stripePromise}) {
 
+  useEffect(() => {
+    const email = new URLSearchParams(window.location.search).get('email');
+    if (email) {
+      console.log('email', email);
+      window.fpr("referral", { email: email });
+    }
+  }, []);
+
   const [isCheckoutModalOpen, setCheckoutModalOpen] = useState(false);
+  
 
   const handleJoinNowClick = () => {
     setCheckoutModalOpen(true);

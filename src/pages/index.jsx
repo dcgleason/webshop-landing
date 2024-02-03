@@ -29,13 +29,7 @@ export default function Home() {
       console.log('clientSecret', clientSecret);
   }, []);
 
-  useEffect(() => {
-    const email = new URLSearchParams(window.location.search).get('email');
-    if (email) {
-      console.log('email', email);
-      window.fpr("referral", { email: email });
-    }
-  }, []);
+
 
   return (
     <>
