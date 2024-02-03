@@ -93,6 +93,13 @@ function Plan({ name, price, description, href, features, featured = false, butt
   )
 }
 
+const VideoEmbed = ({ src }) => (
+  <div className="video-container" style={{ padding: '56.25% 0 0 0', position: 'relative' }}>
+    <iframe src={src} frameBorder="0" style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%' }} allowFullScreen></iframe>
+  </div>
+);
+
+
 export function Pricing() {
   return (
     <section
@@ -114,20 +121,9 @@ export function Pricing() {
             Apply to join below. 
           </p>
         </div>
-        <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-1 lg:grid-cols-1 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
-          {/* <Plan
-            name="Lite ServiceNow Career Support"
-            price="$49/month"
-            description="Pause or cancel anytime. "
-            href="https://buy.stripe.com/3cscOU4Z37mCf1S8wC"
-            features={[
-              '100% U.S.-based consultants (require that clients plan to work in an English-speaking country)',
-              'Initial discovery call with your Career Consultant',
-              'LinkedIn Profile optimization suggestion',
-              'Ongoing tailored resume optimization for each submitted job application',
-              'Email support from your Career Consultant',
-            ]}
-          /> */}
+        <div className="mt-16 grid grid-cols-2 gap-8 sm:grid-cols-2 lg:grid-cols-2 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
+          {/* Embedding the Loom Video next to the Plan */}
+          <VideoEmbed src="https://www.loom.com/embed/45561374fecd45efb670cb6a382ef982" />
           <Plan
             featured
             name="Job Search Support Clinic"
