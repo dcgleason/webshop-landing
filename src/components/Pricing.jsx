@@ -170,9 +170,9 @@ export function Pricing({ clientSecret, stripePromise}) {
           <VideoEmbed src="https://www.loom.com/embed/45561374fecd45efb670cb6a382ef982" />
           <Plan
             featured
-            name="SN Go-Getters Premium Community (Reverse Recruiting)"
+            name="SN Go-Getters Premium Community"
             price="$49/month"
-            description="Job search support from experienced ServiceNow professionals. Cancel anytime"
+            description="Job search support (Reverse Recruiting) from experienced ServiceNow professionals. Cancel anytime"
             // href="https://www.skool.com/beyondnow-premium"
             features={[
                 'Up to 25 jobs applied on your behalf per month',
