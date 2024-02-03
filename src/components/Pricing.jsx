@@ -169,16 +169,18 @@ export function Pricing({ clientSecret, stripePromise}) {
           <VideoEmbed src="https://www.loom.com/embed/45561374fecd45efb670cb6a382ef982" />
           <Plan
             featured
-            name="Job Search Support Clinic"
+            name="SN Go-Getters Premium Community (Reverse Recruiting)"
             price="$49/month (for first 50 members, $98/month after that)"
             description="Job search support from experienceed ServiceNow professionals. Cancel anytime"
             href="https://www.skool.com/beyondnow-premium"
             features={[
-                'LinkedIn Profile optimization suggestions',
+                'Up to 25 jobs applied on your behalf per month',
+                'Live weekly group coaching calls',
+                'A new PDI project idea + user stories every 2 weeks to help you build your portfolio',
+                'A new ServiceNow mini-course (detailed notes summary + flashcards of NowLearning classes) released every month to help you learn new skills',
                 'Unlimited resume revisions tailored to each job posting',
                 'Unlimited Cover letter revisions to help you stand out',
                 'LinkedIn profile reviews to help you stand out to recruiters',
-                'PDI project ideas and developer support to augment your resume (if you lack work experience)',
                 'Unlimited LinkedIn post reviews and feedback to get you noticed by hiring managers',
                 'Unlimited LinkedIn direct message message reviews and feedback to help you more effectively build relationships with key decision makers',
   
