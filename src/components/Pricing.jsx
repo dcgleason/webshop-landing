@@ -171,8 +171,8 @@ export function Pricing({ clientSecret, stripePromise}) {
           <Plan
             featured
             name="SN Go-Getters Premium Community (Reverse Recruiting)"
-            price="$49/month (for first 50 members, $98/month after that)"
-            description="Job search support from experienceed ServiceNow professionals. Cancel anytime"
+            price="$49/month (for a limited time)"
+            description="Job search support from experienced ServiceNow professionals. Cancel anytime"
             // href="https://www.skool.com/beyondnow-premium"
             features={[
                 'Up to 25 jobs applied on your behalf per month',
