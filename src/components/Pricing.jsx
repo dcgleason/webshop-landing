@@ -184,7 +184,7 @@ export function Pricing({ clientSecret, stripePromise}) {
               'Unlimited Cover letter revisions to help you stand out',
               'LinkedIn profile reviews to help you stand out to recruiters',
               'Unlimited LinkedIn post reviews and feedback to get you noticed by hiring managers',
-              'Unlimited LinkedIn direct message message reviews and feedback to help you more effectively build relationships with key decision makers',
+              'Unlimited LinkedIn direct message reviews and feedback to help you more effectively build relationships with key decision makers',
 
               
           ]}
