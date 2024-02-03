@@ -16,6 +16,7 @@ export default function Home() {
   useEffect(() => {
     const email = new URLSearchParams(window.location.search).get('email');
     if (email) {
+      console.log('email', email);
       window.fpr("referral", { email: email });
     }
   }, []);
