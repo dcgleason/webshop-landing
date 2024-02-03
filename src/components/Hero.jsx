@@ -34,7 +34,7 @@ export function Hero() {
      BeyondNow is a U.S.-based, reverese recruiting agency that supports you through your job search process by offering proven-to-work, community-based strategies around online networking and resume-building specific to the ServiceNow space and applies to jobs for you. 
       </p>
         <div className="mt-10 flex justify-center gap-x-6">
-        <Button href="#pricing">Join the premium community today</Button>
+        <Button href="#pricing">Join the SN Go-Getters Premium community today</Button>
         {/* <Button
           href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           variant="outline"
