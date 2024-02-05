@@ -43,7 +43,7 @@ export default function Return() {
           See you on the other side :)
 
           -Dan
-          Founder of SN Go-Getters Premium (BeyondNow LLC) & Sr. SeviceNow Engineer
+          Founder of ServiceNow Go-Getters Premium (BeyondNow LLC) & Sr. SeviceNow Engineer
         </p>
       </section>
     )
