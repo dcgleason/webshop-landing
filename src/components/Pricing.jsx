@@ -122,7 +122,7 @@ function Plan({ name, price, description, href, features, featured = false, butt
         color="white"
         className="mt-8"
         aria-label={`Get started with the ${name} plan for ${price}`}
-        onClick={onJoinNowClick} 
+        // onClick={onJoinNowClick} 
       >
         {buttonText}
       </Button>
@@ -174,6 +174,7 @@ export function Pricing({ clientSecret, stripePromise}) {
           featured
           name="ServiceNow Go-Getters Premium Community"
           price="$49/month"
+          href="https://www.skool.com/beyondnow-premium"
           description="Job search support (Reverse Recruiting) from experienced ServiceNow professionals. Cancel anytime"
           features={[
               'Up to 25 jobs applied on your behalf per month',
