@@ -169,7 +169,7 @@ export function Pricing({ clientSecret, stripePromise}) {
       </div>
       <div className="mt-16 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 gap-8 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
         {/* Embedding the Loom Video next to the Plan */}
-        <VideoEmbed src="https://www.loom.com/embed/45561374fecd45efb670cb6a382ef982" />
+        <VideoEmbed src="https://www.loom.com/share/291e5417e1da46c3b70c983568142f49?sid=24eed7b5-ae27-48bc-b619-e95b60211d87" />
         <Plan
           featured
           name="ServiceNow Go-Getters Premium Community"
