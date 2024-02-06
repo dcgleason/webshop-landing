@@ -178,7 +178,8 @@ export function Pricing({ clientSecret, stripePromise}) {
           description="Job search support (Reverse Recruiting) from experienced ServiceNow professionals. Cancel anytime"
           features={[
               'Up to 25 jobs applied on your behalf per month',
-              'Live weekly group coaching calls',
+              'Live weekly group coaching calls by a Sr. ServiceNow Engineer',
+              '1:1 support (from a Sr. ServiceNow Engineer) when needed',
               'A new PDI project idea + user stories every 2 weeks to help you build your portfolio',
               'A new ServiceNow mini-course (detailed notes summary + flashcards of NowLearning classes) released every month to help you learn new skills',
               'Unlimited resume revisions tailored to each job posting',
