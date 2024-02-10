@@ -50,7 +50,7 @@ const features = [
     name: "Technical Support for Unique PDI Projects",
     summary: (
       <>
-      Stand out technically in a crowded field of applicants with <span className="underline">unique PDI project ideas & expert technical help</span>.
+      Stand out technically in a crowded field of applicants with <span className="underline">expert technical support</span>.
       </>
     ),
     description:
