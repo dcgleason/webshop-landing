@@ -76,9 +76,9 @@ export function Testimonials() {
           <h2 className="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">
             What others are saying
           </h2>
-          <p className="mt-4 text-lg tracking-tight text-slate-700">
+          {/* <p className="mt-4 text-lg tracking-tight text-slate-700">
            Here is what some past clients and colleagues have said.
-          </p>
+          </p> */}
         </div>
         <ul
           role="list"
