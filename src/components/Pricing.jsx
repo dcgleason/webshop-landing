@@ -183,7 +183,7 @@ export function Pricing({ clientSecret, stripePromise}) {
               'A new PDI project idea + user stories every 2 weeks to help you build your portfolio',
               'ServiceNow mini-course (detailed notes summary + flashcards of NowLearning classes) released every month study for your next ServiceNow certification',
               'Resume revision & cover letters checklists + resume templates to help you stand out to recruiters',
-              'Coursework of LinkedIn presence building best practices',
+              'Coursework on LinkedIn presence building best practices',
               
           ]}
           buttonText="Join now"
