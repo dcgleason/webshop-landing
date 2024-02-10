@@ -179,11 +179,12 @@ export function Pricing({ clientSecret, stripePromise}) {
           features={[
               'Opt-in to have 10 jobs applied on your behalf per month',
               'Live weekly group coaching calls by a Sr. ServiceNow Engineer to help you with your job search',
-              '1:1 support from a Sr. ServiceNow Engineer for personalized advice, resume reviews, or technical support ($49/session)',
               'A new PDI project idea + user stories every 2 weeks to help you build your portfolio',
               'Resume revision & cover letter checklists + resume template to help you stand out to recruiters',
               'ServiceNow mini-course (detailed notes summary + flashcards of NowLearning classes) released every month to help you study for your next ServiceNow certification',
               'Coursework on LinkedIn presence building best practices',
+              '1:1 support from a Sr. ServiceNow Engineer for personalized advice, resume reviews, or technical support ($49/session)',
+              'Access to the ServiceNow Job Seekers community',
               
           ]}
           buttonText="Join now"
