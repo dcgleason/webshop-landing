@@ -13,7 +13,7 @@ const features = [
     name: "Personalized Resume Reviews & Job Apps Submissions",
     summary: (
       <>
-     Reduce the overwhelm and anxiety job searching can induce by <span className="underline">relying on seasoned professionals to show you the way</span>.
+     Reduce the anxiety job searching can bring on by <span className="underline">relying on seasoned ServiceNow professionals</span>.
       </>
     ),
     description: "Get your resume and cover letters reviewed and have up to 25 jobs applied on your behalf per month by a Sr. ServiceNow Engineer.",
@@ -47,14 +47,14 @@ const features = [
     },
   },
   {
-    name: "Technical Support for Standout PDI Projects",
+    name: "Technical Support for Unique PDI Projects",
     summary: (
       <>
-      Stand out technically in a crowded field of applicants with <span className="underline">unique PDI project ideas based on real customer pain points & expert technical help</span>.
+      Stand out technically in a crowded field of applicants with <span className="underline">unique PDI project ideas & expert technical help</span>.
       </>
     ),
     description:
-      "New PDI project ideas + user stories every 2 weeks to help you build-up your portfolio and technical from an experienced ServiceNow Engineer if you have questions while building your side PDI projects.",
+      "New PDI project ideas based on real customer pain points + user stories every 2 weeks to help you build-up your portfolio and technical from an experienced ServiceNow Engineer if you have questions while building your side PDI projects.",
     image: screenshotInventory,
     icon: function ContactsIcon() {
       return (
