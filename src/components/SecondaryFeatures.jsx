@@ -13,7 +13,7 @@ const features = [
     name: "Personalized Resume Reviews & Job Apps Submissions",
     summary: (
       <>
-     Reduce the anxiety job searching can bring on by <span className="underline">relying on seasoned ServiceNow professionals</span>.
+     <span className="underline">Reduce the anxiety</span> job searching can bring on.
       </>
     ),
     description: "Get your resume and cover letters reviewed and have up to 25 jobs applied on your behalf per month by a Sr. ServiceNow Engineer.",
@@ -50,7 +50,7 @@ const features = [
     name: "Technical Support for Unique PDI Projects",
     summary: (
       <>
-      Stand out technically in a crowded field of applicants with <span className="underline">expert technical support</span>.
+       <span className="underline">Stand out technically</span> in a crowded field of applicants.
       </>
     ),
     description:
@@ -77,7 +77,7 @@ const features = [
     name: "LinkedIn Profile Reviews & Networking Strategies",
     summary: (
       <>
-     Avoid the common pitfalls when developing an online presence with <span className="underline">tried and true LinkedIn networking and presence-boosting strategies</span>.
+     <span className="underline">Avoid the common pitfalls</span> when developing an online presence.
       </>
     ),
     description:
