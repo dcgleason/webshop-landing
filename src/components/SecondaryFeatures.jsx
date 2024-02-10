@@ -10,7 +10,7 @@ import screenshotProfitLoss from '@/images/screenshots/profit-loss.png'
 
 const features = [
   {
-    name: "Personalized Resume Reviews & Job Apps Submissions",
+    name: "Job Apps Submissions & Personalized Resume Reviews",
     summary: (
       <>
      <span className="underline">Reduce the anxiety</span> job searching can bring on.
