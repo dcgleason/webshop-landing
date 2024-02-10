@@ -16,7 +16,7 @@ const features = [
      <span className="underline">Reduce the anxiety</span> job searching can bring on.
       </>
     ),
-    description: "Get your resume and cover letters reviewed and have up to 25 jobs applied on your behalf per month by a Sr. ServiceNow Engineer.",
+    description: "Get your resume and cover letters reviewed by a Sr. ServiceNow developer and have up to 25 jobs applied on your behalf per month.",
     image: screenshotProfitLoss,
     icon: function ReportingIcon() {
       let id = useId()
@@ -54,7 +54,7 @@ const features = [
       </>
     ),
     description:
-      "New PDI project ideas based on real customer pain points + user stories every 2 weeks to help you build-up your portfolio and technical from an experienced ServiceNow Engineer if you have questions while building your side PDI projects.",
+      "Build PDI project ideas with the help of an experienced ServiceNow developer. New project ideas + user stories every 2 weeks.",
     image: screenshotInventory,
     icon: function ContactsIcon() {
       return (
