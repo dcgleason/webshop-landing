@@ -179,14 +179,14 @@ export function Pricing({ clientSecret, stripePromise}) {
           features={[
               'Up to 25 jobs applied on your behalf per month',
               'Live weekly group coaching calls by a Sr. ServiceNow Engineer to help you with your job search',
-              '1:1 support from a Sr. ServiceNow Engineer (when needed)',
-              'A new PDI project idea + user stories every 2 weeks to help you build your portfolio',
-              'A new ServiceNow mini-course (detailed notes summary + flashcards of NowLearning classes) released every month to help you learn new skills',
-              'Unlimited resume revisions tailored to each job posting',
-              'Unlimited Cover letter revisions to help you stand out',
-              'LinkedIn profile reviews to help you stand out to recruiters',
-              'Unlimited LinkedIn post reviews and feedback to get you noticed by hiring managers',
-              'Unlimited LinkedIn direct message reviews and feedback to help you more effectively build relationships with key decision makers',
+              '(Optional) 1:1 support from a Sr. ServiceNow Engineer for personalized job search support',
+              'PDI project ideas + user stories every 2 weeks to help you build your portfolio',
+              'ServiceNow mini-course -- detailed notes summary + flashcards of NowLearning classes -- released every month to help you learn new skills',
+              'Unlimited resume revisions tailored to each job posting (for a limited time)',
+              'Unlimited Cover letter revisions to help you stand out (for a limited time)',
+              'LinkedIn profile reviews to help you stand out to recruiters (for a limited time)',
+              'Unlimited LinkedIn post reviews and feedback to get you noticed by hiring managers (for a limited time)',
+              'Unlimited LinkedIn direct message reviews and feedback to help you more effectively build relationships with key decision makers (for a limited time)',
 
               
           ]}

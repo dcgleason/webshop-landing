@@ -10,13 +10,13 @@ import screenshotProfitLoss from '@/images/screenshots/profit-loss.png'
 
 const features = [
   {
-    name: 'Resume & LinkedIn Optimization',
+    name: "Personalized Resume Reviews & Job Apps Submissions",
     summary: (
       <>
-        Improve your resume & LinkedIn profile <span className="underline">so that you stand out</span>.
+     Reduce the overwhelm and anxiety job searching can induce by <span className="underline">relying on seasoned professionals to show you the way</span>.
       </>
     ),
-    description: "Strategies to help you improve your resume & LinkedIn presence from the perspective of a hiring manager.",
+    description: "Get your resume and cover letters reviewed and have up to 25 jobs applied on your behalf per month by a Sr. ServiceNow Engineer.",
     image: screenshotProfitLoss,
     icon: function ReportingIcon() {
       let id = useId()
@@ -47,14 +47,14 @@ const features = [
     },
   },
   {
-    name: "Personalized Networking Tips & Job Apps Submissions",
+    name: "Technical Support for Standout PDI Projects",
     summary: (
       <>
-       Job applications & networking tips that will <span className="underline">get your foot in the door</span>.
+      Stand out technically in a crowded field of applicants with <span className="underline">unique PDI project ideas based on real customer pain points & expert technical help</span>.
       </>
     ),
     description:
-      "Coursework and personalized tips around effective LinkedIn networking strategy to you stand out to recruiters and hiring managers.",
+      "New PDI project ideas + user stories every 2 weeks to help you build-up your portfolio and technical from an experienced ServiceNow Engineer if you have questions while building your side PDI projects.",
     image: screenshotInventory,
     icon: function ContactsIcon() {
       return (
@@ -74,14 +74,14 @@ const features = [
   },
 
   {
-    name: 'Technical Support for PDI Projects',
+    name: "LinkedIn Profile Reviews & Networking Strategies",
     summary: (
       <>
-     Build impressive PDI projects that help <span className="underline">get you the job</span>.
+     Avoid the common pitfalls when developing an online presence with <span className="underline">tried and true LinkedIn networking and presence-boosting strategies</span>.
       </>
     ),
     description:
-    "Technical ServiceNow support for your Personal Develeloper Instance projects so that your technical ability is properly highlighted in your applications.",
+    "Get your LinkedIn profile reviewed and learn how to network effectively to get referrals and interviews.",
     image: screenshotContacts,
     icon: function InventoryIcon() {
       return (
