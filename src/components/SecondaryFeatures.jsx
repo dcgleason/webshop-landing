@@ -16,7 +16,7 @@ const features = [
      <span className="underline">Reduce the anxiety</span> job searching can bring on.
       </>
     ),
-    description: "Get your resume and cover letters reviewed by a Sr. ServiceNow developer. Up to 25 jobs applied on your behalf per month.",
+    description: "Get your resume and cover letters reviewed by a Sr. ServiceNow developer. 10 jobs applied on your behalf per month.",
     image: screenshotProfitLoss,
     icon: function ReportingIcon() {
       let id = useId()

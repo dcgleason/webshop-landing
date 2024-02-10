@@ -177,7 +177,7 @@ export function Pricing({ clientSecret, stripePromise}) {
           href="https://www.skool.com/beyondnow-premium"
           description="Job search support (Reverse Recruiting) from experienced ServiceNow professionals. Cancel anytime"
           features={[
-              'Opt-in to have 25 jobs applied on your behalf per month',
+              'Opt-in to have 10 jobs applied on your behalf per month',
               'Live weekly group coaching calls by a Sr. ServiceNow Engineer to help you with your job search',
               '1:1 support from a Sr. ServiceNow Engineer for personalized advice, resume reviews, or technical support ($49/session)',
               'A new PDI project idea + user stories every 2 weeks to help you build your portfolio',
