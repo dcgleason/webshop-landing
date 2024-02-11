@@ -173,7 +173,7 @@ export function Pricing({ clientSecret, stripePromise}) {
         <Plan
           featured
           name="ServiceNow Job Seekers Community"
-          price="$7/month"
+          price="$49/month"
           href="https://www.skool.com/beyondnow-premium"
           description="Job search support (Reverse Recruiting) from experienced ServiceNow professionals. Cancel anytime"
           features={[
