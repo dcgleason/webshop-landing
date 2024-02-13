@@ -177,13 +177,13 @@ export function Pricing({ clientSecret, stripePromise}) {
           href="https://www.skool.com/beyondnow-premium"
           description="Job search support (Reverse Recruiting) from experienced ServiceNow professionals. Cancel anytime"
           features={[
-              'Opt-in to have 10 jobs applied on your behalf per month',
               'Live weekly group coaching / mastermind calls led by a Sr. ServiceNow Engineer to help answer your job search-related questions',
               '1:1 support from a Sr. ServiceNow Engineer for personalized advice, resume reviews, or technical support',
               'A new PDI project idea + user stories every 2 weeks to help you build your portfolio',
               'Resume revision & cover letter checklists + resume template to help you stand out to recruiters',
               'ServiceNow mini-course (detailed notes summary + flashcards of NowLearning classes) released every month to help you study for your next ServiceNow certification',
               'Coursework on LinkedIn presence building best practices',
+              'Opt-in to have accecss to an app that helps you apply to more jobs in less time on LinkedIn',
               'Access to the ServiceNow Job Seekers community',
               
           ]}
