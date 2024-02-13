@@ -183,7 +183,7 @@ export function Pricing({ clientSecret, stripePromise}) {
               'Resume revision & cover letter checklists + resume template to help you stand out to recruiters',
               'ServiceNow mini-course (detailed notes summary + flashcards of NowLearning classes) released every month to help you study for your next ServiceNow certification',
               'Coursework on LinkedIn presence building best practices',
-              'Opt-in to have accecss to an app that helps you apply to more jobs in less time on LinkedIn',
+              'Opt-in to have accecss to an app that helps you apply to more jobs in less time on LinkedIn (in development)',
               'Access to the ServiceNow Job Seekers community',
               
           ]}
