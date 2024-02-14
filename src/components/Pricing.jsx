@@ -175,7 +175,7 @@ export function Pricing({ clientSecret, stripePromise}) {
           name="ServiceNow Job Seekers Community"
           price="$49/month"
           href="https://www.skool.com/beyondnow-premium"
-          description="Community-based job search support from experienced ServiceNow professionals. Cancel anytime"
+          description="Community-based support from experienced ServiceNow professionals. Cancel anytime"
           features={[
               'Get personlized job search support from experienced ServiceNow professionals (resume reviews, interview prep, career advice, etc.)',
               'Build relationships via small group masterminds that resolve personal blockers for you',
