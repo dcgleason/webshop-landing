@@ -47,14 +47,14 @@ const features = [
     },
   },
   {
-    name: "Technical Support & Exclusive KT Sessions",
+    name: "Technical Support & Expert KT Sessions",
     summary: (
       <>
        <span className="underline">Stand out technically</span> in a crowded field.
       </>
     ),
     description:
-      "Build PDI project ideas based on real-world pain points with expert assistance or learn from the experts in exclusive KT sessions you won't find in NowLearning.",
+      "Build PDI project ideas based on real-world pain points with expert assistance and get insight into real-world problems and solutions you won't find in NowLearning.",
     image: screenshotInventory,
     icon: function ContactsIcon() {
       return (
