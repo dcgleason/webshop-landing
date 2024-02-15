@@ -28,7 +28,7 @@ export function Hero() {
           </svg>
           <span className="relative">UP</span> 
         </span>{' '}
-        your ServiceNow development career.
+        your ServiceNow career.
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
      BeyondNow is a U.S.-based, career coaching firm for ServiceNow professionals that utilizes advice & knowledge from expert ServiceNow engineers and community-based support to level up in your career faster. 
