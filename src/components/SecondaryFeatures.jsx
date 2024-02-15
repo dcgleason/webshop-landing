@@ -47,14 +47,14 @@ const features = [
     },
   },
   {
-    name: "Technical Support for Unique PDI Projects",
+    name: "Technical Support & Exclusive KT Sessions",
     summary: (
       <>
-       <span className="underline">Stand out technically</span> in a crowded field of applicants.
+       <span className="underline">Stand out technically</span> in a crowded field.
       </>
     ),
     description:
-      "Build PDI project ideas with the help of an experienced ServiceNow developer. New project ideas + user stories every 2 weeks.",
+      "Build PDI project ideas based on real-world pain points with expert assistance or learn from the experts in exclusive KT sessions you won't find in NowLearning.",
     image: screenshotInventory,
     icon: function ContactsIcon() {
       return (
