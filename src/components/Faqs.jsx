@@ -9,29 +9,29 @@ import { faChevronDown, faChevronUp } from '@fortawesome/free-solid-svg-icons';
 const faqs = [
   [
     {
-      question: 'Why choose BeyondNow for ServiceNow career growth?',
+      question: 'Why choose ServiceNow Career Builders (BeyondNow LLC) for ServiceNow career growth?',
       answer:
-        "BeyondNow is spearheaded by Dan Gleason, a ServiceNow expert with over 4 years of experience. Dan's reverse recruitment services are tailored to the ServiceNow ecosystem, provide personalized strategies to position you in roles that best fit your career ambitions. Dan's expertise extends to group calls where collective insights and strategies are shared. LinkedIn: https://www.linkedin.com/in/dcgleason/"
+        "BeyondNow is spearheaded by Dan Gleason, a ServiceNow expert with over 4 years of experience, and is the LLC behind ServiceNow Career Builders. ServiceNow Career Builders is tailored to the ServiceNow ecosystem, and in the community you get access to personalized knowledge sharing sessions, group masterminds calls, etc. Dan's expertise extends to group calls where collective insights and strategies are shared. LinkedIn: https://www.linkedin.com/in/dcgleason/"
     },
     {
-      question: 'What services does BeyondNow provide?',
-      answer: 'BeyondNow offers comprehensive reverser recruiting services including resume optimization tips, LinkedIn strategy, networking tactics, jobs apps submitted for you so that you can land your dream job faster.'
+      question: 'What services does ServiceNow Career Builders provide?',
+      answer: 'ServiceNow Career Builders community offers comprehensive career coaching & skill development services including resume optimization tips, LinkedIn-networking strategies, exclusive personalized ServiceNow knowledge transfer sessions from experienced SN devs, and more to help you meet your career goals more quickly.'
     },
   ],
   [
     {
-      question: 'How can I contact Dan at BeyondNow?',
-      answer: "After subscribing, you'll have a dedicated Reverse Recruiter contact along with a community with exclusive content and like-minded job seekers and mentors to help you along your way."
+      question: 'How can I contact Dan at BeyondNow LLC / ServiceNow Career Builders?',
+      answer: "After subscribing, you'll have access to a link to book time with Dan. You can also email him at dan@beyondnow.services."
     },
 
   ],
   [
     {
-      question: 'Does BeyondNow offer refunds?',
-      answer: 'BeyondNow values your satisfaction; while refunds are not available, you have the flexibility to cancel your subscription anytime should your needs change.'
+      question: 'Does BeyondNow LLC offer refunds?',
+      answer: 'While refunds are not available, you have the flexibility to cancel your subscription anytime should your needs or goals change.'
     },
     {
-      question: 'Which communication methods does BeyondNow use?',
+      question: 'I have additional questions. How can I get in touch?',
       answer: 'Welcome to email Dan at dan@beyondnow.services at any point if you have questions.'
     }
   ]

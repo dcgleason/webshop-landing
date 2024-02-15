@@ -43,7 +43,7 @@ export default function Return() {
           See you on the other side :)
 
           -Dan
-          Founder of ServiceNow Job Seekers (BeyondNow LLC) & Sr. SeviceNow Engineer
+          Founder of ServiceNow Career Builders (BeyondNow LLC) & Sr. SeviceNow Engineer
         </p>
       </section>
     )
