@@ -178,12 +178,12 @@ export function Pricing({ clientSecret, stripePromise}) {
           description="Community-based support from experienced ServiceNow professionals. Cancel anytime"
           features={[
               'Get personlized knowledge-transfer sessions with Sr. ServiceNow Developers',
-              'Build relationships via small group masterminds that resolve personal blockers for you',
-              'Get a new PDI project idea every 2 weeks to build and assistance of a Sr. ServiceNow Developer',
+              'Build relationships and solve problems communally via small, weekly group masterminds',
+              'Get a new PDI project idea every 2 weeks to build your ServiceNow portfolio',
               "Access NowLearning course summaries and flashcards to help you study and pass ServiceNow certifications",
               "Access exclusive ServiceNow coursework based on real-world problems (i.e. what they don't teach you in NowLearning)",
               "Get access to a GPT trained on the ServiceNow community forum data for quality ServiceNow releated answers",
-              'Access to the ServiceNow Job Seekers community',
+              'Access to the ServiceNow Career Builders community',
               
           ]}
           buttonText="Join now"
