@@ -172,18 +172,17 @@ export function Pricing({ clientSecret, stripePromise}) {
         <VideoEmbed src="https://www.loom.com/embed/3044b6e42a4f414b9b379a78a9217323" /> 
         <Plan
           featured
-          name="ServiceNow Job Seekers Community"
+          name="ServiceNow Career Builders Community"
           price="$49/month"
           href="https://www.skool.com/beyondnow-premium"
           description="Community-based support from experienced ServiceNow professionals. Cancel anytime"
           features={[
-              'Get personlized knowledge-transfer sessions with Sr. ServiceNow Developers',
-              'Build relationships and solve problems communally via small, weekly group masterminds',
-              'Get a new PDI project idea every 2 weeks to build your ServiceNow portfolio',
-              "Access NowLearning course summaries and flashcards to help you study and pass ServiceNow certifications",
-              "Access exclusive ServiceNow coursework based on real-world problems (i.e. what they don't teach you in NowLearning)",
-              "Get access to a GPT trained on the ServiceNow community forum data for quality ServiceNow releated answers",
-              'Access to the ServiceNow Career Builders community',
+              'Personalized KT sessions with Senior ServiceNow Developers',
+              'Weekly group masterminds to foster relationships and tackle challenges together.',
+              'A bi-weekly influx of PDI project ideas to enhance your ServiceNow portfolio',
+              "Exclusive access to NowLearning summaries, flashcards, and coursework designed around real-world scenarios.",
+              "A GPT powered by ServiceNow community forum data, ready to provide high-quality answers to your pressing questions.",
+              "An open door to the ServiceNow Career Builders community, where opportunities and support abound.",
               
           ]}
           buttonText="Join now"

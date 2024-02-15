@@ -16,7 +16,7 @@ const features = [
      <span className="underline">Reduce the anxiety</span> job searching can bring on.
       </>
     ),
-    description: "Get your resume and cover letters reviewed by a Sr. ServiceNow developer.",
+    description: "Have your application materials critiqued by a Senior ServiceNow developer to ensure you stand out from the crowd.",
     image: screenshotProfitLoss,
     icon: function ReportingIcon() {
       let id = useId()
