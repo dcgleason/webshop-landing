@@ -182,7 +182,7 @@ export function Pricing({ clientSecret, stripePromise}) {
               'A bi-weekly influx of PDI project ideas to enhance your ServiceNow portfolio',
               "Exclusive access to NowLearning summaries, flashcards, and coursework designed around real-world scenarios.",
               "A GPT powered by ServiceNow community forum data, ready to provide high-quality answers to your pressing questions.",
-              "An open door to the ServiceNow Career Builders community, where opportunities and support abound.",
+              "An open door to the ServiceNow Career Builders community.",
               
           ]}
           buttonText="Join now"
