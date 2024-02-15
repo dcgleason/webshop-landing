@@ -10,13 +10,13 @@ import screenshotProfitLoss from '@/images/screenshots/profit-loss.png'
 
 const features = [
   {
-    name: "Job Apps Submissions & Personalized Resume Reviews",
+    name: "Personalized Cover Letter & Resume Reviews",
     summary: (
       <>
      <span className="underline">Reduce the anxiety</span> job searching can bring on.
       </>
     ),
-    description: "Get your resume and cover letters reviewed by a Sr. ServiceNow developer, and (coming soon) 10 jobs applied on your behalf per month.",
+    description: "Get your resume and cover letters reviewed by a Sr. ServiceNow developer.",
     image: screenshotProfitLoss,
     icon: function ReportingIcon() {
       let id = useId()
