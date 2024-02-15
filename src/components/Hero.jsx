@@ -32,7 +32,7 @@ export function Hero() {
         <br></br>ServiceNow career.
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-     BeyondNow is a U.S.-based, career coaching firm for ServiceNow professionals that provides advice and hard-to-aquire industry knowledge from expert ServiceNow engineers, to get that job, promotion, etc. 
+     BeyondNow is a U.S.-based, career coaching firm for ServiceNow professionals that provides advice and hard-to-aquire industry knowledge from expert ServiceNow engineers, to help you get that job, promotion, etc. 
       </p>
         <div className="mt-10 flex justify-center gap-x-6">
         <Button href="#pricing">Join the ServiceNow Career Builders community today</Button>
