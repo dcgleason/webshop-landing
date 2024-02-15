@@ -181,7 +181,7 @@ export function Pricing({ clientSecret, stripePromise}) {
               'Build relationships via small group masterminds that resolve personal blockers for you',
               'Get a new PDI project idea every 2 weeks to build and assistance of a Sr. ServiceNow Developer',
               "Access NowLearning course summaries and flashcards to help you study and pass ServiceNow certifications",
-              "Get exlucsive access to software bot that automates the LinkedIn job search process (coming soon)",
+              "Get exlucsive access to a GPT trained on the ServiceNow community forum data for quality ServiceNow releated answers",
               'Access to the ServiceNow Job Seekers community',
               
           ]}
