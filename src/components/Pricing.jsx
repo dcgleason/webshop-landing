@@ -177,12 +177,12 @@ export function Pricing({ clientSecret, stripePromise}) {
           href="https://www.skool.com/beyondnow-premium"
           description="Community-based support from experienced ServiceNow professionals. Cancel anytime"
           features={[
-              'Personalized KT sessions with Senior ServiceNow Developers',
-              'Weekly group masterminds to foster relationships and tackle challenges together.',
-              'A bi-weekly influx of PDI project ideas to enhance your ServiceNow portfolio',
-              "Exclusive access to NowLearning summaries, flashcards, and coursework designed around real-world scenarios.",
-              "A GPT powered by ServiceNow community forum data, ready to provide high-quality answers to your pressing questions.",
-              "An open door to the ServiceNow Career Builders community.",
+              '1:1 KT sessions with a Sr. ServiceNow Developer',
+              'Weekly masterminds to build relationships with other SN professionals and tackle challenges together.',
+              'A bi-weekly release of PDI project idea & video solution to enhance your ServiceNow resume.',
+              "Access to NowLearning summaries, flashcards, and coursework designed around real-world scenarios.",
+              "Acesss to a GPT (AI bot) powered by ServiceNow community data.",
+              "Invite to ServiceNow Career Builders community.",
               
           ]}
           buttonText="Join now"
