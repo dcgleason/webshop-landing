@@ -159,7 +159,7 @@ export function Pricing({ clientSecret, stripePromise}) {
         We&apos;ll build you up{' '}
           <span className="relative whitespace-nowrap">
             <SwirlyDoodle className="absolute left-0 top-1/2 h-[1em] w-full fill-blue-400" />
-           <span className="relative">dream job</span>
+           <span className="relative"></span>
           </span>{' '}
           in the ServiceNow ecosystem.
         </h2>
