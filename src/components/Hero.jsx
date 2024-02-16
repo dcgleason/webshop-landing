@@ -28,7 +28,7 @@ export function Hero() {
           </svg>
           <span className="relative">career</span> 
         </span>{' '}
-        to the next level?
+        (in SN) to the next level?
         <br></br>
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
