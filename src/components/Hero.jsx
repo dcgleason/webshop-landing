@@ -28,11 +28,11 @@ export function Hero() {
           </svg>
           <span className="relative">career</span> 
         </span>{' '}
-        (in SN) to the next level?
+         to the next level?
         <br></br>
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-      We help you level up your career with a cool app that literally applies to jobs for you, courses that give you information you won&apos;t find elsewhere, and masterminds with experienced SN devs that prevent you from being stuck. 
+      We help ServiceNow admin, devs, and consultants level up their career with a cool app that literally applies to jobs for you, courses that give you information you won&apos;t find elsewhere, and masterminds with experienced SN devs to prevent you from being stuck. 
       </p>
         <div className="mt-10 flex justify-center gap-x-6">
         <Button href="#pricing">Join the ServiceNow Career Builders community</Button>
