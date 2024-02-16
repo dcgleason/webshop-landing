@@ -50,7 +50,7 @@ const features = [
     name: "Weekly masterminds led by a Sr. ServiceNow developer",
     summary: (
       <>
-       <span className="underline">Get your questions</span> answered quickly.
+       <span className="underline">Get your questions answered</span>  quickly.
       </>
     ),
     description:
@@ -77,7 +77,7 @@ const features = [
     name: "Coursework that helps you advance faster",
     summary: (
       <>
-     <span className="underline">Learn how to do cool</span> sh*t in ServiceNow.
+     <span className="underline">Learn how to do cool sh*t</span> in ServiceNow.
       </>
     ),
     description:
