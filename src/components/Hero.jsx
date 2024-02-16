@@ -16,7 +16,7 @@ export function Hero() {
   return (
     <Container className="pb-16 pt-20 text-center lg:pt-32">
       <h1 className="mx-auto max-w-4xl font-display text-5xl font-medium tracking-tight text-slate-900 sm:text-7xl">
-      Hey! Do you want to take your{' '}
+      Hey! Want to take your{' '}
         <span className="relative whitespace-nowrap text-[#235373]">
           <svg
             aria-hidden="true"
@@ -32,7 +32,7 @@ export function Hero() {
         <br></br>
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-      We help ServiceNow admin, devs, and consultants level up their career with a cool app that literally applies to jobs for you, courses that give you information you won&apos;t find elsewhere, and masterminds with experienced SN devs to prevent you from being stuck. 
+      We help ServiceNow admin, devs, and consultants <em>level up</em> their career with a cool app that literally applies to jobs for you, course work that gives you information you won&apos;t find elsewhere, and weekly masterminds with experienced SN devs that prevent you from being stuck. 
       </p>
         <div className="mt-10 flex justify-center gap-x-6">
         <Button href="#pricing">Join the ServiceNow Career Builders community</Button>
