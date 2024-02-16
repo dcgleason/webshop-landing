@@ -47,7 +47,7 @@ const features = [
     },
   },
   {
-    name: "Weekly masterminds led by a Sr. ServiceNow developer",
+    name: "Weekly masterminds with a Sr. ServiceNow developer",
     summary: (
       <>
       Get your <span className="underline">questions answered</span>  quickly.
