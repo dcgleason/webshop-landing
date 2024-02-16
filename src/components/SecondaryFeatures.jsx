@@ -50,7 +50,7 @@ const features = [
     name: "Weekly masterminds led by a Sr. ServiceNow developer",
     summary: (
       <>
-       <span className="underline">Get your questions answered</span>  quickly.
+      Get your <span className="underline">questions answered</span>  quickly.
       </>
     ),
     description:
