@@ -32,7 +32,7 @@ export function Hero() {
         <br></br>
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-      We help ServiceNow admin, devs, and consultants <em>level up</em> their career with a cool app that literally applies to jobs for you, course work that gives you information you won&apos;t find elsewhere, and weekly masterminds with experienced SN devs that prevent you from being stuck. 
+      We help ServiceNow admin, devs, and consultants <em>level up</em> their career with a cool app that literally applies to jobs for you, coursework that gives you information you won&apos;t find elsewhere, and weekly masterminds with experienced SN devs that prevent you from being stuck. 
       </p>
         <div className="mt-10 flex justify-center gap-x-6">
         <Button href="#pricing">Join the ServiceNow Career Builders community</Button>
