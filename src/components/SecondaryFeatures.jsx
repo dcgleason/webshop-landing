@@ -81,7 +81,7 @@ const features = [
       </>
     ),
     description:
-    "Access a library of courses that give you information on ServiceNow best-practices taht you won't find elsewhere. New course released every month.",
+    "Access a library of courses that give you information on ServiceNow best-practices that you won't find elsewhere. New course released every month.",
     image: screenshotContacts,
     icon: function InventoryIcon() {
       return (
