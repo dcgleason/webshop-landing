@@ -13,7 +13,7 @@ const features = [
     name: "A cool app that applies to jobs for you...literally",
     summary: (
       <>
-     <span className="underline">Reduce the anxiety</span> job searching can bring on.
+     <span className="underline">Reduce the amount of time</span> job searching can take.
       </>
     ),
     description: "Get your jobs apps reviewed by a Sr. ServiceNow developer and then send it out to job postings automatically. ",
@@ -50,11 +50,11 @@ const features = [
     name: "Weekly masterminds led by a Sr. ServiceNow developer",
     summary: (
       <>
-       <span className="underline">Stand out technically</span> in a crowded field.
+       <span className="underline">Get your questions</span> answered quickly.
       </>
     ),
     description:
-      "Get your questions answered by a Sr. ServiceNow professional and learn from the questions of others. New PDI project idea & solution released biweekly, as well.",
+      "Get your questions answered by a Sr. ServiceNow professional and learn from the challenges of others.",
     image: screenshotInventory,
     icon: function ContactsIcon() {
       return (
@@ -77,11 +77,11 @@ const features = [
     name: "Coursework that helps you advance faster",
     summary: (
       <>
-     <span className="underline">Avoid the common pitfalls</span> by learning from the experiences of others.
+     <span className="underline">Learn how to do cool</span> sh*t in ServiceNow.
       </>
     ),
     description:
-    "Access a library of courses that give you information on ServiceNow best-practices that you won't find elsewhere. New course released every month.",
+    "Access a library of courses that give you information on ServiceNow implementations that you won't find elsewhere. New course released every month.",
     image: screenshotContacts,
     icon: function InventoryIcon() {
       return (
