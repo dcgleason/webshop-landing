@@ -16,7 +16,7 @@ export function Hero() {
   return (
     <Container className="pb-16 pt-20 text-center lg:pt-32">
       <h1 className="mx-auto max-w-4xl font-display text-5xl font-medium tracking-tight text-slate-900 sm:text-7xl">
-   Let's get you to the{' '}
+      Let&apos;s get you to the{' '}
         <span className="relative whitespace-nowrap text-[#235373]">
           <svg
             aria-hidden="true"
@@ -28,11 +28,11 @@ export function Hero() {
           </svg>
           <span className="relative">next level</span> 
         </span>{' '}
-        in your career. 
+        in your SN career. 
         <br></br>
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-     We help you level up your career with a cool app that literally applies to jobs for you, courses that give you information you won&apos;t find elsewhere, and masterminds with experienced SN devs that prevent you from being stuck. 
+      help you level up your career with a cool app that literally applies to jobs for you, courses that give you information you won&apos;t find elsewhere, and masterminds with experienced SN devs that prevent you from being stuck. 
       </p>
         <div className="mt-10 flex justify-center gap-x-6">
         <Button href="#pricing">Join the ServiceNow Career Builders community</Button>
