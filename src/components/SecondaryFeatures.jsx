@@ -10,13 +10,13 @@ import screenshotProfitLoss from '@/images/screenshots/profit-loss.png'
 
 const features = [
   {
-    name: "Personalized Cover Letter & Resume Reviews",
+    name: "A cool app that applies to jobs for you...literally",
     summary: (
       <>
      <span className="underline">Reduce the anxiety</span> job searching can bring on.
       </>
     ),
-    description: "Have your application materials critiqued by a Senior ServiceNow developer to ensure you stand out from the crowd.",
+    description: "Get your jobs apps reviewed by a Sr. ServiceNow developer and then send it out to job postings automatically. ",
     image: screenshotProfitLoss,
     icon: function ReportingIcon() {
       let id = useId()
@@ -47,14 +47,14 @@ const features = [
     },
   },
   {
-    name: "Technical Support & Expert KT Sessions",
+    name: "Weekly masterminds led by a Sr. ServiceNow developer",
     summary: (
       <>
        <span className="underline">Stand out technically</span> in a crowded field.
       </>
     ),
     description:
-      "Build PDI project ideas based on real-world pain points with expert assistance and get insight into real-world problems and solutions you won't find in NowLearning.",
+      "Get your questions answered by a Sr. ServiceNow professional and learn from the questions of others. New PDI project idea & solution released biweekly, as well.",
     image: screenshotInventory,
     icon: function ContactsIcon() {
       return (
@@ -74,14 +74,14 @@ const features = [
   },
 
   {
-    name: "LinkedIn Profile Reviews & Networking Strategies",
+    name: "Coursework that helps you advance faster",
     summary: (
       <>
-     <span className="underline">Avoid the common pitfalls</span> when developing an online presence.
+     <span className="underline">Avoid the common pitfalls</span> by learning from the experiences of others..in course-form.
       </>
     ),
     description:
-    "Get your LinkedIn profile reviewed and learn how to network effectively to get referrals and interviews.",
+    "Access a library of courses that give you information on ServiceNow best-practices taht you won't find elsewhere. New course released every month.",
     image: screenshotContacts,
     icon: function InventoryIcon() {
       return (
