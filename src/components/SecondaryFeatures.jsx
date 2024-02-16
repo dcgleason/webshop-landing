@@ -77,7 +77,7 @@ const features = [
     name: "Coursework that helps you advance faster",
     summary: (
       <>
-     <span className="underline">Avoid the common pitfalls</span> by learning from the experiences of others..in course-form.
+     <span className="underline">Avoid the common pitfalls</span> by learning from the experiences of others.
       </>
     ),
     description:
