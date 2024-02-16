@@ -10,7 +10,7 @@ import screenshotProfitLoss from '@/images/screenshots/profit-loss.png'
 
 const features = [
   {
-    name: "A cool app that applies to jobs for you...literally (coming soon)",
+    name: "A cool app that applies to jobs for you...(coming soon)",
     summary: (
       <>
      <span className="underline">Reduce the amount of time</span> job searching can take.
