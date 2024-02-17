@@ -36,7 +36,7 @@ export default function Home() {
           <title>BeyondNow LLC: Career Development for ServiceNow Professionals</title>
           <meta
             name="description"
-            content="BeyondNow LLC is a career coaching agency that helps you through your ServiceNow job search & career challenges by optimizing your resume, helping you improve you LinkedIn presence, consulting you through effective networking strategies that get you referrals, providing you interview & negotiation prep, and applying to jobs for you."
+            content="BeyondNow LLC is a career coaching firm that helps you through your ServiceNow job search & career challenges by optimizing your resume, helping you improve you LinkedIn presence, consulting you through effective networking strategies that get you referrals, aproviding you interview & negotiation prep, and applying to jobs for you."
           />
           <meta name="keywords" content="IT Consulting, ServiceNow, Subscription, Career Consulting, Career Coaching, job search"/>
       </Head>
