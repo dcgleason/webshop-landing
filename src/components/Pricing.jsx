@@ -156,15 +156,15 @@ export function Pricing({ clientSecret, stripePromise}) {
     <Container>
       <div className="md:text-center">
         <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl">
-        We&apos;ll build you up{' '}
+        Join{' '}
           <span className="relative whitespace-nowrap">
             <SwirlyDoodle className="absolute left-0 top-1/2 h-[1em] w-full fill-blue-400" />
            <span className="relative"></span>
           </span>{' '}
-          in the ServiceNow ecosystem.
+         below
         </h2>
         <p className="mt-4 text-lg text-slate-400">
-          Apply to join. 
+        
         </p>
       </div> 
       <div className="mt-16 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 gap-8 sm:max-w-xl sm:mx-auto lg:max-w-none xl:mx-0">
