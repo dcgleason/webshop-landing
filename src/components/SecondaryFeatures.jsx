@@ -54,7 +54,7 @@ const features = [
       </>
     ),
     description:
-      "Get your questions answered by a Sr. ServiceNow professional and learn from the challenges of others.",
+      "Get your questions answered by a Senior ServiceNow professional and learn from the challenges of others.",
     image: screenshotInventory,
     icon: function ContactsIcon() {
       return (
