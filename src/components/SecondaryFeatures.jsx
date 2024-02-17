@@ -16,7 +16,7 @@ const features = [
      <span className="underline">Reduce the amount of time</span> job searching can take.
       </>
     ),
-    description: "Get your jobs apps reviewed by a Sr. ServiceNow developer and then send them out to job postings automatically. ",
+    description: "Get your jobs apps reviewed by a Sr. ServiceNow developer and then send them out to job postings automatically with a single click (coming soon).",
     image: screenshotProfitLoss,
     icon: function ReportingIcon() {
       let id = useId()
