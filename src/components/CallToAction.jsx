@@ -21,10 +21,10 @@ export function CallToAction() {
       <Container className="relative">
         <div className="mx-auto max-w-lg text-center">
           <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl">
-          &quot;[Dan] gave me real truths to the career that I&apos;m grateful for. [Dan&apos;s] an awesome guy...and really gave me the confidence I needed (throughout the process)&quot;
+          Dominik H. got 2 job offers within a month of joining...with a 57% pay increase. He attributes this in part to the resume revivions he received from Dan.
                     </h2>
           <p className="mt-4 text-lg tracking-tight text-white">
-            - Adam H., Junior ServiceNow Developer (past member, got a job in 3 weeks)
+            Get started today and join the community.
           </p>
           <Button href="/#pricing" color="white" className="mt-10">
             Apply now
