@@ -11,10 +11,10 @@ const testimonials = [
   [
     {
       content:
-       "Danny is GREAT to work with and an awesome collaborator. He and I completed this integration of two systems. At one point after he left the project, a comment was made ‘Where is Dan? Bring him back because we actually get work done. Given the opportunity, I would flip tables over to work with him again. He's that good.",
+       "Dominik H. got 2 job offers within a month of joining...with a 57% pay increase. He attributes this in part to the resume revivions he received from Dan.",
       author: {
-        name: 'Addam D.',
-        role: 'Lead Solutions Architect',
+        name: 'Dominik H.',
+        role: 'ServiceNow Test Engineer',
         image: avatarImage4,
       },
     },
