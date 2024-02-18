@@ -24,10 +24,10 @@ export function CallToAction() {
           Dominik H. got 2 job offers within a month of joining...with a 57% pay increase. He attributes this in part to the resume revivions he received from Dan.
                     </h2>
           <p className="mt-4 text-lg tracking-tight text-white">
-            Get started today and join the community.
+            Get started today.
           </p>
           <Button href="/#pricing" color="white" className="mt-10">
-            Apply now
+            Join now
           </Button>
         </div>
       </Container>
