@@ -173,15 +173,16 @@ export function Pricing({ clientSecret, stripePromise}) {
         <Plan
           featured
           name="ServiceNow Career Builders Community"
-          price="$49/month"
+          price="$7/month"
           href="https://www.skool.com/beyondnow-premium"
           description="Community-based support from experienced ServiceNow professionals. Cancel anytime"
           features={[
-              '1:1 KT sessions with a Sr. ServiceNow Developer',
+              'One 1:1 KT sessions with a Sr. ServiceNow Developer/ week',
               'Weekly masterminds to build relationships with other SN professionals and tackle challenges together.',
               'A bi-weekly release of PDI project idea & video solution to enhance your ServiceNow resume.',
               "Access to NowLearning summaries, flashcards, and coursework designed around real-world scenarios.",
               "Acesss to a GPT (AI bot) powered by ServiceNow community data.",
+              "Acesss to a PDI Idea Generator GPT (AI bot).",
               "Invite to ServiceNow Career Builders community.",
               
           ]}
