@@ -181,10 +181,10 @@ export function Pricing({ clientSecret, stripePromise}) {
               'Weekly masterminds to build relationships with other SN professionals and tackle challenges together.',
               'A bi-weekly release of PDI project idea & video solution to enhance your ServiceNow resume.',
               "Access to NowLearning summaries, flashcards, and coursework designed around real-world scenarios.",
-              "Acesss to a GPT (AI bot) powered by ServiceNow community data.",
-              "Acesss to a PDI Idea Generator GPT (AI bot).",
+              "Access to a GPT (AI bot) powered by ServiceNow community data.",
+              "Access to a PDI Idea Generator GPT (AI bot).",
               "Invite to ServiceNow Career Builders community.",
-              "Access to a ServiceNow Career Buidlers app / code that applies to jobs for you (coming soon)",
+              "Access to a ServiceNow Career Builders app / code that applies to jobs for you (coming soon)",
               
           ]}
           buttonText="Join now"
