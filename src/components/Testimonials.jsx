@@ -11,9 +11,9 @@ const testimonials = [
   [
     {
       content:
-       "Dominik H. got 2 job offers within a month of joining...with a 57% pay increase. He attributes this in part to the resume revivions he received from Dan.",
+       "D. got 2 job offers within a month of joining...with a 57% pay increase. He attributes this in part to the resume revivions he received from Dan.",
       author: {
-        name: 'Dominik H.',
+        name: 'D. H.',
         role: 'ServiceNow Test Engineer',
         image: avatarImage4,
       },
